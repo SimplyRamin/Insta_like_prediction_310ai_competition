@@ -13,7 +13,7 @@
 11,CrK_zvLAofv,GraphImage,cristiano,14451079,103278,1 person,baby,No Object,No Object,No Object,No Object
 12,CrGMggNq1Cb,GraphSidecar,cristiano,9705257,48990,1 person,playing football,playing soccer,ball,stadium,No Object
 13,CrEHoMbK0_C,GraphImage,cristiano,8006265,45701,1 person,st,"ing, phone, wrist watch, screen and tablet",No Object,No Object,No Object
-14,Cq8QZGDIix1,GraphImage,cristiano,6771138,48148,‎2 people,people golfing,golf course,text,No Object,No Object
+14,Cq8QZGDIix1,GraphImage,cristiano,6771138,48148,2 people,people golfing,golf course,text,No Object,No Object
 15,CqxINLiOCPK,GraphVideo,cristiano,2851765,35347,No Object,No Object,No Object,No Object,No Object,No Object
 16,CqoZ8pRo91y,GraphSidecar,cristiano,12950245,94281,1 person,playing football,playing soccer,ball,stadium,No Object
 17,CqjQjCII98k,GraphSidecar,cristiano,7526703,45901,2 people,people playing football,people playing soccer,text,No Object,No Object
@@ -24,10 +24,10 @@
 22,Cra8IRetvaD,GraphImage,leomessi,5836716,39458,1 person,playing football,playing soccer,cleats,No Object,No Object
 23,CrX_ap2ND34,GraphSidecar,leomessi,10436285,73436,1 person,playing soccer,,No Object,No Object,No Object
 24,CrUHRtzNU1v,GraphSidecar,leomessi,7255017,28839,3 people,people playing football,people playing soccer,stadium,text,No Object
-25,CrG1zcBNFQj,GraphSidecar,leomessi,9592735,44614,‎1 person,playing football,playing soccer,stadium,text,No Object
+25,CrG1zcBNFQj,GraphSidecar,leomessi,9592735,44614,1 person,playing football,playing soccer,stadium,text,No Object
 26,CrBD0t6A9TB,GraphVideo,leomessi,3111917,28338,No Object,No Object,No Object,No Object,No Object,No Object
 27,Cq8fgKmMKUF,GraphVideo,leomessi,3906159,30277,No Object,No Object,No Object,No Object,No Object,No Object
-28,CqylP2gNluK,GraphSidecar,leomessi,10072927,74156,‎2 people,people playing football,people playing soccer,stadium,text,No Object
+28,CqylP2gNluK,GraphSidecar,leomessi,10072927,74156,2 people,people playing football,people playing soccer,stadium,text,No Object
 29,CqpuojyLhzb,GraphVideo,leomessi,4950139,36007,No Object,No Object,No Object,No Object,No Object,No Object
 30,CqWzeG3Nr4l,GraphSidecar,leomessi,13211614,80603,8 people,people playing football,people playing soccer,stadium,No Object,No Object
 31,CqT54JdrbzD,GraphSidecar,leomessi,14769905,77375,2 people,people playing football,people playing soccer,No Object,No Object,No Object
@@ -52,7 +52,7 @@
 50,CrL0VKMJy-L,GraphImage,kyliejenner,3323024,6375,1 person,dress,No Object,No Object,No Object,No Object
 51,CrKdwGFuOKh,GraphImage,kyliejenner,1275360,3444,1 person,leather,magazine,turtleneck,miniskirt,text
 52,CrFPeFlriwz,GraphSidecar,kyliejenner,7139279,15467,1 person,coat,jacket,top,No Object,No Object
-53,CrBkzMiLhEo,GraphSidecar,kyliejenner,478000,3610,‎one or more people,makeup,brush,text,No Object,No Object
+53,CrBkzMiLhEo,GraphSidecar,kyliejenner,478000,3610,one or more people,makeup,brush,text,No Object,No Object
 54,Cq56eczJjKo,GraphSidecar,kyliejenner,6645275,10738,3 people,people dancing,No Object,No Object,No Object,No Object
 55,Cq4MNCJJSyx,GraphImage,kyliejenner,4229054,5767,11 people,baby,polaroid,No Object,No Object,No Object
 56,CrbVuYBvEwx,GraphVideo,therock,91639,651,No Object,No Object,No Object,No Object,No Object,No Object
@@ -103,7 +103,7 @@
 101,CrJKbv-L130,GraphSidecar,khloekardashian,685563,3566,1 person,makeup,leather,turtleneck,No Object,No Object
 102,CrEnBpRvJs5,GraphImage,khloekardashian,964395,5431,1 person,golf cart,dune buggy,No Object,No Object,No Object
 103,CrBq4ClPbe_,GraphSidecar,khloekardashian,2011266,6693,2 people,child,balloon,No Object,No Object,No Object
-104,Cq_cw0cvFBb,GraphSidecar,khloekardashian,2964034,21615,‎1 person,baby,doll,Easter egg,text,No Object
+104,Cq_cw0cvFBb,GraphSidecar,khloekardashian,2964034,21615,1 person,baby,doll,Easter egg,text,No Object
 105,Cq8d8V5Jvuz,GraphSidecar,khloekardashian,1994015,11947,2 people,makeup,No Object,No Object,No Object,No Object
 106,Cq3HoSnLIn8,GraphSidecar,khloekardashian,1530970,5104,3 people,baby,Easter egg,No Object,No Object,No Object
 107,Cq1aJ_lvICv,GraphSidecar,khloekardashian,1629987,5159,1 person,baby,smiling,headb,and bow,No Object
@@ -117,7 +117,7 @@
 115,CpYkqEVvLZv,GraphSidecar,justinbieber,2004765,23347,2 people,people st,"ing, sweatsuit and park",No Object,No Object,No Object
 116,CpYkewCPiJh,GraphSidecar,justinbieber,3432258,21691,4 people,people st,"ing, balloon and park",No Object,No Object,No Object
 117,CpYkNlsPVpd,GraphSidecar,justinbieber,6475738,36453,2 people,people st,"ing, balloon, beach ball, glasses and park",No Object,No Object,No Object
-118,Crb1PDGuc4A,GraphSidecar,nike,57607,352,‎1 person,goosedown coat,flight jacket,fleece,sportswear,raincoat
+118,Crb1PDGuc4A,GraphSidecar,nike,57607,352,1 person,goosedown coat,flight jacket,fleece,sportswear,raincoat
 119,Crbc3ZCO0B5,GraphSidecar,nike,69766,314,5 people,people playing football,people playing soccer,No Object,No Object,No Object
 120,CrZbeyiPmFg,GraphImage,nike,82404,422,1 person,golfing,golf club,golf course,No Object,No Object
 121,CrYolT-xkI5,GraphVideo,nike,355111,1524,No Object,No Object,No Object,No Object,No Object,No Object
@@ -167,7 +167,7 @@
 165,CrM-LzcPE0D,GraphImage,virat.kohli,1149130,5139,1 person,beard,guanaco,wool,sweater,text
 166,CrKuEiKNNbd,GraphImage,virat.kohli,7232045,98238,1 person,playing cricket,text,No Object,No Object,No Object
 167,CrFq0MYvey0,GraphSidecar,virat.kohli,6230353,41040,1 person,trampoline,slide,playpen,cage,No Object
-168,CrD1C2qvNRS,GraphSidecar,virat.kohli,5718676,34910,‎3 people,people playing cricket,text,No Object,No Object,No Object
+168,CrD1C2qvNRS,GraphSidecar,virat.kohli,5718676,34910,3 people,people playing cricket,text,No Object,No Object,No Object
 169,CrAHPsLAP4s,GraphVideo,virat.kohli,1677832,7112,No Object,No Object,No Object,No Object,No Object,No Object
 170,Cq7EAYQgO1k,GraphVideo,virat.kohli,2138518,10479,No Object,No Object,No Object,No Object,No Object,No Object
 171,Cq48OCwNETl,GraphImage,virat.kohli,9630111,62644,2 people,baby,people swimming,pool,No Object,No Object
@@ -182,7 +182,7 @@
 180,CqncLeAjn2f,GraphVideo,jlo,546758,8491,No Object,No Object,No Object,No Object,No Object,No Object
 181,CqUQ3QbjyXh,GraphVideo,jlo,481461,5413,No Object,No Object,No Object,No Object,No Object,No Object
 182,CqQwicWpbuJ,GraphVideo,jlo,186018,2929,No Object,No Object,No Object,No Object,No Object,No Object
-183,CrTh2F0rBAE,GraphSidecar,kourtneykardash,806538,2457,‎1 person,text,No Object,No Object,No Object,No Object
+183,CrTh2F0rBAE,GraphSidecar,kourtneykardash,806538,2457,1 person,text,No Object,No Object,No Object,No Object
 184,CrR43vhJRN2,GraphSidecar,kourtneykardash,1210828,2357,3 people,blonde hair,No Object,No Object,No Object,No Object
 185,CrPUD7YJwnU,GraphSidecar,kourtneykardash,1272899,4122,bed,mosquito net,mattress,rose,bedroom,text
 186,CrJhliWvmPx,GraphSidecar,kourtneykardash,460597,2098,1 person,blonde hair,makeup,polaroid,turtleneck,No Object
@@ -237,7 +237,7 @@
 235,CrJtM63PHFW,GraphSidecar,katyperry,365430,3339,1 person,dress,sundress,text,No Object,No Object
 236,CrHxh-8rVKB,GraphSidecar,katyperry,517241,4617,1 person,fishnet stockings,headdress,text,No Object,No Object
 237,CpeEJ57LAF9,GraphSidecar,zendaya,7071282,21778,1 person,makeup,fishnet stockings,miniskirt,No Object,No Object
-238,CpMehdsu7vV,GraphSidecar,zendaya,5618660,11348,‎1 person,gown,dress,text,No Object,No Object
+238,CpMehdsu7vV,GraphSidecar,zendaya,5618660,11348,1 person,gown,dress,text,No Object,No Object
 239,CpJQ4F8rRu8,GraphImage,zendaya,5501356,16418,1 person,makeup,necklace,neckwear,No Object,No Object
 240,CpHNCA4D887,GraphVideo,zendaya,6616834,28318,No Object,No Object,No Object,No Object,No Object,No Object
 241,CpGyOPwLNEP,GraphSidecar,zendaya,7180083,24710,1 person,gown,dress,No Object,No Object,No Object
@@ -246,7 +246,7 @@
 244,ClT2kXSrU7E,GraphImage,zendaya,13415656,49205,No Object,No Object,No Object,No Object,No Object,No Object
 245,CjP-IHdOoyP,GraphSidecar,zendaya,9501096,36835,No Object,No Object,No Object,No Object,No Object,No Object
 246,Cra5E1GMEXt,GraphSidecar,kevinhart4real,39457,550,one or more people,crowd,concert,No Object,No Object,No Object
-247,Craqyt3rtzV,GraphImage,kevinhart4real,302584,1688,‎1 person,playing basketball,ball,text,No Object,No Object
+247,Craqyt3rtzV,GraphImage,kevinhart4real,302584,1688,1 person,playing basketball,ball,text,No Object,No Object
 248,CrZqNEfqMNn,GraphVideo,kevinhart4real,29096,310,No Object,No Object,No Object,No Object,No Object,No Object
 249,CrYuZgFJA0u,GraphVideo,kevinhart4real,114591,352,No Object,No Object,No Object,No Object,No Object,No Object
 250,CrWAs5xLCcI,GraphImage,kevinhart4real,65649,702,1 person,suitcase,wingtip shoes,luggage,sweatpants,No Object
@@ -265,7 +265,7 @@
 263,CrEz0JiOPAv,GraphVideo,kingjames,593588,3132,No Object,No Object,No Object,No Object,No Object,No Object
 264,Cq1cJbJPvkV,GraphSidecar,kingjames,1760346,8583,2 people,people playing basketball,basketball jersey,ball,backboard,crowd
 265,CqwULEXOuOA,GraphSidecar,kingjames,1122368,5695,1 person,st,ing and flight jacket,No Object,No Object,No Object
-266,CqWbQtRuyFg,GraphSidecar,kingjames,1273019,7652,‎1 person,playing basketball,basketball jersey,poster,sportswear,magazine
+266,CqWbQtRuyFg,GraphSidecar,kingjames,1273019,7652,1 person,playing basketball,basketball jersey,poster,sportswear,magazine
 267,CqUFPMLOIVs,GraphImage,kingjames,566798,1760,basketball,television,screen,camera,basketball court,No Object
 268,CqM12DOsTHt,GraphSidecar,kingjames,1787501,12272,1 person,beard,sportswear,jacket,text,No Object
 269,CqMzcRfDznT,GraphVideo,kingjames,1339654,8002,No Object,No Object,No Object,No Object,No Object,No Object
@@ -306,7 +306,7 @@
 304,CqZfzOoAEeY,GraphVideo,chrisbrownofficial,173911,1704,No Object,No Object,No Object,No Object,No Object,No Object
 305,CqZJ1zsvK6l,GraphSidecar,chrisbrownofficial,228849,2241,1 person,microphone,crowd,concert,No Object,No Object
 306,CqUkxxsMrlY,GraphImage,chrisbrownofficial,965085,4628,4 people,makeup,text,No Object,No Object,No Object
-307,CqTzEozMp5r,GraphImage,chrisbrownofficial,325174,5379,‎poster,text,No Object,No Object,No Object,No Object
+307,CqTzEozMp5r,GraphImage,chrisbrownofficial,325174,5379,poster,text,No Object,No Object,No Object,No Object
 308,CqRjl8_IB2G,GraphVideo,chrisbrownofficial,254779,3636,No Object,No Object,No Object,No Object,No Object,No Object
 309,CqRi5i4oALO,GraphSidecar,chrisbrownofficial,435511,3199,2 people,crowd,concert,No Object,No Object,No Object
 310,CrbnivJAvja,GraphVideo,fcbarcelona,126695,271,No Object,No Object,No Object,No Object,No Object,No Object
@@ -402,7 +402,7 @@
 400,CrV7IKCt1ea,GraphSidecar,priyankachopra,2715984,9777,1 person,dress,gown,No Object,No Object,No Object
 401,CrQtlNVt_pa,GraphSidecar,priyankachopra,1156402,4219,2 people,dress,No Object,No Object,No Object,No Object
 402,CrOykb7swFD,GraphVideo,priyankachopra,534661,2544,No Object,No Object,No Object,No Object,No Object,No Object
-403,CrOepIWtb3m,GraphSidecar,priyankachopra,779997,2530,‎1 person,gown,carpet,dress,text,No Object
+403,CrOepIWtb3m,GraphSidecar,priyankachopra,779997,2530,1 person,gown,carpet,dress,text,No Object
 404,CrLyahmvo-9,GraphVideo,priyankachopra,403298,2101,No Object,No Object,No Object,No Object,No Object,No Object
 405,CrEZT6brfpN,GraphSidecar,priyankachopra,1478655,3462,2 people,hair,makeup,fur coat,sweatsuit,parka
 406,CrBpRLxLg12,GraphVideo,priyankachopra,509973,2380,No Object,No Object,No Object,No Object,No Object,No Object
@@ -526,7 +526,7 @@
 524,CqA4_tNgoAk,GraphVideo,narendramodi,5700363,45918,No Object,No Object,No Object,No Object,No Object,No Object
 525,CpsPp49gVxU,GraphVideo,narendramodi,2182033,16778,No Object,No Object,No Object,No Object,No Object,No Object
 526,CpkFkdSgNTK,GraphVideo,narendramodi,2237341,9374,No Object,No Object,No Object,No Object,No Object,No Object
-527,CpjlxMmIXHL,GraphSidecar,narendramodi,5000534,13092,‎4 people,text,No Object,No Object,No Object,No Object
+527,CpjlxMmIXHL,GraphSidecar,narendramodi,5000534,13092,4 people,text,No Object,No Object,No Object,No Object
 528,CpDPwbcg0Ji,GraphVideo,narendramodi,3165632,24020,No Object,No Object,No Object,No Object,No Object,No Object
 529,Co6ZQ3cApQK,GraphVideo,narendramodi,3559141,30667,No Object,No Object,No Object,No Object,No Object,No Object
 530,CommDU3g-VZ,GraphVideo,narendramodi,2850537,15611,No Object,No Object,No Object,No Object,No Object,No Object
@@ -544,7 +544,7 @@
 542,CqpTHcug4qw,GraphVideo,nehakakkar,310133,2767,No Object,No Object,No Object,No Object,No Object,No Object
 543,CqkIKjXjfoq,GraphSidecar,nehakakkar,485055,2492,2 people,makeup,No Object,No Object,No Object,No Object
 544,Cqf8lfXsgHp,GraphVideo,nehakakkar,174237,1282,No Object,No Object,No Object,No Object,No Object,No Object
-545,CrXz61rJElI,GraphSidecar,bts.bighitofficial,2692870,9557,‎poster,text,No Object,No Object,No Object,No Object
+545,CrXz61rJElI,GraphSidecar,bts.bighitofficial,2692870,9557,poster,text,No Object,No Object,No Object,No Object
 546,CrXz0sQpdGh,GraphVideo,bts.bighitofficial,3122599,8341,No Object,No Object,No Object,No Object,No Object,No Object
 547,CrXzwDapIP8,GraphSidecar,bts.bighitofficial,2116425,2271,poster,road,text,No Object,No Object,No Object
 548,CrM6yxIpL3o,GraphImage,bts.bighitofficial,2451573,3181,money,garbage,No Object,No Object,No Object,No Object
@@ -566,7 +566,7 @@
 564,CrDQMUds6os,GraphImage,deepikapadukone,1125503,2780,4 people,child,sarong,No Object,No Object,No Object
 565,CrDP2Y3poWP,GraphVideo,deepikapadukone,695148,2288,No Object,No Object,No Object,No Object,No Object,No Object
 566,CrDPuqqsPDF,GraphImage,deepikapadukone,279149,416,temple,hallway,No Object,No Object,No Object,No Object
-567,CrDPg8Ksm0x,GraphImage,deepikapadukone,241007,356,ch,elier,No Object,No Object,No Object,No Object
+567,CrDPg8Ksm0x,GraphImage,deepikapadukone,241007,356,chandllier,No Object,No Object,No Object,No Object,No Object
 568,CqVzNHlp_bx,GraphVideo,shawnmendes,767336,5271,No Object,No Object,No Object,No Object,No Object,No Object
 569,CqVr0nTOeDq,GraphSidecar,shawnmendes,3056346,13407,1 person,biceps,boat,lake,boathouse,No Object
 570,CqRcGvjOPnz,GraphSidecar,shawnmendes,2613638,13336,5 people,Stone Henge,No Object,No Object,No Object,No Object
@@ -599,7 +599,7 @@
 597,Cq4UA2IpdCj,GraphSidecar,sooyaaa__,3922195,17515,1 person,hair,No Object,No Object,No Object,No Object
 598,Cq4T4A6pAuW,GraphSidecar,sooyaaa__,5052720,21511,1 person,hair,bra,No Object,No Object,No Object
 599,CqzyT4Ppk4t,GraphSidecar,sooyaaa__,4951466,24305,1 person,balloon,cake,prairie gentian,No Object,No Object
-600,Cqzuy-BJEjG,GraphSidecar,sooyaaa__,4625558,20295,‎1 person,costume,text,No Object,No Object,No Object
+600,Cqzuy-BJEjG,GraphSidecar,sooyaaa__,4625558,20295,1 person,costume,text,No Object,No Object,No Object
 601,CrbEmNxtnk_,GraphSidecar,psg,222928,342,1 person,playing football,playing soccer,stadium,text,No Object
 602,Cra3Xa3tUpT,GraphSidecar,psg,198791,409,1 person,playing football,playing soccer,stadium,No Object,No Object
 603,CrahcylNTnq,GraphVideo,psg,592633,3044,No Object,No Object,No Object,No Object,No Object,No Object
@@ -650,7 +650,7 @@
 648,CqlSzdfL_Ob,GraphImage,karimbenzema,1661366,13,2 people,beard,baby,people smiling,No Object,No Object
 649,CqirL94L_dw,GraphImage,karimbenzema,1259936,34,1 person,playing football,playing soccer,crowd,stadium,text
 650,CqYZ0ojLkFG,GraphImage,karimbenzema,2202875,12,1 person,beard,No Object,No Object,No Object,No Object
-651,Cp07oIoowOB,GraphImage,karimbenzema,1483560,20,‎1 person,playing football,playing soccer,stadium,text,No Object
+651,Cp07oIoowOB,GraphImage,karimbenzema,1483560,20,1 person,playing football,playing soccer,stadium,text,No Object
 652,CpvZ88Ir5N_,GraphSidecar,karimbenzema,1124620,11,1 person,flight jacket,parka,No Object,No Object,No Object
 653,CpqP74rr2qA,GraphImage,karimbenzema,1413348,11,1 person,beard,biceps,punching bag,No Object,No Object
 654,CrcTnCkPgSq,GraphSidecar,raffinagita1717,768065,2963,1 person,park,No Object,No Object,No Object,No Object
@@ -660,7 +660,7 @@
 658,CraAABsPOLx,GraphVideo,raffinagita1717,191375,505,No Object,No Object,No Object,No Object,No Object,No Object
 659,CrZxTrGsiJ7,GraphVideo,raffinagita1717,437513,875,No Object,No Object,No Object,No Object,No Object,No Object
 660,CrZvp26LoXl,GraphVideo,raffinagita1717,711832,2111,No Object,No Object,No Object,No Object,No Object,No Object
-661,CrZsxd-Prrb,GraphSidecar,raffinagita1717,850055,1252,‎2 people,scooter,text,No Object,No Object,No Object
+661,CrZsxd-Prrb,GraphSidecar,raffinagita1717,850055,1252,2 people,scooter,text,No Object,No Object,No Object
 662,CrZarvUP8Cf,GraphImage,raffinagita1717,248285,518,2 people,blower,race car,dune buggy,roadster,No Object
 663,CrYQLiEPj7X,GraphImage,raffinagita1717,85249,225,2 people,baby,bottle,diaper,milk,No Object
 664,CrX4XcoPwNC,GraphSidecar,raffinagita1717,775956,1816,1 person,baby,beach ball,ball,No Object,No Object
@@ -671,7 +671,7 @@
 669,CrYnVrMvjHN,GraphVideo,marvel,271618,314,No Object,No Object,No Object,No Object,No Object,No Object
 670,CrW3WyqP7Us,GraphVideo,marvel,221293,361,No Object,No Object,No Object,No Object,No Object,No Object
 671,CrWCi12IStx,GraphVideo,marvel,167551,208,No Object,No Object,No Object,No Object,No Object,No Object
-672,CrVnARqu3TB,GraphImage,marvel,276297,322,‎flower pot,seedling,text,No Object,No Object,No Object
+672,CrVnARqu3TB,GraphImage,marvel,276297,322,flower pot,seedling,text,No Object,No Object,No Object
 673,CrUOWu2MzMm,GraphVideo,marvel,1712,42,No Object,No Object,No Object,No Object,No Object,No Object
 674,CrTzJf-y8Ps,GraphVideo,marvel,583010,748,No Object,No Object,No Object,No Object,No Object,No Object
 675,CrTrdyitJ-d,GraphVideo,marvel,775314,1924,No Object,No Object,No Object,No Object,No Object,No Object
@@ -736,7 +736,7 @@
 734,Cqn04_4MC1E,GraphImage,anitta,173368,0,poster,magazine,text,No Object,No Object,No Object
 735,CqfXaAoO9vC,GraphSidecar,anitta,726640,4091,1 person,flower,No Object,No Object,No Object,No Object
 736,CqbgQI1A5XJ,GraphVideo,anitta,338261,7836,No Object,No Object,No Object,No Object,No Object,No Object
-737,Cqab4CRtFbM,GraphSidecar,anitta,1989844,30240,1 person,c,"le, pie and cake",No Object,No Object,No Object
+737,Cqab4CRtFbM,GraphSidecar,anitta,1989844,30240,1 person,candle,pie and cake,No Object,No Object,No Object
 738,CqTc_xaAWJf,GraphSidecar,anitta,864941,4378,3 people,blonde hair,fishnet stockings,costume,No Object,No Object
 739,CqOi8HCgvVu,GraphSidecar,anitta,1372471,4253,3 people,people dancing,costume,fishnet stockings,night,text
 740,CdxROg6ogoT,GraphSidecar,urvashirautela,481528,7161,No Object,No Object,No Object,No Object,No Object,No Object
@@ -802,13 +802,13 @@
 800,CqyQXM6ufTb,GraphImage,marcelotwelve,276280,1291,1 person,playing football,playing soccer,sports equipment,stadium,No Object
 801,Cqsn7w-uz5W,GraphSidecar,marcelotwelve,1323929,4278,1 person,playing football,playing soccer,stadium,No Object,No Object
 802,CrczjNNtY9K,GraphVideo,433,80545,239,No Object,No Object,No Object,No Object,No Object,No Object
-803,Crb0xiFMuHL,GraphImage,433,1864250,2910,‎5 people,people playing football,people playing soccer,stadium,text,No Object
+803,Crb0xiFMuHL,GraphImage,433,1864250,2910,5 people,people playing football,people playing soccer,stadium,text,No Object
 804,CrbxYBnsvt3,GraphSidecar,433,747933,940,1 person,playing football,playing soccer,text,No Object,No Object
-805,CrbhWJ-szsJ,GraphImage,433,1311194,3843,‎1 person,playing football,playing soccer,cleats,ball,sports equipment
+805,CrbhWJ-szsJ,GraphImage,433,1311194,3843,1 person,playing football,playing soccer,cleats,ball,sports equipment
 806,CrbZxeDPbly,GraphVideo,433,684961,3244,No Object,No Object,No Object,No Object,No Object,No Object
 807,CrbQyV_M3wx,GraphImage,433,514593,1289,1 person,playing soccer,playing football,No Object,No Object,No Object
 808,CrazTDmsJb-,GraphImage,433,439153,1929,1 person,playing football,playing soccer,ball,stadium,text
-809,CrarydYMwZS,GraphSidecar,433,1266238,1684,3 people,people playing football,people playing soccer,track,"field, poster, sports equipment, sportswear and stadium",No Object
+809,CrarydYMwZS,GraphSidecar,433,1266238,1684,3 people,people playing football,people playing soccer,track,field,poster
 810,CraU-O8gwG6,GraphImage,manchesterunited,251907,1129,4 people,people playing football,people playing soccer,poster,No Object,No Object
 811,CrY3c7HNVST,GraphImage,manchesterunited,900171,12275,1 person,playing football,playing soccer,poster,ball,card
 812,CrYSgplA4Ga,GraphVideo,manchesterunited,101645,304,No Object,No Object,No Object,No Object,No Object,No Object
@@ -832,7 +832,7 @@
 830,CpYAkthOInq,GraphSidecar,karolg,5642912,29249,2 people,hair,miniskirt,snow,No Object,No Object
 831,CpRHRUOKc6q,GraphSidecar,karolg,5413666,36830,1 person,makeup,fishnet stockings,No Object,No Object,No Object
 832,CopRevnObk9,GraphImage,zacefron,2879136,9130,baby,book,diaper,No Object,No Object,No Object
-833,CoWV91ELRSz,GraphImage,zacefron,490245,1658,one or more people,people golfing,people st,"ing, parka, sweatpants, golf course and park",No Object,No Object
+833,CoWV91ELRSz,GraphImage,zacefron,490245,1658,one or more people,people golfing,people standing,park,sweatpants,golf course
 834,CmoyLaSJezX,GraphSidecar,zacefron,4632564,11168,No Object,No Object,No Object,No Object,No Object,No Object
 835,Cl6h6cmpges,GraphVideo,zacefron,673650,4316,No Object,No Object,No Object,No Object,No Object,No Object
 836,ClJeef9pyrj,GraphImage,zacefron,1622539,7377,No Object,No Object,No Object,No Object,No Object,No Object
@@ -871,7 +871,7 @@
 869,Crc2tokOlMZ,GraphImage,9gag,25972,125,3 people,text,No Object,No Object,No Object,No Object
 870,Crcef9SIaZh,GraphImage,9gag,66766,225,1 person,text,No Object,No Object,No Object,No Object
 871,CrcJ-oOoGL6,GraphVideo,9gag,27061,215,No Object,No Object,No Object,No Object,No Object,No Object
-872,Crb1RE4vRH0,GraphImage,9gag,101322,368,‎2 people,text,No Object,No Object,No Object,No Object
+872,Crb1RE4vRH0,GraphImage,9gag,101322,368,2 people,text,No Object,No Object,No Object,No Object
 873,Crbgx05tMGe,GraphImage,9gag,151092,622,vodka,juice,text,No Object,No Object,No Object
 874,CrbTBaWMYJT,GraphImage,9gag,96467,317,1 person,text,No Object,No Object,No Object,No Object
 875,CrbDyksMxsk,GraphImage,9gag,64001,1388,2 people,snake,text,No Object,No Object,No Object
@@ -883,10 +883,10 @@
 881,CrW4D42I4aV,GraphImage,whinderssonnunes,3705442,70338,4 people,crowd,text,No Object,No Object,No Object
 882,CrUH-xsIpPn,GraphImage,whinderssonnunes,2139592,18186,3 people,underwear,No Object,No Object,No Object,No Object
 883,CrRkw92ohoY,GraphVideo,whinderssonnunes,1274847,18150,No Object,No Object,No Object,No Object,No Object,No Object
-884,CrMzFl3ov7P,GraphImage,whinderssonnunes,895615,5013,‎1 person,text,No Object,No Object,No Object,No Object
+884,CrMzFl3ov7P,GraphImage,whinderssonnunes,895615,5013,1 person,text,No Object,No Object,No Object,No Object
 885,CrMYIkcOak-,GraphVideo,whinderssonnunes,206682,1909,No Object,No Object,No Object,No Object,No Object,No Object
 886,CrD9dOZLXNn,GraphVideo,whinderssonnunes,1718918,18356,No Object,No Object,No Object,No Object,No Object,No Object
-887,CrCXbrXO00N,GraphImage,whinderssonnunes,288684,2563,‎3 people,poster,text,No Object,No Object,No Object
+887,CrCXbrXO00N,GraphImage,whinderssonnunes,288684,2563,3 people,poster,text,No Object,No Object,No Object
 888,CrAUv3_vp9P,GraphSidecar,thv,12129802,0,1 person,duffle coat,overcoat,blazer,text,No Object
 889,CqVFTxBPEXm,GraphSidecar,thv,13471204,0,1 person,goosedown coat,duffle coat,parka,jacket,No Object
 890,CqJ62H7vxN0,GraphSidecar,thv,12675466,0,3 people,poster,magazine,bolo tie,No Object,No Object
@@ -918,7 +918,7 @@
 916,CpqMPWePdOU,GraphImage,paulpogba,344210,2034,1 person,playing football,playing soccer,cleats,stadium,No Object
 917,CpnHJGZLced,GraphImage,paulpogba,464196,2207,1 person,smoking,cigarette,No Object,No Object,No Object
 918,CpgCyn5Pfsq,GraphImage,paulpogba,352859,1252,3 people,baby,people playing soccer,sports equipment,sportswear,grass
-919,CpdLbP2JEwW,GraphSidecar,paulpogba,426529,1366,‎1 person,playing football,playing soccer,cleats,stadium,text
+919,CpdLbP2JEwW,GraphSidecar,paulpogba,426529,1366,1 person,playing football,playing soccer,cleats,stadium,text
 920,Cq5shGTo01k,GraphVideo,juventus,46403,629,No Object,No Object,No Object,No Object,No Object,No Object
 921,CmzZS18oLGx,GraphVideo,juventus,109020,730,No Object,No Object,No Object,No Object,No Object,No Object
 922,CklqHFGodCS,GraphVideo,juventus,127221,3891,No Object,No Object,No Object,No Object,No Object,No Object
@@ -965,7 +965,7 @@
 963,Cra3g_5I1h8,GraphVideo,zara,8152,58,No Object,No Object,No Object,No Object,No Object,No Object
 964,CrafQVsqnOH,GraphImage,zara,10212,89,1 person,makeup,dress,No Object,No Object,No Object
 965,CrYnSrqIxhG,GraphImage,zara,13540,118,1 person,towel,sarong,beach,No Object,No Object
-966,CrYSpAoo2ht,GraphImage,zara,11835,71,1 person,child,st,ing and beach,No Object,No Object
+966,CrYSpAoo2ht,GraphImage,zara,11835,71,1 person,child,standing,beach,No Object,No Object
 967,CrXpcQ3IQ03,GraphImage,zara,11623,62,1 person,towel,sarong,No Object,No Object,No Object
 968,CrV3Pv7qgos,GraphImage,zara,11632,76,1 person,parasol,deck chair,umbrella,outdoors,No Object
 969,CrQ5bhMI3I3,GraphVideo,zara,10175,72,No Object,No Object,No Object,No Object,No Object,No Object
@@ -977,7 +977,7 @@
 975,Cqk0GjND8bK,GraphVideo,chrishemsworth,1661127,10175,No Object,No Object,No Object,No Object,No Object,No Object
 976,CqiOBc2geKE,GraphVideo,chrishemsworth,559480,1915,No Object,No Object,No Object,No Object,No Object,No Object
 977,CqBsTHKJlV_,GraphVideo,chrishemsworth,1009352,5312,No Object,No Object,No Object,No Object,No Object,No Object
-978,Cp_TjmPP_LW,GraphImage,chrishemsworth,1548354,4334,4 people,people playing baseball,people playing s,No Object,No Object,No Object
+978,Cp_TjmPP_LW,GraphImage,chrishemsworth,1548354,4334,4 people,people playing baseball,people playing sand,No Object,No Object,No Object
 979,Cp0MSaNrHjZ,GraphSidecar,chrishemsworth,1320600,3243,1 person,beard,No Object,No Object,No Object,No Object
 980,CpRtdq8J6kD,GraphSidecar,chrishemsworth,700468,2025,1 person,surfboard,water,No Object,No Object,No Object
 981,CrccRUYMqPA,GraphSidecar,tatawerneck,119099,365,2 people,beard,makeup,people kissing,dress,No Object
@@ -996,7 +996,7 @@
 994,CrLiKrENml2,GraphVideo,robertdowneyjr,738053,3742,No Object,No Object,No Object,No Object,No Object,No Object
 995,CrJnsXsRGIS,GraphVideo,robertdowneyjr,359319,2096,No Object,No Object,No Object,No Object,No Object,No Object
 996,CrI35XIAoo0,GraphVideo,robertdowneyjr,337935,1061,No Object,No Object,No Object,No Object,No Object,No Object
-997,CrBXn1LrH8d,GraphImage,robertdowneyjr,1694932,4831,ficialfootprintcoalition,,@hbomax,No Object,No Object,No Object
+997,CrBXn1LrH8d,GraphImage,robertdowneyjr,1694932,4831,footprint,No Object,No Object,No Object,No Object,No Object
 998,Cq-wP3FxsnH,GraphVideo,robertdowneyjr,191464,581,No Object,No Object,No Object,No Object,No Object,No Object
 999,CqolXf0JEiq,GraphVideo,robertdowneyjr,3169289,35495,No Object,No Object,No Object,No Object,No Object,No Object
 1000,CpvCsGaO3tg,GraphVideo,robertdowneyjr,168205,346,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1038,7 +1038,7 @@
 1036,CravvMoroBu,GraphImage,sunnyleone,35069,413,2 people,poster,text,No Object,No Object,No Object
 1037,CraLd48qPmI,GraphVideo,sunnyleone,218861,1485,No Object,No Object,No Object,No Object,No Object,No Object
 1038,CrYuuFdL3T2,GraphImage,sunnyleone,36694,586,4 people,card,sports equipment,No Object,No Object,No Object
-1039,CrXkAB3qpUS,GraphImage,sunnyleone,204433,1435,‎1 person,dancing,headdress,costume,dress,text
+1039,CrXkAB3qpUS,GraphImage,sunnyleone,204433,1435,1 person,dancing,headdress,costume,dress,text
 1040,CrT35_mBvjP,GraphVideo,sunnyleone,46989,285,No Object,No Object,No Object,No Object,No Object,No Object
 1041,CrSwkT2t--A,GraphVideo,sunnyleone,157487,1475,No Object,No Object,No Object,No Object,No Object,No Object
 1042,CrSZLhbqD3Q,GraphVideo,sunnyleone,116486,805,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1050,7 +1050,7 @@
 1048,CrcaGwcM15a,GraphImage,theshaderoom,35520,1175,2 people,text,No Object,No Object,No Object,No Object
 1049,CrcVoeBuHJD,GraphVideo,theshaderoom,120639,1429,No Object,No Object,No Object,No Object,No Object,No Object
 1050,CrcKCYCrRDw,GraphSidecar,theshaderoom,92204,3433,2 people,magazine,text,No Object,No Object,No Object
-1051,CrcHqTdMwIm,GraphImage,theshaderoom,8656,356,1 person,headb,text,No Object,No Object,No Object
+1051,CrcHqTdMwIm,GraphImage,theshaderoom,8656,356,1 person,headband,text,No Object,No Object,No Object
 1052,CrcHQUYs3y7,GraphVideo,theshaderoom,51533,6452,No Object,No Object,No Object,No Object,No Object,No Object
 1053,CrcFlOCMmpS,GraphVideo,theshaderoom,11520,664,No Object,No Object,No Object,No Object,No Object,No Object
 1054,Crb6iXGvHh1,GraphImage,theshaderoom,86761,5017,2 people,headscarf,turban,text,No Object,No Object
@@ -1109,7 +1109,7 @@
 1107,Crb04trLthP,GraphImage,instablog9ja,532,0,poster,text,No Object,No Object,No Object,No Object
 1108,CrbzxZlLSo3,GraphSidecar,instablog9ja,4763,1165,one or more people,text,No Object,No Object,No Object,No Object
 1109,Crcc5tir0Jw,GraphVideo,worldstar,43737,914,No Object,No Object,No Object,No Object,No Object,No Object
-1110,CrcVdXsL0Xp,GraphImage,worldstar,13817,817,text that says 'Jake Paul @jakepaul Im a better boxer than you Connor,will do what you couldn't and knock Nate out,No Object,No Object,No Object,No Object
+1110,CrcVdXsL0Xp,GraphImage,worldstar,13817,817,text,No Object,No Object,No Object,No Object,No Object
 1111,CrcTF8OATwq,GraphVideo,worldstar,1760,112,No Object,No Object,No Object,No Object,No Object,No Object
 1112,CrcNHS6p-Vq,GraphVideo,worldstar,96338,1489,No Object,No Object,No Object,No Object,No Object,No Object
 1113,CrcJx-_pZen,GraphVideo,worldstar,29999,883,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1120,18 +1120,18 @@
 1118,Crb1SLWyCv-,GraphImage,worldstar,29509,1147,1 person,text,No Object,No Object,No Object,No Object
 1119,Crbx2RareYV,GraphVideo,worldstar,55281,2795,No Object,No Object,No Object,No Object,No Object,No Object
 1120,CrbvKcyt9vF,GraphVideo,worldstar,1201,91,No Object,No Object,No Object,No Object,No Object,No Object
-1121,CrdBgk1tFMK,GraphImage,uae_barq,245,20,‎1 person,playing football,pie,text,No Object,No Object
+1121,CrdBgk1tFMK,GraphImage,uae_barq,245,20,1 person,playing football,pie,text,No Object,No Object
 1122,Crc60zABi20,GraphVideo,uae_barq,2122,172,No Object,No Object,No Object,No Object,No Object,No Object
 1123,Crc2CErBP95,GraphVideo,uae_barq,742,30,No Object,No Object,No Object,No Object,No Object,No Object
-1124,CrczH8yhfsC,GraphImage,uae_barq,912,32,‎telescope,text,No Object,No Object,No Object,No Object
-1125,CrcuSATBzjz,GraphImage,uae_barq,1357,81,‎one or more people,text,No Object,No Object,No Object,No Object
-1126,CrcsP2jh7j9,GraphImage,uae_barq,795,18,‎1 person,pie,text,No Object,No Object,No Object
-1127,CrbcpD5LK2w,GraphImage,uae_barq,4640,110,‎pie,text,No Object,No Object,No Object,No Object
-1128,CrbaH3ih5XB,GraphImage,uae_barq,1703,42,‎pie,text,No Object,No Object,No Object,No Object
-1129,CrbVlFTyf9G,GraphImage,uae_barq,4383,164,‎aircraft,text,No Object,No Object,No Object,No Object
-1130,CrbMANcB1xA,GraphImage,uae_barq,7049,430,‎2 people,text,No Object,No Object,No Object,No Object
+1124,CrczH8yhfsC,GraphImage,uae_barq,912,32,telescope,text,No Object,No Object,No Object,No Object
+1125,CrcuSATBzjz,GraphImage,uae_barq,1357,81,one or more people,text,No Object,No Object,No Object,No Object
+1126,CrcsP2jh7j9,GraphImage,uae_barq,795,18,1 person,pie,text,No Object,No Object,No Object
+1127,CrbcpD5LK2w,GraphImage,uae_barq,4640,110,pie,text,No Object,No Object,No Object,No Object
+1128,CrbaH3ih5XB,GraphImage,uae_barq,1703,42,pie,text,No Object,No Object,No Object,No Object
+1129,CrbVlFTyf9G,GraphImage,uae_barq,4383,164,aircraft,text,No Object,No Object,No Object,No Object
+1130,CrbMANcB1xA,GraphImage,uae_barq,7049,430,2 people,text,No Object,No Object,No Object,No Object
 1131,CrbIFyBBbVS,GraphVideo,uae_barq,1744,38,No Object,No Object,No Object,No Object,No Object,No Object
-1132,CrbCJ_3BJxL,GraphImage,uae_barq,4187,222,‎1 person,pie,hospital,text,No Object,No Object
+1132,CrbCJ_3BJxL,GraphImage,uae_barq,4187,222,1 person,pie,hospital,text,No Object,No Object
 1133,CrbwKzWvuaZ,GraphSidecar,telemetro,5744,146,2 people,text,No Object,No Object,No Object,No Object
 1134,CrceVwsLwcn,GraphVideo,telemetro,27,1,No Object,No Object,No Object,No Object,No Object,No Object
 1135,CrcdUarOr0L,GraphVideo,telemetro,144,0,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1164,11 +1164,11 @@
 1162,CrdEx7vPu59,GraphImage,3meed_news,96,7,1 person,pie,telescope,No Object,No Object,No Object
 1163,Crc-SImurlG,GraphVideo,3meed_news,79,0,No Object,No Object,No Object,No Object,No Object,No Object
 1164,Crc7Ys0OmJw,GraphVideo,3meed_news,1338,195,No Object,No Object,No Object,No Object,No Object,No Object
-1165,CrcyPbjvZup,GraphImage,3meed_news,2243,247,‎pie,text,No Object,No Object,No Object,No Object
-1166,Crcsa8gv-bg,GraphImage,3meed_news,116,4,‎car,text,No Object,No Object,No Object,No Object
-1167,Crcr4OZPXfr,GraphImage,3meed_news,772,41,‎1 person,text,No Object,No Object,No Object,No Object
-1168,CrbrRkFBPad,GraphImage,3meed_news,1944,145,‎airplane,text,No Object,No Object,No Object,No Object
-1169,CrbU6-lvtp7,GraphImage,3meed_news,2715,104,‎aircraft,text,No Object,No Object,No Object,No Object
+1165,CrcyPbjvZup,GraphImage,3meed_news,2243,247,pie,text,No Object,No Object,No Object,No Object
+1166,Crcsa8gv-bg,GraphImage,3meed_news,116,4,car,text,No Object,No Object,No Object,No Object
+1167,Crcr4OZPXfr,GraphImage,3meed_news,772,41,1 person,text,No Object,No Object,No Object,No Object
+1168,CrbrRkFBPad,GraphImage,3meed_news,1944,145,airplane,text,No Object,No Object,No Object,No Object
+1169,CrbU6-lvtp7,GraphImage,3meed_news,2715,104,aircraft,text,No Object,No Object,No Object,No Object
 1170,Cq5EA4vJ8n0,GraphVideo,melodia_musik,2458,18,No Object,No Object,No Object,No Object,No Object,No Object
 1171,Cq7o7hjJeRK,GraphVideo,melodia_musik,633,12,No Object,No Object,No Object,No Object,No Object,No Object
 1172,CqrYX0MpEOz,GraphVideo,melodia_musik,75,2,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1185,9 +1185,9 @@
 1183,CrcsEs8p6lh,GraphImage,aboutcirebonid,13,0,sedan,card,poster,minivan,No Object,No Object
 1184,CrckKn1r-4x,GraphSidecar,aboutcirebonid,105,0,10 people,terminal,text,No Object,No Object,No Object
 1185,Crcf4d8p94w,GraphVideo,aboutcirebonid,2056,15,No Object,No Object,No Object,No Object,No Object,No Object
-1186,CrcWby8sBDm,GraphSidecar,aboutcirebonid,51,0,‎5 people,text,No Object,No Object,No Object,No Object
+1186,CrcWby8sBDm,GraphSidecar,aboutcirebonid,51,0,5 people,text,No Object,No Object,No Object,No Object
 1187,CrcJ4jttQNT,GraphImage,aboutcirebonid,73,2,1 person,riding on a horse,horse,pony,No Object,No Object
-1188,CrbyOh0vad_,GraphImage,aboutcirebonid,110,0,‎1 person,poster,text,No Object,No Object,No Object
+1188,CrbyOh0vad_,GraphImage,aboutcirebonid,110,0,1 person,poster,text,No Object,No Object,No Object
 1189,CrawqLoPWh9,GraphVideo,aboutcirebonid,993,3,No Object,No Object,No Object,No Object,No Object,No Object
 1190,CranI56rFhl,GraphVideo,aboutcirebonid,356,0,No Object,No Object,No Object,No Object,No Object,No Object
 1191,Crc7sLRO0o-,GraphImage,infodenpasar,458,4,10 people,terminal,text,No Object,No Object,No Object
@@ -1207,8 +1207,8 @@
 1205,Crc4_iCoKSM,GraphVideo,radiofarda,1091,26,No Object,No Object,No Object,No Object,No Object,No Object
 1206,Crc1VFHons6,GraphImage,radiofarda,1493,20,2 people,military uniform,No Object,No Object,No Object,No Object
 1207,CrcuwOqo7Sk,GraphVideo,radiofarda,3143,103,No Object,No Object,No Object,No Object,No Object,No Object
-1208,CrcqH5NITit,GraphImage,radiofarda,4666,72,‎1 person,text,No Object,No Object,No Object,No Object
-1209,CrcX5jrMTz_,GraphImage,radiofarda,9180,147,‎3 people,text,No Object,No Object,No Object,No Object
+1208,CrcqH5NITit,GraphImage,radiofarda,4666,72,1 person,text,No Object,No Object,No Object,No Object
+1209,CrcX5jrMTz_,GraphImage,radiofarda,9180,147,3 people,text,No Object,No Object,No Object,No Object
 1210,CrcXJjitjEu,GraphVideo,radiofarda,3108,25,No Object,No Object,No Object,No Object,No Object,No Object
 1211,CrZ5WyGMIQS,GraphVideo,instantbollywood,289607,1120,No Object,No Object,No Object,No Object,No Object,No Object
 1212,CrVXcyGOber,GraphVideo,instantbollywood,259551,652,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1251,7 +1251,7 @@
 1249,CrbqDPLuM5Y,GraphVideo,eldiario,3328,64,No Object,No Object,No Object,No Object,No Object,No Object
 1250,CrbichYR1dw,GraphImage,eldiario,1470,16,1 person,makeup,turtleneck,dress,No Object,No Object
 1251,Crc4fAqMMIo,GraphImage,arab2turk,1653,160,1 person,outdoors,No Object,No Object,No Object,No Object
-1252,CrczsCBMW8d,GraphImage,arab2turk,895,63,‎television,screen,poster,text,No Object,No Object
+1252,CrczsCBMW8d,GraphImage,arab2turk,895,63,television,screen,poster,text,No Object,No Object
 1253,CrcvyP1r-Fg,GraphVideo,arab2turk,790,17,No Object,No Object,No Object,No Object,No Object,No Object
 1254,Crbvc1pMZrk,GraphImage,arab2turk,12154,215,2 people,people smiling,parka,snow,No Object,No Object
 1255,Crbf5rasR5J,GraphSidecar,arab2turk,3179,263,1 person,makeup,hair,No Object,No Object,No Object
@@ -1261,15 +1261,15 @@
 1259,CrbYVzrMe1w,GraphImage,arab2turk,3458,146,2 people,people smiling,people kissing,No Object,No Object,No Object
 1260,CrbWNzLMHOr,GraphSidecar,arab2turk,5526,109,1 person,smiling,people kissing,No Object,No Object,No Object
 1261,CrbQttdM47V,GraphImage,arab2turk,3420,104,1 person,beard,makeup,suit,blazer,dinner jacket
-1262,Crc4nO3Nhcf,GraphImage,albayannews,39,14,‎2 people,text,No Object,No Object,No Object,No Object
-1263,Crcu2YWJGoL,GraphImage,albayannews,61,19,‎1 person,pie,text,No Object,No Object,No Object
+1262,Crc4nO3Nhcf,GraphImage,albayannews,39,14,2 people,text,No Object,No Object,No Object,No Object
+1263,Crcu2YWJGoL,GraphImage,albayannews,61,19,1 person,pie,text,No Object,No Object,No Object
 1264,Crcp-T4I9xg,GraphImage,albayannews,61,7,tower,outdoors,No Object,No Object,No Object,No Object
-1265,Crbtooth7xU,GraphImage,albayannews,124,19,‎aircraft,text,No Object,No Object,No Object,No Object
-1266,CrbWDneJsQ7,GraphImage,albayannews,136,17,‎aircraft,text,No Object,No Object,No Object,No Object
+1265,Crbtooth7xU,GraphImage,albayannews,124,19,aircraft,text,No Object,No Object,No Object,No Object
+1266,CrbWDneJsQ7,GraphImage,albayannews,136,17,aircraft,text,No Object,No Object,No Object,No Object
 1267,CrbRE5CpLIw,GraphVideo,albayannews,417,27,No Object,No Object,No Object,No Object,No Object,No Object
 1268,CrbDCnsJtHn,GraphVideo,albayannews,50,6,No Object,No Object,No Object,No Object,No Object,No Object
-1269,Cra_Lzbp3t7,GraphImage,albayannews,107,3,‎1 person,pie,text,No Object,No Object,No Object
-1270,CraywGOJR7D,GraphImage,albayannews,165,37,‎pie,text,No Object,No Object,No Object,No Object
+1269,Cra_Lzbp3t7,GraphImage,albayannews,107,3,1 person,pie,text,No Object,No Object,No Object
+1270,CraywGOJR7D,GraphImage,albayannews,165,37,pie,text,No Object,No Object,No Object,No Object
 1271,Crc5UzDuWGL,GraphImage,vladtv,74,20,1 person,text,No Object,No Object,No Object,No Object
 1272,Crc4ENeuU-Y,GraphImage,vladtv,78,15,1 person,playing football,football helmet,text,No Object,No Object
 1273,Crc2zsQOKwY,GraphImage,vladtv,74,14,1 person,magazine,text,No Object,No Object,No Object
@@ -1284,8 +1284,8 @@
 1282,CrbjzH1BBWV,GraphImage,vladtv,313,43,1 person,magazine,text,No Object,No Object,No Object
 1283,CrdEH_WrnBU,GraphSidecar,coppamagz,1652,2,7 people,poster,text,No Object,No Object,No Object
 1284,CrdDQY3rp1k,GraphImage,coppamagz,11509,80,3 people,text,No Object,No Object,No Object,No Object
-1285,Crc71gQLerP,GraphSidecar,coppamagz,108537,1569,‎2 people,text,No Object,No Object,No Object,No Object
-1286,Crc0YLArfDs,GraphSidecar,coppamagz,78063,693,‎2 people,text,No Object,No Object,No Object,No Object
+1285,Crc71gQLerP,GraphSidecar,coppamagz,108537,1569,2 people,text,No Object,No Object,No Object,No Object
+1286,Crc0YLArfDs,GraphSidecar,coppamagz,78063,693,2 people,text,No Object,No Object,No Object,No Object
 1287,Crcs9MpLpON,GraphSidecar,coppamagz,6228,5,1 person,text,No Object,No Object,No Object,No Object
 1288,Crcnj0QLN2K,GraphImage,coppamagz,13326,42,2 people,text,No Object,No Object,No Object,No Object
 1289,Crcil7Xry1f,GraphSidecar,coppamagz,4173,6,1 person,text,No Object,No Object,No Object,No Object
@@ -1302,7 +1302,7 @@
 1300,CrdAJWCJBKl,GraphImage,crictracker,6452,56,1 person,playing cricket,No Object,No Object,No Object,No Object
 1301,Crc8dQ_NGfN,GraphImage,crictracker,10229,61,2 people,people playing cricket,stadium,text,No Object,No Object
 1302,Crc7UawJsG_,GraphVideo,crictracker,6063,50,No Object,No Object,No Object,No Object,No Object,No Object
-1303,Crc5py3vVkA,GraphImage,crictracker,10875,48,‎1 person,playing cricket,text,No Object,No Object,No Object
+1303,Crc5py3vVkA,GraphImage,crictracker,10875,48,1 person,playing cricket,text,No Object,No Object,No Object
 1304,Crc3hOjtksc,GraphImage,crictracker,78400,156,1 person,beard,playing cricket,text,No Object,No Object
 1305,Crc0KCCLwfT,GraphImage,crictracker,46172,89,1 person,beard,poster,text,No Object,No Object
 1306,CrZ--xeLqyC,GraphImage,dagelan,257462,4997,2 people,banana,sugarcane,plant,text,No Object
@@ -1327,29 +1327,29 @@
 1325,CrbzAavP9lq,GraphVideo,memelasdeorizaba,28367,220,No Object,No Object,No Object,No Object,No Object,No Object
 1326,CrbnlTCO-ix,GraphImage,memelasdeorizaba,13871,138,10 people,text,No Object,No Object,No Object,No Object
 1327,CrbWWc-OExv,GraphImage,memelasdeorizaba,20428,58,1 person,tablet,text,No Object,No Object,No Object
-1328,Cq5uj8EIz3B,GraphSidecar,cabronazi,273472,1271,text that says 'María @maria0807 mi abuela ha descubierto este sticker y no uc mes <3 < 3 Yaya Carmen en línia yayaaa 12:31 este domingo cu,o vayamos a tu casa puedes hacerme un tuper de albóndigas? 12:31 que te salen riquísimas Λ,No Object,No Object,No Object,No Object
+1328,Cq5uj8EIz3B,GraphSidecar,cabronazi,273472,1271,text,No Object,No Object,No Object,No Object,No Object
 1329,CqDhPypo7CB,GraphVideo,cabronazi,195299,1720,No Object,No Object,No Object,No Object,No Object,No Object
 1330,CoFoNVLoTVO,GraphVideo,cabronazi,1134031,20547,No Object,No Object,No Object,No Object,No Object,No Object
-1331,CrdD5-Dob5y,GraphSidecar,cabronazi,2509,43,‎1 person,beer,bottle,text,No Object,No Object
-1332,CrdATRHItJe,GraphImage,cabronazi,1210,13,‎3 people,text,No Object,No Object,No Object,No Object
+1331,CrdD5-Dob5y,GraphSidecar,cabronazi,2509,43,1 person,beer,bottle,text,No Object,No Object
+1332,CrdATRHItJe,GraphImage,cabronazi,1210,13,3 people,text,No Object,No Object,No Object,No Object
 1333,Crc4RQpoFVW,GraphVideo,cabronazi,23909,65,No Object,No Object,No Object,No Object,No Object,No Object
-1334,CrczKQcISlQ,GraphImage,cabronazi,18072,41,‎text that says '‎SIMPSONS PICS @simpsonpicss yo ignor,o mensajes hasta que tenga la suficiente energía para socializar de nuevo 開 س FOX May‎'‎,No Object,No Object,No Object,No Object
+1334,CrczKQcISlQ,GraphImage,cabronazi,18072,41,text,No Object,No Object,No Object,No Object,No Object
 1335,CrbrZf9o7oH,GraphVideo,cabronazi,105838,824,No Object,No Object,No Object,No Object,No Object,No Object
 1336,CrbkQcSI1IF,GraphVideo,cabronazi,75845,464,No Object,No Object,No Object,No Object,No Object,No Object
 1337,CrbdUYVII1E,GraphVideo,cabronazi,51574,1057,No Object,No Object,No Object,No Object,No Object,No Object
-1338,CrbZTnbomRb,GraphImage,cabronazi,4225,0,‎1 person,text,No Object,No Object,No Object,No Object
+1338,CrbZTnbomRb,GraphImage,cabronazi,4225,0,1 person,text,No Object,No Object,No Object,No Object
 1339,CrbPBQkoA_Z,GraphImage,cabronazi,10503,284,macrame,text,No Object,No Object,No Object,No Object
-1340,Crc7ilkNHgo,GraphImage,deertybhr,102,2,‎pie,text,No Object,No Object,No Object,No Object
+1340,Crc7ilkNHgo,GraphImage,deertybhr,102,2,pie,text,No Object,No Object,No Object,No Object
 1341,Crc5RztAB5q,GraphVideo,deertybhr,773,93,No Object,No Object,No Object,No Object,No Object,No Object
 1342,Crc2tlNAMOv,GraphVideo,deertybhr,124,1,No Object,No Object,No Object,No Object,No Object,No Object
 1343,Crb4F3wgfRY,GraphVideo,deertybhr,326,5,No Object,No Object,No Object,No Object,No Object,No Object
 1344,CrbwuIog0Rb,GraphVideo,deertybhr,3581,201,No Object,No Object,No Object,No Object,No Object,No Object
 1345,CrbXw4GgYb2,GraphVideo,deertybhr,3441,555,No Object,No Object,No Object,No Object,No Object,No Object
-1346,CrbXpxBN_Vi,GraphImage,deertybhr,215,0,‎bread,pie,text,No Object,No Object,No Object
-1347,CrawnAZt3sw,GraphImage,deertybhr,2361,159,‎display case,text,No Object,No Object,No Object,No Object
+1346,CrbXpxBN_Vi,GraphImage,deertybhr,215,0,bread,pie,text,No Object,No Object,No Object
+1347,CrawnAZt3sw,GraphImage,deertybhr,2361,159,display case,text,No Object,No Object,No Object,No Object
 1348,CraWEaSgIzG,GraphVideo,deertybhr,2147,208,No Object,No Object,No Object,No Object,No Object,No Object
 1349,CraTwJGAUC-,GraphVideo,deertybhr,347,20,No Object,No Object,No Object,No Object,No Object,No Object
-1350,CraTqq_NENM,GraphImage,deertybhr,399,14,‎water heater,water filter,text,No Object,No Object,No Object
+1350,CraTqq_NENM,GraphImage,deertybhr,399,14,water heater,water filter,text,No Object,No Object,No Object
 1351,CrZI-TlgaKa,GraphVideo,deertybhr,4241,424,No Object,No Object,No Object,No Object,No Object,No Object
 1352,Crb9-jfLS_g,GraphVideo,nfl,69016,551,No Object,No Object,No Object,No Object,No Object,No Object
 1353,CrbPH-VAbFK,GraphVideo,nfl,119757,705,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1361,7 +1361,7 @@
 1359,Crb3bazgngN,GraphImage,nfl,152641,2768,7 people,people playing football,football helmet,No Object,No Object,No Object
 1360,Crb1K3ng6pr,GraphVideo,nfl,17290,71,No Object,No Object,No Object,No Object,No Object,No Object
 1361,Crbzy3mPlCB,GraphSidecar,nfl,135482,694,2 people,people playing football,football helmet,helmet,stadium,No Object
-1362,CrbxXHLvw_M,GraphImage,nfl,435360,3153,‎3 people,people playing football,poster,football helmet,stadium,text
+1362,CrbxXHLvw_M,GraphImage,nfl,435360,3153,3 people,people playing football,poster,football helmet,stadium,text
 1363,CrbLeJmqz2J,GraphVideo,viralbhayani,112252,355,No Object,No Object,No Object,No Object,No Object,No Object
 1364,CrVaoqDgqI7,GraphVideo,viralbhayani,133361,409,No Object,No Object,No Object,No Object,No Object,No Object
 1365,CrVoNO9uTSF,GraphVideo,viralbhayani,155284,595,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1407,7 +1407,7 @@
 1405,CrcktQGuGzz,GraphSidecar,bleacherreport,226965,1834,3 people,people playing basketball,backboard,ball,scoreboard,No Object
 1406,CrcgexXuftA,GraphSidecar,bleacherreport,160245,1392,6 people,text,No Object,No Object,No Object,No Object
 1407,CrcbYfuMPuo,GraphSidecar,bleacherreport,38493,351,1 person,playing basketball,basketball jersey,ball,poster,backboard
-1408,CrcW4i5sQR6,GraphSidecar,bleacherreport,44455,442,‎4 people,people playing hockey,hockey stick,text,No Object,No Object
+1408,CrcW4i5sQR6,GraphSidecar,bleacherreport,44455,442,4 people,people playing hockey,hockey stick,text,No Object,No Object
 1409,CrdA5jZsdAJ,GraphVideo,laliga,2234,18,No Object,No Object,No Object,No Object,No Object,No Object
 1410,Crc6C2yLGmK,GraphVideo,laliga,3090,29,No Object,No Object,No Object,No Object,No Object,No Object
 1411,CrczDOgoeSf,GraphSidecar,laliga,39640,104,1 person,playing football,playing soccer,cleats,stadium,No Object
@@ -1444,7 +1444,7 @@
 1442,CrcouSZOpQL,GraphImage,sportscenter,203218,8009,1 person,playing basketball,ball,text,No Object,No Object
 1443,CrcnD7fOHso,GraphImage,sportscenter,189758,2059,1 person,playing basketball,basketball jersey,ball,poster,backboard
 1444,Crclxw5Od39,GraphSidecar,sportscenter,370359,4852,5 people,people playing basketball,ball,backboard,crowd,No Object
-1445,CrcSU3koY1Z,GraphSidecar,sportscenter,236024,2263,4 people,people playing basketball,sweat b,", ball and backboard",No Object,No Object
+1445,CrcSU3koY1Z,GraphSidecar,sportscenter,236024,2263,4 people,people playing basketball,sweat band,ball,backboard,No Object
 1446,CrcSKF5LEjH,GraphSidecar,sportscenter,255803,2254,1 person,playing basketball,ball,backboard,crowd,text
 1447,CrcMFF2opSn,GraphImage,sportscenter,113920,737,5 people,people playing basketball,basketball jersey,ball,backboard,crowd
 1448,CrcBbG9J9uO,GraphVideo,sportscenter,72359,423,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1504,16 +1504,16 @@
 1502,CrbCCHAIhLa,GraphImage,diariodetransferenciasdt,512,1,1 person,playing football,playing soccer,ball,No Object,No Object
 1503,CrdG_vdor3I,GraphVideo,hespress,96,1,No Object,No Object,No Object,No Object,No Object,No Object
 1504,CrdDtptoaw5,GraphVideo,hespress,331,2,No Object,No Object,No Object,No Object,No Object,No Object
-1505,Crc_0Hhobkk,GraphImage,hespress,818,3,‎1 person,text,No Object,No Object,No Object,No Object
+1505,Crc_0Hhobkk,GraphImage,hespress,818,3,1 person,text,No Object,No Object,No Object,No Object
 1506,Crc-aBWoYhr,GraphVideo,hespress,615,15,No Object,No Object,No Object,No Object,No Object,No Object
-1507,Crc891NIqog,GraphImage,hespress,2373,15,‎2 people,military uniform,text,No Object,No Object,No Object
+1507,Crc891NIqog,GraphImage,hespress,2373,15,2 people,military uniform,text,No Object,No Object,No Object
 1508,Crb_wJNoejn,GraphVideo,hespress,883,13,No Object,No Object,No Object,No Object,No Object,No Object
 1509,Crb6F40PyAA,GraphVideo,hespress,2432,48,No Object,No Object,No Object,No Object,No Object,No Object
-1510,Crb3LN4ImbW,GraphImage,hespress,76575,775,‎3 people,text,No Object,No Object,No Object,No Object
-1511,Crb2GbrJbSM,GraphImage,hespress,2442,14,‎5 people,text,No Object,No Object,No Object,No Object
+1510,Crb3LN4ImbW,GraphImage,hespress,76575,775,3 people,text,No Object,No Object,No Object,No Object
+1511,Crb2GbrJbSM,GraphImage,hespress,2442,14,5 people,text,No Object,No Object,No Object,No Object
 1512,Crb06ZxJiPE,GraphVideo,hespress,8859,362,No Object,No Object,No Object,No Object,No Object,No Object
 1513,Crby-0WvWP4,GraphVideo,hespress,12899,215,No Object,No Object,No Object,No Object,No Object,No Object
-1514,Crbrc4hvWGC,GraphImage,hespress,2943,27,‎1 person,military uniform,text,No Object,No Object,No Object
+1514,Crbrc4hvWGC,GraphImage,hespress,2943,27,1 person,military uniform,text,No Object,No Object,No Object
 1515,CrcSJeFP1mH,GraphSidecar,koreadispatch,96147,279,1 person,poster,sketch,No Object,No Object,No Object
 1516,CrcSHXVPrpv,GraphSidecar,koreadispatch,99022,261,1 person,poster,No Object,No Object,No Object,No Object
 1517,CrcSDtxP0kv,GraphSidecar,koreadispatch,159782,507,3 people,people dancing,costume,poster,curtains,No Object
@@ -1547,16 +1547,16 @@
 1545,CrcK_7YJ8jb,GraphVideo,wwe,86317,424,No Object,No Object,No Object,No Object,No Object,No Object
 1546,CrcJv8fs_-Y,GraphVideo,wwe,70223,502,No Object,No Object,No Object,No Object,No Object,No Object
 1547,CrcITNrpNjU,GraphVideo,wwe,23350,144,No Object,No Object,No Object,No Object,No Object,No Object
-1548,CrdEeeHIuqB,GraphImage,emaratalyoum,89,11,‎1 person,pie,text,No Object,No Object,No Object
+1548,CrdEeeHIuqB,GraphImage,emaratalyoum,89,11,1 person,pie,text,No Object,No Object,No Object
 1549,Crczq1hLU97,GraphVideo,emaratalyoum,662,36,No Object,No Object,No Object,No Object,No Object,No Object
-1550,Crcvm7gNKL_,GraphImage,emaratalyoum,213,47,‎4 people,people playing football,people playing soccer,text,No Object,No Object
-1551,CrcslX1NtIq,GraphImage,emaratalyoum,123,17,‎1 person,text,No Object,No Object,No Object,No Object
+1550,Crcvm7gNKL_,GraphImage,emaratalyoum,213,47,4 people,people playing football,people playing soccer,text,No Object,No Object
+1551,CrcslX1NtIq,GraphImage,emaratalyoum,123,17,1 person,text,No Object,No Object,No Object,No Object
 1552,CrcpaZEMqnJ,GraphVideo,emaratalyoum,898,67,No Object,No Object,No Object,No Object,No Object,No Object
-1553,CrcovoItNmA,GraphImage,emaratalyoum,142,22,‎4 people,text,No Object,No Object,No Object,No Object
-1554,Crch3qJtodB,GraphImage,emaratalyoum,240,16,‎money,plant,text,No Object,No Object,No Object
-1555,CrcbAfRopCZ,GraphImage,emaratalyoum,273,23,‎screen,text,No Object,No Object,No Object,No Object
-1556,CrbWQ_vJlU9,GraphImage,emaratalyoum,515,46,‎aircraft,text,No Object,No Object,No Object,No Object
-1557,CrbMSayvgyt,GraphImage,emaratalyoum,1488,135,‎3 people,hospital,text,No Object,No Object,No Object
+1553,CrcovoItNmA,GraphImage,emaratalyoum,142,22,4 people,text,No Object,No Object,No Object,No Object
+1554,Crch3qJtodB,GraphImage,emaratalyoum,240,16,money,plant,text,No Object,No Object,No Object
+1555,CrcbAfRopCZ,GraphImage,emaratalyoum,273,23,screen,text,No Object,No Object,No Object,No Object
+1556,CrbWQ_vJlU9,GraphImage,emaratalyoum,515,46,aircraft,text,No Object,No Object,No Object,No Object
+1557,CrbMSayvgyt,GraphImage,emaratalyoum,1488,135,3 people,hospital,text,No Object,No Object,No Object
 1558,CraMyCmocmg,GraphVideo,sonytvofficial,3049,53,No Object,No Object,No Object,No Object,No Object,No Object
 1559,CrSsNg-PbgK,GraphVideo,sonytvofficial,2912,54,No Object,No Object,No Object,No Object,No Object,No Object
 1560,CrKu8BVKmiv,GraphVideo,sonytvofficial,2462,56,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1602,7 +1602,7 @@
 1600,CrWWT2jvBT1,GraphVideo,djkhaled,141033,1286,No Object,No Object,No Object,No Object,No Object,No Object
 1601,CrREbOvuw4X,GraphVideo,djkhaled,54078,1000,No Object,No Object,No Object,No Object,No Object,No Object
 1602,CodGvsAu0Xe,GraphVideo,djkhaled,45425,3308,No Object,No Object,No Object,No Object,No Object,No Object
-1603,CrclV94s-_J,GraphImage,djkhaled,3592,101,‎2 people,people playing basketball,ball,scoreboard,backboard,text
+1603,CrclV94s-_J,GraphImage,djkhaled,3592,101,2 people,people playing basketball,ball,scoreboard,backboard,text
 1604,CrcTQuuLqdk,GraphVideo,djkhaled,5946,170,No Object,No Object,No Object,No Object,No Object,No Object
 1605,Crb8TGBrs6W,GraphSidecar,djkhaled,21594,317,4 people,cabana,No Object,No Object,No Object,No Object
 1606,CrbnKJ1ts6d,GraphVideo,djkhaled,26581,553,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1630,7 +1630,7 @@
 1628,CrcyJehPL_A,GraphImage,alkhaleej.ae,51,0,No Object,No Object,No Object,No Object,No Object,No Object
 1629,CrcxPIKuLy7,GraphVideo,alkhaleej.ae,9,1,No Object,No Object,No Object,No Object,No Object,No Object
 1630,CrcwDmUgbR_,GraphImage,alkhaleej.ae,160,36,No Object,No Object,No Object,No Object,No Object,No Object
-1631,CrcthsYtOm7,GraphImage,alkhaleej.ae,53,1,‎1 person,text,No Object,No Object,No Object,No Object
+1631,CrcthsYtOm7,GraphImage,alkhaleej.ae,53,1,1 person,text,No Object,No Object,No Object,No Object
 1632,CrcrAQZMKNN,GraphSidecar,alkhaleej.ae,16,0,2 people,poster,newspaper,magazine,No Object,No Object
 1633,CrclS_EgShq,GraphImage,alkhaleej.ae,48,16,poster,pie,No Object,No Object,No Object,No Object
 1634,CrGhBpuLiPf,GraphVideo,colorstv,21535,177,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1647,7 +1647,7 @@
 1645,Cra7ADuILIp,GraphVideo,colorstv,42834,378,No Object,No Object,No Object,No Object,No Object,No Object
 1646,CrdGAlNts7N,GraphImage,khaleejtimes,110,3,telescope,text,No Object,No Object,No Object,No Object
 1647,CrdESabtkC5,GraphImage,khaleejtimes,23,0,sail,boat,poster,text,No Object,No Object
-1648,Crc2kT2t-eR,GraphImage,khaleejtimes,32,5,text that says '#KTFOI The Future Of INSURANCE Pw Khalegi Times 24th May 2023 3rd Edition Insuring the future with tech trends AI,blockchain,,more! Join us for an eye-opening look at what's shaping the world,No Object,No Object
+1648,Crc2kT2t-eR,GraphImage,khaleejtimes,32,5,text,No Object,No Object,No Object,No Object,No Object
 1649,Crc1HXnIlrL,GraphVideo,khaleejtimes,146,6,No Object,No Object,No Object,No Object,No Object,No Object
 1650,CrcrOyCtoPx,GraphImage,khaleejtimes,79,3,crossword puzzle,text,No Object,No Object,No Object,No Object
 1651,Crcro7rMV4e,GraphImage,khaleejtimes,429,5,1 person,text,No Object,No Object,No Object,No Object
@@ -1736,17 +1736,17 @@
 1734,CrcA_INgFzk,GraphVideo,theneighborhoodtalk,5749,247,No Object,No Object,No Object,No Object,No Object,No Object
 1735,Crb_slSAHIc,GraphVideo,theneighborhoodtalk,24443,1551,No Object,No Object,No Object,No Object,No Object,No Object
 1736,Crb9egbA3qV,GraphVideo,theneighborhoodtalk,5224,226,No Object,No Object,No Object,No Object,No Object,No Object
-1737,CrboXoqL8iC,GraphImage,entre.nous.official,7442,1671,‎pie,text,No Object,No Object,No Object,No Object
-1738,Crbkj0Fr2mi,GraphImage,entre.nous.official,21530,3914,‎pie,text,No Object,No Object,No Object,No Object
-1739,CrbkPb_LUWG,GraphImage,entre.nous.official,12129,2709,‎pie,text,No Object,No Object,No Object,No Object
-1740,CrbkEIirRnW,GraphImage,entre.nous.official,24566,810,‎pie,text,No Object,No Object,No Object,No Object
-1741,CrbhSmKrq6I,GraphImage,entre.nous.official,11080,848,‎pie,text,No Object,No Object,No Object,No Object
-1742,Crbc4J0rw1D,GraphImage,entre.nous.official,3334,77,‎1 person,condiment,text,No Object,No Object,No Object
+1737,CrboXoqL8iC,GraphImage,entre.nous.official,7442,1671,pie,text,No Object,No Object,No Object,No Object
+1738,Crbkj0Fr2mi,GraphImage,entre.nous.official,21530,3914,pie,text,No Object,No Object,No Object,No Object
+1739,CrbkPb_LUWG,GraphImage,entre.nous.official,12129,2709,pie,text,No Object,No Object,No Object,No Object
+1740,CrbkEIirRnW,GraphImage,entre.nous.official,24566,810,pie,text,No Object,No Object,No Object,No Object
+1741,CrbhSmKrq6I,GraphImage,entre.nous.official,11080,848,pie,text,No Object,No Object,No Object,No Object
+1742,Crbc4J0rw1D,GraphImage,entre.nous.official,3334,77,1 person,condiment,text,No Object,No Object,No Object
 1743,CrbZWOTA1UF,GraphVideo,entre.nous.official,665,38,No Object,No Object,No Object,No Object,No Object,No Object
-1744,CrbX5jxr2Mx,GraphImage,entre.nous.official,866,56,‎2 people,text,No Object,No Object,No Object,No Object
-1745,CrbP4jWIWwW,GraphImage,entre.nous.official,13025,586,‎pie,text,No Object,No Object,No Object,No Object
-1746,CrbOmPXIXmT,GraphImage,entre.nous.official,27786,1159,‎one or more people,pie,text,No Object,No Object,No Object
-1747,CrbOAIeIj8s,GraphImage,entre.nous.official,13426,249,‎pie,text,No Object,No Object,No Object,No Object
+1744,CrbX5jxr2Mx,GraphImage,entre.nous.official,866,56,2 people,text,No Object,No Object,No Object,No Object
+1745,CrbP4jWIWwW,GraphImage,entre.nous.official,13025,586,pie,text,No Object,No Object,No Object,No Object
+1746,CrbOmPXIXmT,GraphImage,entre.nous.official,27786,1159,one or more people,pie,text,No Object,No Object,No Object
+1747,CrbOAIeIj8s,GraphImage,entre.nous.official,13426,249,pie,text,No Object,No Object,No Object,No Object
 1748,CrcKQboJ6kv,GraphVideo,nocap,155,33,No Object,No Object,No Object,No Object,No Object,No Object
 1749,CrcKNtHJbRA,GraphImage,nocap,4836,50,1 person,text,No Object,No Object,No Object,No Object
 1750,CrcB_wdpbCZ,GraphSidecar,nocap,111,109,hat,text,No Object,No Object,No Object,No Object
@@ -1757,7 +1757,7 @@
 1755,CrbNTBxOhgm,GraphImage,nocap,2935,22,1 person,text,No Object,No Object,No Object,No Object
 1756,CrbGqD6Od7V,GraphImage,nocap,5655,48,grasshopper,text,No Object,No Object,No Object,No Object
 0,CrJh9gsOT4z,GraphVideo,lahamag,100,11,No Object,No Object,No Object,No Object,No Object,No Object
-1,CrY5pJ2rMzD,GraphImage,lahamag,49,0,‎poster,text,No Object,No Object,No Object,No Object
+1,CrY5pJ2rMzD,GraphImage,lahamag,49,0,poster,text,No Object,No Object,No Object,No Object
 2,CrYeq3utMx5,GraphSidecar,lahamag,308,3,2 people,child,sweater,cardigan,No Object,No Object
 3,CrVGo1mAyI-,GraphSidecar,lahamag,312,9,1 person,makeup,hat,dress,No Object,No Object
 4,CrQZcFitGHG,GraphSidecar,lahamag,1673,12,3 people,dress,No Object,No Object,No Object,No Object
@@ -1771,7 +1771,7 @@
 4,Cra9H_4MgIc,GraphImage,flamengo,34766,121,1 person,poster,No Object,No Object,No Object,No Object
 5,Cra6-toLG-l,GraphVideo,flamengo,14506,35,No Object,No Object,No Object,No Object,No Object,No Object
 6,CrawrdCuUl7,GraphImage,flamengo,19541,62,2 people,text,No Object,No Object,No Object,No Object
-7,CrYoQqGrZro,GraphImage,flamengo,309604,20707,‎3 people,people playing football,people playing soccer,stadium,text,No Object
+7,CrYoQqGrZro,GraphImage,flamengo,309604,20707,3 people,people playing football,people playing soccer,stadium,text,No Object
 8,CrYgAc0ufKM,GraphImage,flamengo,270322,3504,2 people,people playing football,people playing soccer,stadium,No Object,No Object
 9,CrYVvEqsjCL,GraphVideo,flamengo,189229,719,No Object,No Object,No Object,No Object,No Object,No Object
 10,CrYSvnmrfQN,GraphSidecar,flamengo,389760,3906,1 person,playing soccer,playing football,poster,No Object,No Object
@@ -1780,7 +1780,7 @@
 2,Crb10zhspW7,GraphVideo,eye.on.palestine,7050,100,No Object,No Object,No Object,No Object,No Object,No Object
 3,Crbgi-jMnhv,GraphVideo,eye.on.palestine,23811,1321,No Object,No Object,No Object,No Object,No Object,No Object
 4,CrbXUr0NAZ_,GraphSidecar,eye.on.palestine,7283,222,flag,the Western Wall,No Object,No Object,No Object,No Object
-5,CrbEXqxN-wR,GraphSidecar,eye.on.palestine,20405,411,‎3 people,car,crowd,text,No Object,No Object
+5,CrbEXqxN-wR,GraphSidecar,eye.on.palestine,20405,411,3 people,car,crowd,text,No Object,No Object
 6,Cra-A58NFyH,GraphVideo,eye.on.palestine,38506,604,No Object,No Object,No Object,No Object,No Object,No Object
 7,Cra9NhDM_mH,GraphVideo,eye.on.palestine,14335,255,No Object,No Object,No Object,No Object,No Object,No Object
 0,CrdMHo2JnbC,GraphImage,samuelsianto,5,0,1 person,text,No Object,No Object,No Object,No Object
@@ -1796,9 +1796,9 @@
 3,CrdClvAoyEz,GraphVideo,elchiringuitotv,862,1,No Object,No Object,No Object,No Object,No Object,No Object
 4,CrdBkWxobVS,GraphImage,elchiringuitotv,6405,162,1 person,text,No Object,No Object,No Object,No Object
 5,CrdBedJIFNC,GraphImage,elchiringuitotv,2237,16,2 people,people playing basketball,ball,text,No Object,No Object
-6,CrdBY8Yo3Zv,GraphImage,elchiringuitotv,7372,14,‎1 person,playing basketball,ball,crowd,text,No Object
+6,CrdBY8Yo3Zv,GraphImage,elchiringuitotv,7372,14,1 person,playing basketball,ball,crowd,text,No Object
 7,CrdBEtfuj4B,GraphVideo,elchiringuitotv,425,1,No Object,No Object,No Object,No Object,No Object,No Object
-8,Crc5owcNQ9_,GraphSidecar,elchiringuitotv,3716,27,‎5 people,people playing soccer,people playing football,magazine,newspaper,poster
+8,Crc5owcNQ9_,GraphSidecar,elchiringuitotv,3716,27,5 people,people playing soccer,people playing football,magazine,newspaper,poster
 9,CrcQNrpvTpW,GraphVideo,elchiringuitotv,4785,37,No Object,No Object,No Object,No Object,No Object,No Object
 10,CrcP7FzK_kR,GraphVideo,elchiringuitotv,4608,175,No Object,No Object,No Object,No Object,No Object,No Object
 11,CrcNdsoOyqh,GraphVideo,elchiringuitotv,1434,6,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1851,10 +1851,10 @@
 11,CraGsHcsR-S,GraphVideo,saboskirt,5116,25,No Object,No Object,No Object,No Object,No Object,No Object
 0,Crbx3LtuTz6,GraphVideo,ufc,66618,297,No Object,No Object,No Object,No Object,No Object,No Object
 1,Crbgog1uF1i,GraphVideo,ufc,15751,109,No Object,No Object,No Object,No Object,No Object,No Object
-2,CrbIn09PGz_,GraphImage,ufc,69335,426,‎2 people,poster,text,No Object,No Object,No Object
+2,CrbIn09PGz_,GraphImage,ufc,69335,426,2 people,poster,text,No Object,No Object,No Object
 3,CrZX34XJfXe,GraphVideo,ufc,93484,554,No Object,No Object,No Object,No Object,No Object,No Object
 4,CrXDlrysgzf,GraphVideo,ufc,194100,2032,No Object,No Object,No Object,No Object,No Object,No Object
-5,CrXDlpttUDc,GraphSidecar,ufc,120129,906,‎2 people,text,No Object,No Object,No Object,No Object
+5,CrXDlpttUDc,GraphSidecar,ufc,120129,906,2 people,text,No Object,No Object,No Object,No Object
 6,CrXCXC1JwzX,GraphVideo,ufc,103942,1299,No Object,No Object,No Object,No Object,No Object,No Object
 7,CrXADhrpsd8,GraphVideo,ufc,303368,784,No Object,No Object,No Object,No Object,No Object,No Object
 0,CrdKvVaxXLd,GraphVideo,onepalon,32,6,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1914,12 +1914,12 @@
 2,CrdFA4BoMS7,GraphVideo,chouftv_official,29,1,No Object,No Object,No Object,No Object,No Object,No Object
 3,CrdEGIII_xL,GraphVideo,chouftv_official,74,3,No Object,No Object,No Object,No Object,No Object,No Object
 4,CrdDBwXtpbE,GraphVideo,chouftv_official,636,25,No Object,No Object,No Object,No Object,No Object,No Object
-5,Crc98IhJtQ6,GraphImage,chouftv_official,285,1,‎2 people,pie,text,No Object,No Object,No Object
-6,Crc96RlorPI,GraphImage,chouftv_official,55,0,‎pie,phone,text,No Object,No Object,No Object
-7,Crc93nIM8Nx,GraphImage,chouftv_official,487,1,‎1 person,playing football,text,No Object,No Object,No Object
-8,Crc9zoEvbS1,GraphImage,chouftv_official,424,5,‎1 person,text,No Object,No Object,No Object,No Object
-9,Crc9xiCovtg,GraphImage,chouftv_official,366,0,‎1 person,screen,text,No Object,No Object,No Object
-10,Crc9twDtLZu,GraphImage,chouftv_official,116,0,‎sports equipment,text,No Object,No Object,No Object,No Object
+5,Crc98IhJtQ6,GraphImage,chouftv_official,285,1,2 people,pie,text,No Object,No Object,No Object
+6,Crc96RlorPI,GraphImage,chouftv_official,55,0,pie,phone,text,No Object,No Object,No Object
+7,Crc93nIM8Nx,GraphImage,chouftv_official,487,1,1 person,playing football,text,No Object,No Object,No Object
+8,Crc9zoEvbS1,GraphImage,chouftv_official,424,5,1 person,text,No Object,No Object,No Object,No Object
+9,Crc9xiCovtg,GraphImage,chouftv_official,366,0,1 person,screen,text,No Object,No Object,No Object
+10,Crc9twDtLZu,GraphImage,chouftv_official,116,0,sports equipment,text,No Object,No Object,No Object,No Object
 11,Crc9kh5Iuzl,GraphImage,chouftv_official,485,16,1 person,strawberry,vegetable,No Object,No Object,No Object
 0,Cra89l1ski0,GraphImage,gazetemagazin,8209,1575,2 people,top,blazer,jumpsuit,text,No Object
 1,CraucqEsjJ5,GraphSidecar,gazetemagazin,10664,1069,3 people,dress,high-heeled shoes,No Object,No Object,No Object
@@ -1942,7 +1942,7 @@
 6,CrdBmSKt_G0,GraphImage,sportskeedacricket,3770,9,1 person,playing cricket,text,No Object,No Object,No Object
 7,Crc7rZoPKYn,GraphImage,sportskeedacricket,11546,719,6 people,people playing cricket,text,No Object,No Object,No Object
 8,Crc2Xzqt3UP,GraphImage,sportskeedacricket,601,42,football,baseball,cricket,sports equipment,text,No Object
-9,Crc0-eiPsEP,GraphImage,sportskeedacricket,24611,422,ficial,,@ravindra,No Object,No Object,No Object
+9,Crc0-eiPsEP,GraphImage,sportskeedacricket,24611,422,No Object,No Object,No Object,No Object,No Object,No Object
 10,CrcxPPUPv0d,GraphVideo,sportskeedacricket,926,1,No Object,No Object,No Object,No Object,No Object,No Object
 0,Crcr1vAAD77,GraphVideo,zeetv,14048,38,No Object,No Object,No Object,No Object,No Object,No Object
 1,CrVSL2IgJ0k,GraphVideo,zeetv,36069,507,No Object,No Object,No Object,No Object,No Object,No Object
@@ -1962,7 +1962,7 @@
 3,CrZNFm-J0UV,GraphImage,corinthians,108023,1190,1 person,playing football,playing soccer,playing baseball,cleats,sportswear
 4,CrZL1rIuylA,GraphSidecar,corinthians,246833,1330,1 person,beard,stadium,No Object,No Object,No Object
 5,CrZK4xeOyc4,GraphVideo,corinthians,176485,1502,No Object,No Object,No Object,No Object,No Object,No Object
-6,CrZJkMVOKSR,GraphImage,corinthians,267612,5526,‎1 person,playing soccer,sports equipment,stadium,text,No Object
+6,CrZJkMVOKSR,GraphImage,corinthians,267612,5526,1 person,playing soccer,sports equipment,stadium,text,No Object
 7,CrZF5YEMuaf,GraphVideo,corinthians,66632,407,No Object,No Object,No Object,No Object,No Object,No Object
 8,CrZDM8Pus6X,GraphSidecar,corinthians,117289,457,soccer,sports equipment,sportswear,No Object,No Object,No Object
 9,CrY_YDOpNPJ,GraphImage,corinthians,178527,766,soccer,football,sports equipment,No Object,No Object,No Object
@@ -2008,7 +2008,7 @@
 4,CraBNxqPAfk,GraphImage,indonesiabertauhidofficial,1394,7,slow loris,calendar,poster,No Object,No Object,No Object
 5,CrTDLymvTb5,GraphImage,indonesiabertauhidofficial,1151,4,headscarf,poster,text,No Object,No Object,No Object
 6,CrSKNwiAkqn,GraphVideo,indonesiabertauhidofficial,311,5,No Object,No Object,No Object,No Object,No Object,No Object
-7,CrSGcipv_sb,GraphImage,indonesiabertauhidofficial,2750,6,‎text that says '‎Meski Ramadan Usai,Amal Shalih Jangan Usai Ini adalah t,"a diterimanya amal kita Para ulama' mengatakan, بعدها الحسنة الحسنة قبول علامةِ من إن ""Sesungguhnya diantara alamat diterimanya kebaikan adalah kebaikan selanjutnya"" @indonesiabertauhid",No Object,No Object,No Object
+7,CrSGcipv_sb,GraphImage,indonesiabertauhidofficial,2750,6,text,No Object,No Object,No Object,No Object,No Object
 8,CrNB1zaJPkL,GraphVideo,indonesiabertauhidofficial,375,0,No Object,No Object,No Object,No Object,No Object,No Object
 9,CrMhAlDvEnw,GraphImage,indonesiabertauhidofficial,1197,3,2 people,scooter,poster,text,No Object,No Object
 10,CrKvAxINCm6,GraphVideo,indonesiabertauhidofficial,312,4,No Object,No Object,No Object,No Object,No Object,No Object
