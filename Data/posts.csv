@@ -12,7 +12,7 @@
 10,CrUE3a6tRs4,GraphSidecar,cristiano,7720568,42249,2 people,people playing football,people playing soccer,ball,No Object,No Object
 11,CrK_zvLAofv,GraphImage,cristiano,14451079,103278,1 person,baby,No Object,No Object,No Object,No Object
 12,CrGMggNq1Cb,GraphSidecar,cristiano,9705257,48990,1 person,playing football,playing soccer,ball,stadium,No Object
-13,CrEHoMbK0_C,GraphImage,cristiano,8006265,45701,1 person,st,"ing, phone, wrist watch, screen and tablet",No Object,No Object,No Object
+13,CrEHoMbK0_C,GraphImage,cristiano,8006265,45701,1 person,standing,phone,wrist watch,screen,tablet
 14,Cq8QZGDIix1,GraphImage,cristiano,6771138,48148,2 people,people golfing,golf course,text,No Object,No Object
 15,CqxINLiOCPK,GraphVideo,cristiano,2851765,35347,No Object,No Object,No Object,No Object,No Object,No Object
 16,CqoZ8pRo91y,GraphSidecar,cristiano,12950245,94281,1 person,playing football,playing soccer,ball,stadium,No Object
@@ -114,9 +114,9 @@
 112,Cpvaj1vPzQK,GraphImage,justinbieber,811279,5103,1 person,toecap shoes,boots,parka,No Object,No Object
 113,CpvOwoYrzl5,GraphImage,justinbieber,3687186,44389,2 people,makeup,people kissing,headscarf,bolo tie,dress
 114,CpsfJ0qOdSL,GraphSidecar,justinbieber,8453801,104244,1 person,boat,underwear,No Object,No Object,No Object
-115,CpYkqEVvLZv,GraphSidecar,justinbieber,2004765,23347,2 people,people st,"ing, sweatsuit and park",No Object,No Object,No Object
-116,CpYkewCPiJh,GraphSidecar,justinbieber,3432258,21691,4 people,people st,"ing, balloon and park",No Object,No Object,No Object
-117,CpYkNlsPVpd,GraphSidecar,justinbieber,6475738,36453,2 people,people st,"ing, balloon, beach ball, glasses and park",No Object,No Object,No Object
+115,CpYkqEVvLZv,GraphSidecar,justinbieber,2004765,23347,2 people,people standing,sweatsuit ,park,No Object,No Object
+116,CpYkewCPiJh,GraphSidecar,justinbieber,3432258,21691,4 people,people standing,balloon,park,No Object,No Object
+117,CpYkNlsPVpd,GraphSidecar,justinbieber,6475738,36453,2 people,people standing,balloon,beach ball,glasses,park
 118,Crb1PDGuc4A,GraphSidecar,nike,57607,352,1 person,goosedown coat,flight jacket,fleece,sportswear,raincoat
 119,Crbc3ZCO0B5,GraphSidecar,nike,69766,314,5 people,people playing football,people playing soccer,No Object,No Object,No Object
 120,CrZbeyiPmFg,GraphImage,nike,82404,422,1 person,golfing,golf club,golf course,No Object,No Object
@@ -198,7 +198,7 @@
 196,CrD7I3hNTLa,GraphVideo,nickiminaj,731246,7310,No Object,No Object,No Object,No Object,No Object,No Object
 197,CrBcp7Fgm6t,GraphVideo,nickiminaj,1499070,25047,No Object,No Object,No Object,No Object,No Object,No Object
 198,CrATqN0u6K7,GraphImage,nickiminaj,1332108,11168,one or more people,fingernails,makeup,high-heeled shoes,No Object,No Object
-199,Cqw5WirOR7o,GraphImage,nickiminaj,1457992,13201,3 people,people st,"ing, fur coat, sweatsuit and flight jacket",No Object,No Object,No Object
+199,Cqw5WirOR7o,GraphImage,nickiminaj,1457992,13201,3 people,people standing,fur coat,sweatsuit,flight jacket,No Object
 200,CqvYMiaLR8e,GraphSidecar,nickiminaj,1297772,13161,1 person,makeup,gown,No Object,No Object,No Object
 201,CquOEqiMi7w,GraphVideo,nickiminaj,1595749,23865,No Object,No Object,No Object,No Object,No Object,No Object
 202,Cqa7_QmpDqL,GraphSidecar,nickiminaj,1659777,27373,1 person,makeup,No Object,No Object,No Object,No Object
@@ -254,7 +254,7 @@
 252,CrUEWYcJt_H,GraphVideo,kevinhart4real,47980,499,No Object,No Object,No Object,No Object,No Object,No Object
 253,CrThQfdLMNS,GraphImage,kevinhart4real,162629,1129,4 people,suit,overcoat,loafer,dinner jacket,blazer
 254,CrRsMpXNYZx,GraphVideo,kevinhart4real,20701,210,No Object,No Object,No Object,No Object,No Object,No Object
-255,CrPJ6UXL7rO,GraphImage,kevinhart4real,118250,922,5 people,people st,"ing, shoes, fleece, sweatshirt, sweatsuit and sweatpants",No Object,No Object,No Object
+255,CrPJ6UXL7rO,GraphImage,kevinhart4real,118250,922,5 people,people standing,shoes,fleece,sweatshirt,sweatsuit
 256,CrOA05zux5o,GraphVideo,kevinhart4real,61477,474,No Object,No Object,No Object,No Object,No Object,No Object
 257,CrJrHlfvOPW,GraphImage,ddlovato,146474,2429,1 person,makeup,hair,magazine,poster,No Object
 258,CqtIkw3PhE6,GraphSidecar,ddlovato,654334,3959,1 person,makeup,sweater,sweatshirt,sweatpants,No Object
@@ -275,7 +275,7 @@
 273,CqgexRgg0iC,GraphVideo,badgalriri,7282010,47786,No Object,No Object,No Object,No Object,No Object,No Object
 274,CqONOfmvIDV,GraphSidecar,badgalriri,4809730,16581,1 person,makeup,lipstick,eyeliner,No Object,No Object
 275,CqEUmHTP9-9,GraphImage,badgalriri,3044892,10630,1 person,eyeliner,lipstick,makeup,No Object,No Object
-276,Cpa-qsiuJOD,GraphSidecar,badgalriri,8350939,38677,1 person,baby,st,"ing, playpen and diaper",No Object,No Object
+276,Cpa-qsiuJOD,GraphSidecar,badgalriri,8350939,38677,1 person,baby,standing,playpen,diaper,No Object
 277,CovmqHZPkAk,GraphSidecar,badgalriri,2558820,12547,one or more people,makeup,fire,magazine,dress,fireplace
 278,CovjfJvPWEB,GraphSidecar,badgalriri,6972851,25151,one or more people,makeup,magazine,dress,gown,No Object
 279,CotESMHvkjC,GraphSidecar,badgalriri,12171968,58377,baby,text,No Object,No Object,No Object,No Object
@@ -293,7 +293,7 @@
 291,CqkU24buNM8,GraphSidecar,champagnepapi,1827469,67,2 people,microphone,concert,No Object,No Object,No Object
 292,CqeNfv6ukVy,GraphImage,champagnepapi,686328,93,1 person,concert,No Object,No Object,No Object,No Object
 293,CqZDoMmOPOr,GraphSidecar,champagnepapi,1331622,135,3 people,cigar,crowd,No Object,No Object,No Object
-294,CqJWMnxuolR,GraphSidecar,champagnepapi,1072662,60,6 people,people st,"ing, hookah and night",No Object,No Object,No Object
+294,CqJWMnxuolR,GraphSidecar,champagnepapi,1072662,60,6 people,people standing,hookah,night,No Object,No Object
 295,Cp9N0k9uXYt,GraphSidecar,champagnepapi,1511701,93,pool,outdoors,No Object,No Object,No Object,No Object
 296,Cpunut_Pnte,GraphVideo,champagnepapi,1985753,208,No Object,No Object,No Object,No Object,No Object,No Object
 297,CprQa3rO9mv,GraphImage,champagnepapi,1780741,83,1 person,beard,No Object,No Object,No Object,No Object
@@ -323,9 +323,9 @@
 321,CrYqoWxIeQ_,GraphImage,fcbarcelona,1521725,2188,2 people,people playing football,people playing soccer,ball,poster,stadium
 322,Cq-3AeXrmuk,GraphImage,billieeilish,3037728,14884,one or more people,bangs,makeup,cigarette,No Object,No Object
 323,Cq6Q7SUPhXJ,GraphSidecar,billieeilish,12577712,51859,1 person,parasol,sundress,No Object,No Object,No Object
-324,CqYVkH0uAvl,GraphSidecar,billieeilish,5651731,23059,1 person,sweat b,", sportswear and costume",No Object,No Object,No Object
+324,CqYVkH0uAvl,GraphSidecar,billieeilish,5651731,23059,1 person,sweat band,sportswear,costume,No Object,No Object
 325,CqQgeQcOyL5,GraphSidecar,billieeilish,4268901,27383,1 person,crowd,text,No Object,No Object,No Object
-326,CqQf-kCOWeu,GraphSidecar,billieeilish,7787083,77897,1 person,bangs,hat,sweat b,", top and concert",No Object
+326,CqQf-kCOWeu,GraphSidecar,billieeilish,7787083,77897,1 person,bangs,hat,sweat band,top,concert
 327,CqKL3Set_4l,GraphSidecar,billieeilish,3797135,11908,1 person,crowd,concert,No Object,No Object,No Object
 328,CqG6fvgO3pq,GraphSidecar,billieeilish,6565458,20722,1 person,microphone,concert,No Object,No Object,No Object
 329,CqGOK4NJukv,GraphSidecar,billieeilish,2283913,3229,1 person,sneakers,sportswear,sweatpants,No Object,No Object
@@ -341,7 +341,7 @@
 339,CrGNkMtuoga,GraphVideo,k.mbappe,1114549,6337,No Object,No Object,No Object,No Object,No Object,No Object
 340,CqTugGXMts2,GraphSidecar,k.mbappe,5465831,23296,2 people,baby,people smiling,snowsuit,No Object,No Object
 341,CqMIY8oD-NO,GraphSidecar,k.mbappe,5473924,17345,1 person,playing football,playing soccer,stadium,text,No Object
-342,CqBJKjMMOU6,GraphSidecar,k.mbappe,5351738,28154,1 person,st,"ing, overcoat, wingtip shoes, jacket, fleece and park",No Object,No Object,No Object
+342,CqBJKjMMOU6,GraphSidecar,k.mbappe,5351738,28154,1 person,standing,overcoat,fleece,wingtip shoes,jacket
 343,Cp29r6yslVY,GraphSidecar,k.mbappe,6630336,35779,1 person,sunglasses,glasses,No Object,No Object,No Object
 344,CpqrATUD4O6,GraphImage,k.mbappe,2907997,16173,1 person,playing football,playing soccer,stadium,text,No Object
 345,CpfVrMYg5VE,GraphVideo,k.mbappe,4836231,52172,No Object,No Object,No Object,No Object,No Object,No Object
@@ -373,7 +373,7 @@
 371,CrCVF3OP40-,GraphSidecar,lalalalisa_m,8725585,73438,1 person,hair,bra,bolo tie,miniskirt,top
 372,Cqou6WAPXzE,GraphSidecar,lalalalisa_m,10128126,165373,1 person,hair,baby's-breath,rose,No Object,No Object
 373,Cqf2hMprkqD,GraphSidecar,lalalalisa_m,8283746,98260,1 person,hair,tinsel,dress,balloon,No Object
-374,Cqf1zmhLDjg,GraphSidecar,lalalalisa_m,13583559,173464,1 person,c,"le holder, balloon, sparkler, candle, lollipop and cake",No Object,No Object,No Object
+374,Cqf1zmhLDjg,GraphSidecar,lalalalisa_m,13583559,173464,1 person,candle holder,balloon,sparkler,candle,lollipop
 375,CqQYb1RvuLa,GraphSidecar,lalalalisa_m,11125320,176038,4 people,concert,No Object,No Object,No Object,No Object
 376,CqPfndvLaaq,GraphSidecar,lalalalisa_m,10248894,78567,1 person,top,miniskirt,No Object,No Object,No Object
 377,Crbv5CfJ5nj,GraphSidecar,nasa,796482,1380,No Object,No Object,No Object,No Object,No Object,No Object
@@ -506,7 +506,7 @@
 504,CqdMWQAsvD6,GraphSidecar,aliaabhatt,2993329,11262,1 person,makeup,jewelry,dress,No Object,No Object
 505,CqSWYhis8ik,GraphSidecar,aliaabhatt,3044248,6135,2 people,overcoat,duffle coat,umbrella,parka,street
 506,Cp5IRxSMPeA,GraphSidecar,aliaabhatt,2156041,4336,7 people,people dancing,wedding,No Object,No Object,No Object
-507,Cp1zm3dsARW,GraphSidecar,aliaabhatt,5539127,16801,2 people,c,"le holder, candle and chocolate cake",No Object,No Object,No Object
+507,Cp1zm3dsARW,GraphSidecar,aliaabhatt,5539127,16801,2 people,candle holder,candle,chocolate cake,No Object,No Object
 508,CpsLhazMbmW,GraphImage,aliaabhatt,2710153,8475,1 person,top,No Object,No Object,No Object,No Object
 509,CpmMBCILt4-,GraphSidecar,aliaabhatt,1935386,6022,1 person,makeup,dress,text,No Object,No Object
 510,CpmLqpwrjfl,GraphSidecar,aliaabhatt,1451227,4625,1 person,makeup,magazine,text,No Object,No Object
