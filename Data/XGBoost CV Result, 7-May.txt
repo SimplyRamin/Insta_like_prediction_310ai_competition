@@ -1,0 +1,3030 @@
+CV with max_depth: 5, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 430,303.75, rounds: 25
+CV with max_depth: 5, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 442,774.24, rounds: 25
+CV with max_depth: 5, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 441,058.63, rounds: 16
+CV with max_depth: 5, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 420,741.64, rounds: 15
+CV with max_depth: 5, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 424,710.19, rounds: 25
+CV with max_depth: 5, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 416,182.94, rounds: 27
+CV with max_depth: 5, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 434,100.67, rounds: 21
+CV with max_depth: 5, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 414,795.39, rounds: 14
+CV with max_depth: 5, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 429,602.15, rounds: 32
+CV with max_depth: 5, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 420,045.38, rounds: 34
+CV with max_depth: 5, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 418,716.60, rounds: 37
+CV with max_depth: 5, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 424,967.79, rounds: 29
+CV with max_depth: 5, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 421,502.93, rounds: 66
+CV with max_depth: 5, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 418,166.46, rounds: 69
+CV with max_depth: 5, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 416,114.26, rounds: 77
+CV with max_depth: 5, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 423,613.69, rounds: 64
+CV with max_depth: 5, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 415,602.79, rounds: 360
+CV with max_depth: 5, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 417,258.72, rounds: 327
+CV with max_depth: 5, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 415,779.25, rounds: 366
+CV with max_depth: 5, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 426,546.61, rounds: 328
+CV with max_depth: 5, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 415,280.29, rounds: 745
+CV with max_depth: 5, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 414,849.58, rounds: 752
+CV with max_depth: 5, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 414,242.54, rounds: 776
+CV with max_depth: 5, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 428,009.54, rounds: 652
+CV with max_depth: 5, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 443,564.72, rounds: 10
+CV with max_depth: 5, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 451,194.27, rounds: 11
+CV with max_depth: 5, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 431,550.33, rounds: 14
+CV with max_depth: 5, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 419,014.48, rounds: 11
+CV with max_depth: 5, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 430,664.32, rounds: 20
+CV with max_depth: 5, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 427,483.67, rounds: 16
+CV with max_depth: 5, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 425,418.47, rounds: 21
+CV with max_depth: 5, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 424,116.98, rounds: 17
+CV with max_depth: 5, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 430,945.70, rounds: 30
+CV with max_depth: 5, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 420,857.00, rounds: 48
+CV with max_depth: 5, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 412,710.04, rounds: 32
+CV with max_depth: 5, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 424,372.70, rounds: 34
+CV with max_depth: 5, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 422,015.13, rounds: 78
+CV with max_depth: 5, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 411,904.69, rounds: 84
+CV with max_depth: 5, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 414,649.37, rounds: 72
+CV with max_depth: 5, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 427,730.25, rounds: 67
+CV with max_depth: 5, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 415,996.93, rounds: 366
+CV with max_depth: 5, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 412,283.59, rounds: 393
+CV with max_depth: 5, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 414,179.04, rounds: 366
+CV with max_depth: 5, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 429,605.95, rounds: 358
+CV with max_depth: 5, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 418,308.88, rounds: 683
+CV with max_depth: 5, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 417,837.44, rounds: 714
+CV with max_depth: 5, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 418,513.30, rounds: 774
+CV with max_depth: 5, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 429,176.88, rounds: 718
+CV with max_depth: 5, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 446,876.33, rounds: 16
+CV with max_depth: 5, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 452,178.99, rounds: 9
+CV with max_depth: 5, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 432,850.49, rounds: 11
+CV with max_depth: 5, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 420,407.01, rounds: 8
+CV with max_depth: 5, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 427,186.97, rounds: 16
+CV with max_depth: 5, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 422,293.83, rounds: 30
+CV with max_depth: 5, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 434,080.68, rounds: 25
+CV with max_depth: 5, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 429,076.71, rounds: 16
+CV with max_depth: 5, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 429,638.52, rounds: 43
+CV with max_depth: 5, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 429,654.11, rounds: 42
+CV with max_depth: 5, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 413,797.31, rounds: 39
+CV with max_depth: 5, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 415,586.15, rounds: 31
+CV with max_depth: 5, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 418,971.38, rounds: 93
+CV with max_depth: 5, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 416,661.88, rounds: 71
+CV with max_depth: 5, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 417,244.80, rounds: 84
+CV with max_depth: 5, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 425,929.85, rounds: 70
+CV with max_depth: 5, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 415,482.00, rounds: 327
+CV with max_depth: 5, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 413,690.70, rounds: 352
+CV with max_depth: 5, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 415,437.40, rounds: 409
+CV with max_depth: 5, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 425,185.67, rounds: 346
+CV with max_depth: 5, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 415,351.19, rounds: 721
+CV with max_depth: 5, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 416,003.30, rounds: 672
+CV with max_depth: 5, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 417,494.51, rounds: 704
+CV with max_depth: 5, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 425,809.51, rounds: 668
+CV with max_depth: 5, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 454,967.96, rounds: 18
+CV with max_depth: 5, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 424,711.67, rounds: 12
+CV with max_depth: 5, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 432,588.48, rounds: 15
+CV with max_depth: 5, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 434,361.33, rounds: 13
+CV with max_depth: 5, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 433,098.40, rounds: 16
+CV with max_depth: 5, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 419,602.90, rounds: 19
+CV with max_depth: 5, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 429,907.27, rounds: 16
+CV with max_depth: 5, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 417,044.37, rounds: 18
+CV with max_depth: 5, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 422,252.41, rounds: 38
+CV with max_depth: 5, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 421,162.64, rounds: 32
+CV with max_depth: 5, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 410,518.07, rounds: 44
+CV with max_depth: 5, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 415,484.75, rounds: 36
+CV with max_depth: 5, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 419,284.29, rounds: 65
+CV with max_depth: 5, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 415,373.42, rounds: 65
+CV with max_depth: 5, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 415,917.41, rounds: 61
+CV with max_depth: 5, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 418,614.12, rounds: 81
+CV with max_depth: 5, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 414,708.72, rounds: 328
+CV with max_depth: 5, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 410,212.26, rounds: 349
+CV with max_depth: 5, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 413,735.07, rounds: 378
+CV with max_depth: 5, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 416,183.29, rounds: 372
+CV with max_depth: 5, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 413,747.61, rounds: 693
+CV with max_depth: 5, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 411,008.59, rounds: 695
+CV with max_depth: 5, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 414,587.72, rounds: 673
+CV with max_depth: 5, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 416,780.22, rounds: 745
+CV with max_depth: 5, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 457,061.12, rounds: 25
+CV with max_depth: 5, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 441,609.66, rounds: 11
+CV with max_depth: 5, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 440,364.76, rounds: 15
+CV with max_depth: 5, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 424,035.22, rounds: 19
+CV with max_depth: 5, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 448,174.46, rounds: 18
+CV with max_depth: 5, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 422,176.77, rounds: 18
+CV with max_depth: 5, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 428,002.87, rounds: 26
+CV with max_depth: 5, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 420,058.34, rounds: 20
+CV with max_depth: 5, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 418,367.33, rounds: 37
+CV with max_depth: 5, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 429,686.82, rounds: 30
+CV with max_depth: 5, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 409,027.72, rounds: 40
+CV with max_depth: 5, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 410,196.97, rounds: 37
+CV with max_depth: 5, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 419,581.63, rounds: 71
+CV with max_depth: 5, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 415,058.96, rounds: 71
+CV with max_depth: 5, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 413,762.77, rounds: 72
+CV with max_depth: 5, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 417,534.77, rounds: 73
+CV with max_depth: 5, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 414,856.79, rounds: 366
+CV with max_depth: 5, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 410,882.56, rounds: 358
+CV with max_depth: 5, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 409,219.62, rounds: 424
+CV with max_depth: 5, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 413,736.00, rounds: 368
+CV with max_depth: 5, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 414,169.92, rounds: 693
+CV with max_depth: 5, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 412,265.13, rounds: 695
+CV with max_depth: 5, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 410,352.99, rounds: 745
+CV with max_depth: 5, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 415,201.98, rounds: 655
+CV with max_depth: 5, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 454,529.22, rounds: 16
+CV with max_depth: 5, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 439,324.34, rounds: 19
+CV with max_depth: 5, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 439,516.23, rounds: 16
+CV with max_depth: 5, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 417,616.47, rounds: 12
+CV with max_depth: 5, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 443,279.75, rounds: 16
+CV with max_depth: 5, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 426,758.94, rounds: 14
+CV with max_depth: 5, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 425,325.02, rounds: 25
+CV with max_depth: 5, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 416,078.48, rounds: 19
+CV with max_depth: 5, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 421,019.38, rounds: 49
+CV with max_depth: 5, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 420,455.85, rounds: 32
+CV with max_depth: 5, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 413,366.93, rounds: 40
+CV with max_depth: 5, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 415,602.17, rounds: 46
+CV with max_depth: 5, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 418,583.61, rounds: 81
+CV with max_depth: 5, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 413,704.74, rounds: 84
+CV with max_depth: 5, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 414,614.73, rounds: 71
+CV with max_depth: 5, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 412,299.51, rounds: 89
+CV with max_depth: 5, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 415,900.73, rounds: 351
+CV with max_depth: 5, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 414,160.01, rounds: 365
+CV with max_depth: 5, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 411,912.97, rounds: 364
+CV with max_depth: 5, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 409,298.02, rounds: 446
+CV with max_depth: 5, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 415,549.31, rounds: 650
+CV with max_depth: 5, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 413,793.72, rounds: 686
+CV with max_depth: 5, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 410,972.69, rounds: 733
+CV with max_depth: 5, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 411,461.35, rounds: 721
+CV with max_depth: 5, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 449,595.31, rounds: 8
+CV with max_depth: 5, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 453,302.49, rounds: 16
+CV with max_depth: 5, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 444,907.45, rounds: 16
+CV with max_depth: 5, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 417,965.74, rounds: 16
+CV with max_depth: 5, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 436,541.42, rounds: 15
+CV with max_depth: 5, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 439,259.85, rounds: 16
+CV with max_depth: 5, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 443,486.32, rounds: 26
+CV with max_depth: 5, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 416,045.73, rounds: 18
+CV with max_depth: 5, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 422,801.09, rounds: 53
+CV with max_depth: 5, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 427,968.34, rounds: 32
+CV with max_depth: 5, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 415,534.23, rounds: 40
+CV with max_depth: 5, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 413,819.30, rounds: 37
+CV with max_depth: 5, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 420,347.88, rounds: 81
+CV with max_depth: 5, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 418,512.76, rounds: 84
+CV with max_depth: 5, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 418,504.73, rounds: 71
+CV with max_depth: 5, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 413,920.59, rounds: 83
+CV with max_depth: 5, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 418,987.95, rounds: 351
+CV with max_depth: 5, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 417,910.39, rounds: 341
+CV with max_depth: 5, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 411,339.93, rounds: 346
+CV with max_depth: 5, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 413,659.14, rounds: 371
+CV with max_depth: 5, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 417,559.31, rounds: 744
+CV with max_depth: 5, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 414,637.07, rounds: 687
+CV with max_depth: 5, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 411,949.55, rounds: 755
+CV with max_depth: 5, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 412,939.94, rounds: 746
+CV with max_depth: 6, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 433,840.34, rounds: 25
+CV with max_depth: 6, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 438,372.76, rounds: 14
+CV with max_depth: 6, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 445,360.57, rounds: 11
+CV with max_depth: 6, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 413,196.00, rounds: 9
+CV with max_depth: 6, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 428,574.09, rounds: 15
+CV with max_depth: 6, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 428,385.36, rounds: 12
+CV with max_depth: 6, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 423,052.94, rounds: 23
+CV with max_depth: 6, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 422,514.17, rounds: 18
+CV with max_depth: 6, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 428,367.58, rounds: 32
+CV with max_depth: 6, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 418,990.99, rounds: 32
+CV with max_depth: 6, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 414,821.46, rounds: 35
+CV with max_depth: 6, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 418,568.58, rounds: 37
+CV with max_depth: 6, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 418,226.73, rounds: 66
+CV with max_depth: 6, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 416,912.10, rounds: 69
+CV with max_depth: 6, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 412,596.90, rounds: 77
+CV with max_depth: 6, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 431,161.86, rounds: 63
+CV with max_depth: 6, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 415,521.45, rounds: 351
+CV with max_depth: 6, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 414,739.30, rounds: 327
+CV with max_depth: 6, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 417,476.08, rounds: 338
+CV with max_depth: 6, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 428,509.31, rounds: 337
+CV with max_depth: 6, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 412,060.55, rounds: 757
+CV with max_depth: 6, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 413,793.79, rounds: 731
+CV with max_depth: 6, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 416,479.59, rounds: 655
+CV with max_depth: 6, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 428,149.76, rounds: 726
+CV with max_depth: 6, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 441,172.84, rounds: 21
+CV with max_depth: 6, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 446,448.18, rounds: 16
+CV with max_depth: 6, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 440,381.35, rounds: 12
+CV with max_depth: 6, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 405,824.20, rounds: 12
+CV with max_depth: 6, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 426,777.26, rounds: 16
+CV with max_depth: 6, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 425,931.13, rounds: 19
+CV with max_depth: 6, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 418,507.67, rounds: 25
+CV with max_depth: 6, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 414,230.43, rounds: 16
+CV with max_depth: 6, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 431,396.58, rounds: 26
+CV with max_depth: 6, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 417,915.75, rounds: 43
+CV with max_depth: 6, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 417,417.19, rounds: 34
+CV with max_depth: 6, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 424,522.02, rounds: 48
+CV with max_depth: 6, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 414,507.61, rounds: 65
+CV with max_depth: 6, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 411,882.39, rounds: 78
+CV with max_depth: 6, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 410,677.49, rounds: 72
+CV with max_depth: 6, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 424,947.89, rounds: 79
+CV with max_depth: 6, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 412,641.38, rounds: 352
+CV with max_depth: 6, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 408,778.49, rounds: 365
+CV with max_depth: 6, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 411,886.94, rounds: 394
+CV with max_depth: 6, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 427,400.31, rounds: 357
+CV with max_depth: 6, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 414,165.94, rounds: 673
+CV with max_depth: 6, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 414,581.98, rounds: 673
+CV with max_depth: 6, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 414,970.57, rounds: 783
+CV with max_depth: 6, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 427,133.32, rounds: 726
+CV with max_depth: 6, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 436,613.07, rounds: 30
+CV with max_depth: 6, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 442,337.88, rounds: 11
+CV with max_depth: 6, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 444,276.76, rounds: 11
+CV with max_depth: 6, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 423,864.50, rounds: 9
+CV with max_depth: 6, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 426,024.50, rounds: 15
+CV with max_depth: 6, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 418,227.53, rounds: 14
+CV with max_depth: 6, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 418,528.20, rounds: 32
+CV with max_depth: 6, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 421,775.63, rounds: 15
+CV with max_depth: 6, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 416,809.49, rounds: 37
+CV with max_depth: 6, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 420,575.85, rounds: 42
+CV with max_depth: 6, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 409,686.34, rounds: 40
+CV with max_depth: 6, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 420,679.86, rounds: 32
+CV with max_depth: 6, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 411,579.23, rounds: 85
+CV with max_depth: 6, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 416,415.67, rounds: 63
+CV with max_depth: 6, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 411,134.92, rounds: 72
+CV with max_depth: 6, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 423,554.35, rounds: 64
+CV with max_depth: 6, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 412,249.08, rounds: 323
+CV with max_depth: 6, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 409,901.59, rounds: 350
+CV with max_depth: 6, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 414,730.37, rounds: 338
+CV with max_depth: 6, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 425,048.80, rounds: 356
+CV with max_depth: 6, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 411,092.35, rounds: 679
+CV with max_depth: 6, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 411,866.41, rounds: 714
+CV with max_depth: 6, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 412,856.91, rounds: 784
+CV with max_depth: 6, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 424,337.60, rounds: 686
+CV with max_depth: 6, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 448,725.17, rounds: 16
+CV with max_depth: 6, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 432,763.09, rounds: 9
+CV with max_depth: 6, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 432,493.66, rounds: 9
+CV with max_depth: 6, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 430,546.52, rounds: 10
+CV with max_depth: 6, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 441,069.14, rounds: 16
+CV with max_depth: 6, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 412,945.59, rounds: 17
+CV with max_depth: 6, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 435,371.05, rounds: 15
+CV with max_depth: 6, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 411,646.07, rounds: 14
+CV with max_depth: 6, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 419,315.83, rounds: 32
+CV with max_depth: 6, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 413,845.89, rounds: 30
+CV with max_depth: 6, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 413,898.57, rounds: 26
+CV with max_depth: 6, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 416,577.13, rounds: 30
+CV with max_depth: 6, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 413,451.66, rounds: 64
+CV with max_depth: 6, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 410,938.37, rounds: 72
+CV with max_depth: 6, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 410,571.76, rounds: 60
+CV with max_depth: 6, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 414,698.21, rounds: 68
+CV with max_depth: 6, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 409,519.55, rounds: 328
+CV with max_depth: 6, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 406,806.12, rounds: 349
+CV with max_depth: 6, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 410,893.09, rounds: 327
+CV with max_depth: 6, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 414,426.44, rounds: 331
+CV with max_depth: 6, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 409,834.82, rounds: 702
+CV with max_depth: 6, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 408,128.41, rounds: 695
+CV with max_depth: 6, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 408,783.11, rounds: 672
+CV with max_depth: 6, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 419,043.12, rounds: 655
+CV with max_depth: 6, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 448,242.42, rounds: 7
+CV with max_depth: 6, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 434,224.81, rounds: 15
+CV with max_depth: 6, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 427,340.31, rounds: 17
+CV with max_depth: 6, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 419,941.81, rounds: 9
+CV with max_depth: 6, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 436,275.10, rounds: 16
+CV with max_depth: 6, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 420,859.54, rounds: 15
+CV with max_depth: 6, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 422,966.05, rounds: 24
+CV with max_depth: 6, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 414,007.03, rounds: 14
+CV with max_depth: 6, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 412,282.09, rounds: 37
+CV with max_depth: 6, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 418,187.54, rounds: 30
+CV with max_depth: 6, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 409,958.56, rounds: 43
+CV with max_depth: 6, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 409,937.01, rounds: 29
+CV with max_depth: 6, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 408,237.22, rounds: 65
+CV with max_depth: 6, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 410,257.18, rounds: 66
+CV with max_depth: 6, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 408,227.61, rounds: 64
+CV with max_depth: 6, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 411,847.58, rounds: 82
+CV with max_depth: 6, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 411,194.60, rounds: 349
+CV with max_depth: 6, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 407,064.30, rounds: 358
+CV with max_depth: 6, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 406,967.61, rounds: 364
+CV with max_depth: 6, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 410,793.14, rounds: 320
+CV with max_depth: 6, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 409,618.20, rounds: 672
+CV with max_depth: 6, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 406,879.00, rounds: 714
+CV with max_depth: 6, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 409,024.33, rounds: 673
+CV with max_depth: 6, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 412,251.93, rounds: 684
+CV with max_depth: 6, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 437,573.04, rounds: 9
+CV with max_depth: 6, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 439,289.76, rounds: 9
+CV with max_depth: 6, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 429,728.14, rounds: 10
+CV with max_depth: 6, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 408,261.33, rounds: 14
+CV with max_depth: 6, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 440,839.50, rounds: 19
+CV with max_depth: 6, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 427,200.86, rounds: 16
+CV with max_depth: 6, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 427,682.88, rounds: 30
+CV with max_depth: 6, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 409,979.96, rounds: 18
+CV with max_depth: 6, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 414,832.99, rounds: 37
+CV with max_depth: 6, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 409,650.37, rounds: 45
+CV with max_depth: 6, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 415,265.34, rounds: 30
+CV with max_depth: 6, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 411,397.98, rounds: 31
+CV with max_depth: 6, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 416,254.60, rounds: 63
+CV with max_depth: 6, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 412,492.17, rounds: 73
+CV with max_depth: 6, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 404,693.13, rounds: 72
+CV with max_depth: 6, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 412,857.81, rounds: 62
+CV with max_depth: 6, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 410,580.44, rounds: 351
+CV with max_depth: 6, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 409,351.01, rounds: 342
+CV with max_depth: 6, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 407,372.07, rounds: 353
+CV with max_depth: 6, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 412,892.85, rounds: 351
+CV with max_depth: 6, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 410,077.07, rounds: 665
+CV with max_depth: 6, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 408,960.20, rounds: 652
+CV with max_depth: 6, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 406,313.73, rounds: 723
+CV with max_depth: 6, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 413,036.54, rounds: 664
+CV with max_depth: 6, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 447,750.04, rounds: 8
+CV with max_depth: 6, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 451,569.88, rounds: 9
+CV with max_depth: 6, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 447,985.65, rounds: 10
+CV with max_depth: 6, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 416,948.53, rounds: 9
+CV with max_depth: 6, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 427,150.14, rounds: 16
+CV with max_depth: 6, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 437,180.66, rounds: 16
+CV with max_depth: 6, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 439,716.63, rounds: 23
+CV with max_depth: 6, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 422,443.77, rounds: 15
+CV with max_depth: 6, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 416,656.93, rounds: 41
+CV with max_depth: 6, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 422,273.65, rounds: 32
+CV with max_depth: 6, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 413,192.65, rounds: 40
+CV with max_depth: 6, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 413,500.19, rounds: 35
+CV with max_depth: 6, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 413,959.42, rounds: 93
+CV with max_depth: 6, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 414,274.25, rounds: 60
+CV with max_depth: 6, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 411,735.52, rounds: 72
+CV with max_depth: 6, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 409,810.66, rounds: 74
+CV with max_depth: 6, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 413,463.87, rounds: 350
+CV with max_depth: 6, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 411,899.12, rounds: 351
+CV with max_depth: 6, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 408,163.76, rounds: 330
+CV with max_depth: 6, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 409,826.93, rounds: 370
+CV with max_depth: 6, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 414,047.50, rounds: 643
+CV with max_depth: 6, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 409,188.12, rounds: 688
+CV with max_depth: 6, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 408,488.61, rounds: 682
+CV with max_depth: 6, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 410,649.61, rounds: 748
+CV with max_depth: 7, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 436,939.14, rounds: 13
+CV with max_depth: 7, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 446,486.46, rounds: 11
+CV with max_depth: 7, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 443,242.94, rounds: 16
+CV with max_depth: 7, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 416,679.20, rounds: 12
+CV with max_depth: 7, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 419,828.73, rounds: 15
+CV with max_depth: 7, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 424,183.77, rounds: 19
+CV with max_depth: 7, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 423,531.56, rounds: 23
+CV with max_depth: 7, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 413,879.74, rounds: 16
+CV with max_depth: 7, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 421,220.40, rounds: 37
+CV with max_depth: 7, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 414,514.11, rounds: 34
+CV with max_depth: 7, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 419,310.24, rounds: 35
+CV with max_depth: 7, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 425,852.22, rounds: 45
+CV with max_depth: 7, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 411,756.19, rounds: 65
+CV with max_depth: 7, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 416,380.51, rounds: 89
+CV with max_depth: 7, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 409,752.35, rounds: 77
+CV with max_depth: 7, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 432,119.16, rounds: 72
+CV with max_depth: 7, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 414,281.79, rounds: 361
+CV with max_depth: 7, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 415,110.25, rounds: 325
+CV with max_depth: 7, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 415,964.29, rounds: 354
+CV with max_depth: 7, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 436,918.18, rounds: 415
+CV with max_depth: 7, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 411,796.21, rounds: 749
+CV with max_depth: 7, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 413,108.83, rounds: 723
+CV with max_depth: 7, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 416,345.41, rounds: 674
+CV with max_depth: 7, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 441,154.05, rounds: 585
+CV with max_depth: 7, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 430,599.96, rounds: 11
+CV with max_depth: 7, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 444,236.02, rounds: 14
+CV with max_depth: 7, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 439,927.81, rounds: 19
+CV with max_depth: 7, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 416,024.36, rounds: 13
+CV with max_depth: 7, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 419,735.18, rounds: 25
+CV with max_depth: 7, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 427,123.43, rounds: 12
+CV with max_depth: 7, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 426,337.18, rounds: 21
+CV with max_depth: 7, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 415,347.68, rounds: 17
+CV with max_depth: 7, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 417,548.28, rounds: 27
+CV with max_depth: 7, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 418,915.65, rounds: 49
+CV with max_depth: 7, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 413,106.99, rounds: 30
+CV with max_depth: 7, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 416,105.07, rounds: 41
+CV with max_depth: 7, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 411,178.09, rounds: 75
+CV with max_depth: 7, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 412,268.77, rounds: 84
+CV with max_depth: 7, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 407,558.76, rounds: 77
+CV with max_depth: 7, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 420,198.68, rounds: 71
+CV with max_depth: 7, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 410,904.04, rounds: 352
+CV with max_depth: 7, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 411,335.56, rounds: 363
+CV with max_depth: 7, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 412,277.40, rounds: 366
+CV with max_depth: 7, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 425,273.29, rounds: 423
+CV with max_depth: 7, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 414,311.40, rounds: 615
+CV with max_depth: 7, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 413,864.62, rounds: 711
+CV with max_depth: 7, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 416,739.47, rounds: 709
+CV with max_depth: 7, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 425,315.59, rounds: 680
+CV with max_depth: 7, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 439,240.87, rounds: 19
+CV with max_depth: 7, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 425,110.71, rounds: 9
+CV with max_depth: 7, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 433,232.01, rounds: 20
+CV with max_depth: 7, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 421,482.46, rounds: 12
+CV with max_depth: 7, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 425,915.40, rounds: 15
+CV with max_depth: 7, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 410,517.62, rounds: 25
+CV with max_depth: 7, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 427,872.94, rounds: 23
+CV with max_depth: 7, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 426,969.44, rounds: 17
+CV with max_depth: 7, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 416,924.87, rounds: 37
+CV with max_depth: 7, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 415,746.98, rounds: 31
+CV with max_depth: 7, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 413,314.41, rounds: 31
+CV with max_depth: 7, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 422,787.53, rounds: 32
+CV with max_depth: 7, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 408,273.51, rounds: 81
+CV with max_depth: 7, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 413,045.69, rounds: 71
+CV with max_depth: 7, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 409,222.68, rounds: 70
+CV with max_depth: 7, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 422,744.44, rounds: 80
+CV with max_depth: 7, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 408,966.71, rounds: 343
+CV with max_depth: 7, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 408,860.85, rounds: 348
+CV with max_depth: 7, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 413,015.61, rounds: 378
+CV with max_depth: 7, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 428,882.22, rounds: 363
+CV with max_depth: 7, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 410,110.20, rounds: 679
+CV with max_depth: 7, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 411,467.85, rounds: 710
+CV with max_depth: 7, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 414,781.36, rounds: 703
+CV with max_depth: 7, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 433,403.85, rounds: 554
+CV with max_depth: 7, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 442,278.04, rounds: 20
+CV with max_depth: 7, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 435,504.97, rounds: 14
+CV with max_depth: 7, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 425,059.47, rounds: 11
+CV with max_depth: 7, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 416,028.02, rounds: 12
+CV with max_depth: 7, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 429,530.82, rounds: 15
+CV with max_depth: 7, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 419,881.07, rounds: 18
+CV with max_depth: 7, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 428,438.11, rounds: 13
+CV with max_depth: 7, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 420,220.42, rounds: 14
+CV with max_depth: 7, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 415,054.37, rounds: 34
+CV with max_depth: 7, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 414,064.53, rounds: 27
+CV with max_depth: 7, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 418,392.78, rounds: 33
+CV with max_depth: 7, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 419,943.31, rounds: 33
+CV with max_depth: 7, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 410,897.99, rounds: 64
+CV with max_depth: 7, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 412,595.97, rounds: 63
+CV with max_depth: 7, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 407,798.22, rounds: 61
+CV with max_depth: 7, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 415,816.81, rounds: 60
+CV with max_depth: 7, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 409,063.39, rounds: 328
+CV with max_depth: 7, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 406,065.35, rounds: 349
+CV with max_depth: 7, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 410,001.64, rounds: 327
+CV with max_depth: 7, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 418,937.51, rounds: 315
+CV with max_depth: 7, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 409,291.69, rounds: 600
+CV with max_depth: 7, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 406,552.10, rounds: 689
+CV with max_depth: 7, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 409,014.83, rounds: 671
+CV with max_depth: 7, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 420,044.07, rounds: 599
+CV with max_depth: 7, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 441,960.57, rounds: 16
+CV with max_depth: 7, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 438,167.55, rounds: 11
+CV with max_depth: 7, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 428,307.57, rounds: 15
+CV with max_depth: 7, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 422,070.39, rounds: 10
+CV with max_depth: 7, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 431,857.23, rounds: 15
+CV with max_depth: 7, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 411,978.38, rounds: 15
+CV with max_depth: 7, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 422,257.53, rounds: 14
+CV with max_depth: 7, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 419,037.63, rounds: 13
+CV with max_depth: 7, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 410,112.34, rounds: 32
+CV with max_depth: 7, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 411,554.80, rounds: 30
+CV with max_depth: 7, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 410,024.62, rounds: 41
+CV with max_depth: 7, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 409,055.31, rounds: 31
+CV with max_depth: 7, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 405,115.52, rounds: 65
+CV with max_depth: 7, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 406,626.26, rounds: 71
+CV with max_depth: 7, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 407,993.44, rounds: 84
+CV with max_depth: 7, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 414,035.19, rounds: 66
+CV with max_depth: 7, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 408,939.11, rounds: 351
+CV with max_depth: 7, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 406,113.54, rounds: 350
+CV with max_depth: 7, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 405,915.51, rounds: 358
+CV with max_depth: 7, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 413,458.52, rounds: 313
+CV with max_depth: 7, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 408,101.10, rounds: 672
+CV with max_depth: 7, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 405,571.94, rounds: 696
+CV with max_depth: 7, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 408,366.27, rounds: 673
+CV with max_depth: 7, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 417,019.29, rounds: 629
+CV with max_depth: 7, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 443,160.54, rounds: 7
+CV with max_depth: 7, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 441,274.95, rounds: 26
+CV with max_depth: 7, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 427,893.00, rounds: 10
+CV with max_depth: 7, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 412,843.05, rounds: 19
+CV with max_depth: 7, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 437,332.04, rounds: 17
+CV with max_depth: 7, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 424,811.75, rounds: 15
+CV with max_depth: 7, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 428,326.96, rounds: 21
+CV with max_depth: 7, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 413,490.00, rounds: 20
+CV with max_depth: 7, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 409,340.14, rounds: 37
+CV with max_depth: 7, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 408,565.23, rounds: 30
+CV with max_depth: 7, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 410,690.02, rounds: 40
+CV with max_depth: 7, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 411,123.97, rounds: 36
+CV with max_depth: 7, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 413,609.55, rounds: 66
+CV with max_depth: 7, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 408,695.54, rounds: 84
+CV with max_depth: 7, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 402,688.35, rounds: 73
+CV with max_depth: 7, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 412,071.25, rounds: 59
+CV with max_depth: 7, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 409,221.75, rounds: 351
+CV with max_depth: 7, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 407,934.86, rounds: 366
+CV with max_depth: 7, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 406,475.01, rounds: 364
+CV with max_depth: 7, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 409,710.31, rounds: 327
+CV with max_depth: 7, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 408,309.78, rounds: 670
+CV with max_depth: 7, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 407,155.08, rounds: 653
+CV with max_depth: 7, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 406,287.32, rounds: 672
+CV with max_depth: 7, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 409,616.86, rounds: 638
+CV with max_depth: 7, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 448,085.40, rounds: 8
+CV with max_depth: 7, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 449,191.59, rounds: 16
+CV with max_depth: 7, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 431,533.67, rounds: 16
+CV with max_depth: 7, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 415,356.01, rounds: 9
+CV with max_depth: 7, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 428,623.42, rounds: 12
+CV with max_depth: 7, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 436,029.97, rounds: 16
+CV with max_depth: 7, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 427,625.98, rounds: 26
+CV with max_depth: 7, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 419,381.60, rounds: 15
+CV with max_depth: 7, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 419,229.88, rounds: 42
+CV with max_depth: 7, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 420,791.87, rounds: 30
+CV with max_depth: 7, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 412,757.52, rounds: 33
+CV with max_depth: 7, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 409,744.96, rounds: 30
+CV with max_depth: 7, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 413,437.60, rounds: 85
+CV with max_depth: 7, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 413,214.36, rounds: 73
+CV with max_depth: 7, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 411,359.38, rounds: 72
+CV with max_depth: 7, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 410,827.88, rounds: 62
+CV with max_depth: 7, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 411,839.68, rounds: 351
+CV with max_depth: 7, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 410,196.69, rounds: 351
+CV with max_depth: 7, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 407,232.36, rounds: 341
+CV with max_depth: 7, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 411,744.24, rounds: 357
+CV with max_depth: 7, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 409,654.13, rounds: 739
+CV with max_depth: 7, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 407,319.59, rounds: 675
+CV with max_depth: 7, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 407,512.52, rounds: 684
+CV with max_depth: 7, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 414,289.25, rounds: 641
+CV with max_depth: 8, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 441,522.17, rounds: 7
+CV with max_depth: 8, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 435,090.41, rounds: 11
+CV with max_depth: 8, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 442,585.60, rounds: 16
+CV with max_depth: 8, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 420,312.39, rounds: 9
+CV with max_depth: 8, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 425,937.13, rounds: 15
+CV with max_depth: 8, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 424,606.18, rounds: 12
+CV with max_depth: 8, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 424,037.78, rounds: 23
+CV with max_depth: 8, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 417,519.25, rounds: 17
+CV with max_depth: 8, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 421,454.13, rounds: 32
+CV with max_depth: 8, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 421,396.14, rounds: 32
+CV with max_depth: 8, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 417,621.62, rounds: 30
+CV with max_depth: 8, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 431,258.24, rounds: 36
+CV with max_depth: 8, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 411,264.81, rounds: 65
+CV with max_depth: 8, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 421,286.23, rounds: 82
+CV with max_depth: 8, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 411,231.22, rounds: 72
+CV with max_depth: 8, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 433,943.40, rounds: 59
+CV with max_depth: 8, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 414,584.47, rounds: 352
+CV with max_depth: 8, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 415,538.45, rounds: 327
+CV with max_depth: 8, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 417,496.54, rounds: 355
+CV with max_depth: 8, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 437,339.37, rounds: 309
+CV with max_depth: 8, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 411,835.27, rounds: 749
+CV with max_depth: 8, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 412,863.43, rounds: 714
+CV with max_depth: 8, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 417,576.25, rounds: 673
+CV with max_depth: 8, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 434,913.00, rounds: 570
+CV with max_depth: 8, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 432,424.01, rounds: 12
+CV with max_depth: 8, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 450,257.06, rounds: 12
+CV with max_depth: 8, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 440,676.75, rounds: 15
+CV with max_depth: 8, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 412,133.25, rounds: 12
+CV with max_depth: 8, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 414,956.66, rounds: 15
+CV with max_depth: 8, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 423,348.89, rounds: 14
+CV with max_depth: 8, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 412,059.44, rounds: 21
+CV with max_depth: 8, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 418,401.79, rounds: 24
+CV with max_depth: 8, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 417,376.57, rounds: 38
+CV with max_depth: 8, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 425,312.39, rounds: 43
+CV with max_depth: 8, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 413,762.24, rounds: 30
+CV with max_depth: 8, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 422,060.59, rounds: 41
+CV with max_depth: 8, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 409,559.16, rounds: 75
+CV with max_depth: 8, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 414,751.05, rounds: 78
+CV with max_depth: 8, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 410,376.99, rounds: 77
+CV with max_depth: 8, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 416,446.76, rounds: 81
+CV with max_depth: 8, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 411,367.48, rounds: 345
+CV with max_depth: 8, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 411,098.25, rounds: 363
+CV with max_depth: 8, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 413,851.62, rounds: 364
+CV with max_depth: 8, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 417,977.66, rounds: 408
+CV with max_depth: 8, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 412,052.52, rounds: 683
+CV with max_depth: 8, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 414,073.11, rounds: 711
+CV with max_depth: 8, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 419,040.42, rounds: 619
+CV with max_depth: 8, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 419,410.57, rounds: 681
+CV with max_depth: 8, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 442,444.99, rounds: 16
+CV with max_depth: 8, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 424,094.87, rounds: 9
+CV with max_depth: 8, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 437,435.51, rounds: 7
+CV with max_depth: 8, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 435,461.77, rounds: 10
+CV with max_depth: 8, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 427,453.74, rounds: 16
+CV with max_depth: 8, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 419,488.76, rounds: 14
+CV with max_depth: 8, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 424,661.76, rounds: 21
+CV with max_depth: 8, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 423,490.77, rounds: 15
+CV with max_depth: 8, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 414,559.31, rounds: 36
+CV with max_depth: 8, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 421,585.28, rounds: 31
+CV with max_depth: 8, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 412,694.56, rounds: 40
+CV with max_depth: 8, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 420,843.10, rounds: 33
+CV with max_depth: 8, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 412,365.36, rounds: 71
+CV with max_depth: 8, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 414,783.80, rounds: 72
+CV with max_depth: 8, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 411,359.38, rounds: 69
+CV with max_depth: 8, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 425,518.93, rounds: 70
+CV with max_depth: 8, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 409,365.21, rounds: 344
+CV with max_depth: 8, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 409,384.22, rounds: 348
+CV with max_depth: 8, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 413,820.94, rounds: 378
+CV with max_depth: 8, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 426,501.56, rounds: 279
+CV with max_depth: 8, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 410,373.85, rounds: 679
+CV with max_depth: 8, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 410,902.63, rounds: 710
+CV with max_depth: 8, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 414,913.29, rounds: 671
+CV with max_depth: 8, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 426,862.88, rounds: 566
+CV with max_depth: 8, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 447,038.68, rounds: 25
+CV with max_depth: 8, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 423,505.29, rounds: 11
+CV with max_depth: 8, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 424,953.84, rounds: 9
+CV with max_depth: 8, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 416,773.84, rounds: 9
+CV with max_depth: 8, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 426,522.15, rounds: 15
+CV with max_depth: 8, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 419,141.88, rounds: 16
+CV with max_depth: 8, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 432,143.87, rounds: 13
+CV with max_depth: 8, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 410,859.15, rounds: 16
+CV with max_depth: 8, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 412,454.07, rounds: 34
+CV with max_depth: 8, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 412,271.63, rounds: 30
+CV with max_depth: 8, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 411,888.31, rounds: 41
+CV with max_depth: 8, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 420,004.22, rounds: 30
+CV with max_depth: 8, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 411,124.77, rounds: 65
+CV with max_depth: 8, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 411,852.12, rounds: 75
+CV with max_depth: 8, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 407,095.74, rounds: 58
+CV with max_depth: 8, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 416,138.79, rounds: 63
+CV with max_depth: 8, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 409,197.26, rounds: 328
+CV with max_depth: 8, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 406,795.34, rounds: 349
+CV with max_depth: 8, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 410,893.62, rounds: 327
+CV with max_depth: 8, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 417,587.10, rounds: 301
+CV with max_depth: 8, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 408,884.62, rounds: 600
+CV with max_depth: 8, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 406,981.33, rounds: 673
+CV with max_depth: 8, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 408,697.95, rounds: 667
+CV with max_depth: 8, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 419,440.86, rounds: 614
+CV with max_depth: 8, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 441,669.87, rounds: 16
+CV with max_depth: 8, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 439,413.38, rounds: 11
+CV with max_depth: 8, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 434,143.27, rounds: 18
+CV with max_depth: 8, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 427,052.84, rounds: 15
+CV with max_depth: 8, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 431,267.56, rounds: 12
+CV with max_depth: 8, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 413,143.10, rounds: 15
+CV with max_depth: 8, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 419,657.55, rounds: 25
+CV with max_depth: 8, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 418,211.77, rounds: 18
+CV with max_depth: 8, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 410,170.98, rounds: 32
+CV with max_depth: 8, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 406,756.18, rounds: 34
+CV with max_depth: 8, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 407,322.13, rounds: 30
+CV with max_depth: 8, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 414,599.26, rounds: 30
+CV with max_depth: 8, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 404,686.29, rounds: 63
+CV with max_depth: 8, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 406,116.06, rounds: 66
+CV with max_depth: 8, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 407,956.72, rounds: 74
+CV with max_depth: 8, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 412,450.46, rounds: 63
+CV with max_depth: 8, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 408,900.73, rounds: 363
+CV with max_depth: 8, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 405,702.15, rounds: 349
+CV with max_depth: 8, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 405,501.96, rounds: 364
+CV with max_depth: 8, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 412,495.12, rounds: 324
+CV with max_depth: 8, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 407,021.31, rounds: 672
+CV with max_depth: 8, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 404,784.48, rounds: 697
+CV with max_depth: 8, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 407,680.18, rounds: 673
+CV with max_depth: 8, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 414,222.93, rounds: 623
+CV with max_depth: 8, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 438,878.79, rounds: 7
+CV with max_depth: 8, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 438,651.07, rounds: 14
+CV with max_depth: 8, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 428,466.74, rounds: 10
+CV with max_depth: 8, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 410,374.91, rounds: 16
+CV with max_depth: 8, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 431,964.60, rounds: 19
+CV with max_depth: 8, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 420,681.13, rounds: 15
+CV with max_depth: 8, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 422,773.86, rounds: 30
+CV with max_depth: 8, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 412,053.92, rounds: 16
+CV with max_depth: 8, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 410,971.03, rounds: 37
+CV with max_depth: 8, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 409,785.19, rounds: 34
+CV with max_depth: 8, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 410,343.78, rounds: 40
+CV with max_depth: 8, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 408,598.97, rounds: 36
+CV with max_depth: 8, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 411,027.02, rounds: 64
+CV with max_depth: 8, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 409,787.31, rounds: 72
+CV with max_depth: 8, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 404,084.87, rounds: 72
+CV with max_depth: 8, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 408,327.42, rounds: 77
+CV with max_depth: 8, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 408,772.52, rounds: 351
+CV with max_depth: 8, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 407,752.35, rounds: 349
+CV with max_depth: 8, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 406,651.29, rounds: 354
+CV with max_depth: 8, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 407,366.38, rounds: 321
+CV with max_depth: 8, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 407,351.85, rounds: 668
+CV with max_depth: 8, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 405,947.22, rounds: 653
+CV with max_depth: 8, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 405,750.92, rounds: 672
+CV with max_depth: 8, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 408,448.35, rounds: 638
+CV with max_depth: 8, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 445,179.33, rounds: 8
+CV with max_depth: 8, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 451,728.86, rounds: 7
+CV with max_depth: 8, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 437,467.65, rounds: 15
+CV with max_depth: 8, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 416,615.07, rounds: 11
+CV with max_depth: 8, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 427,315.12, rounds: 12
+CV with max_depth: 8, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 430,059.00, rounds: 16
+CV with max_depth: 8, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 436,669.63, rounds: 24
+CV with max_depth: 8, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 417,793.01, rounds: 13
+CV with max_depth: 8, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 418,586.84, rounds: 33
+CV with max_depth: 8, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 419,029.35, rounds: 32
+CV with max_depth: 8, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 415,839.25, rounds: 40
+CV with max_depth: 8, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 412,450.20, rounds: 30
+CV with max_depth: 8, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 414,532.17, rounds: 85
+CV with max_depth: 8, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 410,308.78, rounds: 69
+CV with max_depth: 8, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 410,690.33, rounds: 73
+CV with max_depth: 8, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 411,475.54, rounds: 66
+CV with max_depth: 8, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 411,480.29, rounds: 349
+CV with max_depth: 8, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 409,715.06, rounds: 351
+CV with max_depth: 8, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 406,461.66, rounds: 321
+CV with max_depth: 8, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 411,225.36, rounds: 357
+CV with max_depth: 8, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 408,464.38, rounds: 743
+CV with max_depth: 8, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 406,492.20, rounds: 688
+CV with max_depth: 8, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 406,697.12, rounds: 685
+CV with max_depth: 8, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 412,083.51, rounds: 711
+CV with max_depth: 9, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 431,013.89, rounds: 25
+CV with max_depth: 9, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 444,588.97, rounds: 10
+CV with max_depth: 9, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 438,478.49, rounds: 11
+CV with max_depth: 9, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 417,951.18, rounds: 9
+CV with max_depth: 9, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 428,692.35, rounds: 13
+CV with max_depth: 9, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 421,263.60, rounds: 12
+CV with max_depth: 9, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 422,193.32, rounds: 22
+CV with max_depth: 9, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 415,177.63, rounds: 16
+CV with max_depth: 9, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 422,201.26, rounds: 34
+CV with max_depth: 9, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 417,735.04, rounds: 32
+CV with max_depth: 9, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 419,459.37, rounds: 30
+CV with max_depth: 9, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 431,947.42, rounds: 37
+CV with max_depth: 9, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 413,838.66, rounds: 60
+CV with max_depth: 9, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 419,592.02, rounds: 69
+CV with max_depth: 9, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 413,354.84, rounds: 70
+CV with max_depth: 9, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 441,463.81, rounds: 67
+CV with max_depth: 9, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 415,313.29, rounds: 352
+CV with max_depth: 9, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 416,224.87, rounds: 318
+CV with max_depth: 9, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 417,697.35, rounds: 354
+CV with max_depth: 9, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 432,147.69, rounds: 383
+CV with max_depth: 9, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 412,999.49, rounds: 689
+CV with max_depth: 9, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 412,609.14, rounds: 752
+CV with max_depth: 9, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 419,205.69, rounds: 619
+CV with max_depth: 9, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 440,083.14, rounds: 557
+CV with max_depth: 9, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 432,872.81, rounds: 12
+CV with max_depth: 9, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 447,964.10, rounds: 12
+CV with max_depth: 9, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 434,481.42, rounds: 14
+CV with max_depth: 9, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 411,331.76, rounds: 11
+CV with max_depth: 9, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 415,465.61, rounds: 16
+CV with max_depth: 9, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 428,070.93, rounds: 11
+CV with max_depth: 9, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 421,588.25, rounds: 21
+CV with max_depth: 9, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 420,189.37, rounds: 22
+CV with max_depth: 9, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 418,616.51, rounds: 26
+CV with max_depth: 9, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 418,337.30, rounds: 43
+CV with max_depth: 9, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 411,870.62, rounds: 34
+CV with max_depth: 9, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 417,631.52, rounds: 41
+CV with max_depth: 9, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 412,593.60, rounds: 78
+CV with max_depth: 9, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 415,514.91, rounds: 84
+CV with max_depth: 9, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 407,812.19, rounds: 77
+CV with max_depth: 9, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 416,361.34, rounds: 95
+CV with max_depth: 9, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 411,068.08, rounds: 352
+CV with max_depth: 9, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 411,364.24, rounds: 355
+CV with max_depth: 9, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 414,570.59, rounds: 364
+CV with max_depth: 9, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 415,274.43, rounds: 339
+CV with max_depth: 9, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 412,002.80, rounds: 683
+CV with max_depth: 9, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 413,975.63, rounds: 714
+CV with max_depth: 9, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 419,127.82, rounds: 619
+CV with max_depth: 9, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 414,851.91, rounds: 703
+CV with max_depth: 9, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 439,036.84, rounds: 16
+CV with max_depth: 9, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 422,697.04, rounds: 9
+CV with max_depth: 9, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 432,763.36, rounds: 15
+CV with max_depth: 9, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 437,377.40, rounds: 7
+CV with max_depth: 9, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 426,652.51, rounds: 15
+CV with max_depth: 9, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 416,392.54, rounds: 14
+CV with max_depth: 9, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 427,330.71, rounds: 21
+CV with max_depth: 9, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 428,575.64, rounds: 16
+CV with max_depth: 9, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 418,364.94, rounds: 36
+CV with max_depth: 9, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 420,701.67, rounds: 31
+CV with max_depth: 9, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 410,086.82, rounds: 39
+CV with max_depth: 9, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 422,829.54, rounds: 32
+CV with max_depth: 9, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 412,722.91, rounds: 60
+CV with max_depth: 9, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 414,464.16, rounds: 72
+CV with max_depth: 9, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 413,865.98, rounds: 70
+CV with max_depth: 9, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 424,427.28, rounds: 70
+CV with max_depth: 9, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 408,758.18, rounds: 344
+CV with max_depth: 9, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 409,929.41, rounds: 348
+CV with max_depth: 9, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 413,930.25, rounds: 377
+CV with max_depth: 9, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 427,228.00, rounds: 286
+CV with max_depth: 9, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 409,600.53, rounds: 679
+CV with max_depth: 9, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 410,637.18, rounds: 711
+CV with max_depth: 9, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 415,021.53, rounds: 671
+CV with max_depth: 9, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 426,942.51, rounds: 590
+CV with max_depth: 9, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 447,039.28, rounds: 10
+CV with max_depth: 9, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 426,622.25, rounds: 9
+CV with max_depth: 9, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 422,549.35, rounds: 15
+CV with max_depth: 9, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 420,446.99, rounds: 8
+CV with max_depth: 9, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 428,829.11, rounds: 15
+CV with max_depth: 9, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 417,562.71, rounds: 16
+CV with max_depth: 9, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 433,407.99, rounds: 15
+CV with max_depth: 9, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 419,842.26, rounds: 17
+CV with max_depth: 9, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 412,600.12, rounds: 34
+CV with max_depth: 9, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 415,323.58, rounds: 30
+CV with max_depth: 9, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 416,447.79, rounds: 28
+CV with max_depth: 9, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 418,319.78, rounds: 30
+CV with max_depth: 9, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 406,185.42, rounds: 65
+CV with max_depth: 9, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 412,578.65, rounds: 72
+CV with max_depth: 9, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 409,147.66, rounds: 64
+CV with max_depth: 9, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 417,745.93, rounds: 63
+CV with max_depth: 9, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 408,681.18, rounds: 342
+CV with max_depth: 9, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 405,888.38, rounds: 348
+CV with max_depth: 9, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 410,878.47, rounds: 327
+CV with max_depth: 9, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 415,503.08, rounds: 303
+CV with max_depth: 9, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 408,637.04, rounds: 600
+CV with max_depth: 9, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 406,373.06, rounds: 672
+CV with max_depth: 9, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 408,772.73, rounds: 671
+CV with max_depth: 9, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 420,549.25, rounds: 606
+CV with max_depth: 9, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 447,308.57, rounds: 13
+CV with max_depth: 9, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 442,183.16, rounds: 11
+CV with max_depth: 9, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 433,608.29, rounds: 15
+CV with max_depth: 9, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 427,421.09, rounds: 13
+CV with max_depth: 9, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 431,585.62, rounds: 16
+CV with max_depth: 9, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 407,832.10, rounds: 15
+CV with max_depth: 9, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 418,779.19, rounds: 23
+CV with max_depth: 9, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 420,301.36, rounds: 14
+CV with max_depth: 9, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 410,907.69, rounds: 32
+CV with max_depth: 9, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 410,502.55, rounds: 30
+CV with max_depth: 9, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 411,938.90, rounds: 39
+CV with max_depth: 9, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 417,420.64, rounds: 32
+CV with max_depth: 9, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 405,844.32, rounds: 65
+CV with max_depth: 9, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 406,971.87, rounds: 69
+CV with max_depth: 9, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 408,669.90, rounds: 84
+CV with max_depth: 9, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 410,269.39, rounds: 61
+CV with max_depth: 9, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 408,498.74, rounds: 351
+CV with max_depth: 9, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 405,465.43, rounds: 350
+CV with max_depth: 9, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 405,266.11, rounds: 363
+CV with max_depth: 9, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 413,305.94, rounds: 314
+CV with max_depth: 9, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 406,715.77, rounds: 693
+CV with max_depth: 9, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 404,770.60, rounds: 697
+CV with max_depth: 9, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 407,920.08, rounds: 673
+CV with max_depth: 9, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 415,452.72, rounds: 617
+CV with max_depth: 9, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 443,974.54, rounds: 7
+CV with max_depth: 9, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 445,676.07, rounds: 14
+CV with max_depth: 9, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 429,426.27, rounds: 10
+CV with max_depth: 9, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 415,654.59, rounds: 9
+CV with max_depth: 9, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 434,292.94, rounds: 16
+CV with max_depth: 9, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 421,660.70, rounds: 15
+CV with max_depth: 9, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 427,768.65, rounds: 19
+CV with max_depth: 9, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 413,191.50, rounds: 13
+CV with max_depth: 9, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 410,867.21, rounds: 37
+CV with max_depth: 9, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 410,800.96, rounds: 30
+CV with max_depth: 9, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 408,041.20, rounds: 40
+CV with max_depth: 9, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 414,101.29, rounds: 36
+CV with max_depth: 9, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 411,673.91, rounds: 64
+CV with max_depth: 9, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 407,602.66, rounds: 85
+CV with max_depth: 9, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 403,951.47, rounds: 77
+CV with max_depth: 9, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 411,663.45, rounds: 65
+CV with max_depth: 9, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 407,618.87, rounds: 343
+CV with max_depth: 9, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 407,183.56, rounds: 349
+CV with max_depth: 9, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 406,415.93, rounds: 354
+CV with max_depth: 9, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 407,876.87, rounds: 317
+CV with max_depth: 9, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 407,058.39, rounds: 671
+CV with max_depth: 9, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 405,779.13, rounds: 653
+CV with max_depth: 9, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 405,574.53, rounds: 664
+CV with max_depth: 9, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 408,074.82, rounds: 633
+CV with max_depth: 9, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 443,902.24, rounds: 8
+CV with max_depth: 9, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 453,280.26, rounds: 7
+CV with max_depth: 9, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 441,802.76, rounds: 15
+CV with max_depth: 9, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 406,727.50, rounds: 10
+CV with max_depth: 9, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 428,767.38, rounds: 15
+CV with max_depth: 9, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 429,296.49, rounds: 17
+CV with max_depth: 9, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 433,292.06, rounds: 21
+CV with max_depth: 9, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 421,550.22, rounds: 15
+CV with max_depth: 9, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 417,695.42, rounds: 32
+CV with max_depth: 9, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 420,393.21, rounds: 30
+CV with max_depth: 9, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 413,996.10, rounds: 33
+CV with max_depth: 9, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 414,026.99, rounds: 28
+CV with max_depth: 9, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 411,818.71, rounds: 85
+CV with max_depth: 9, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 410,109.85, rounds: 73
+CV with max_depth: 9, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 411,457.43, rounds: 74
+CV with max_depth: 9, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 413,293.89, rounds: 69
+CV with max_depth: 9, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 411,290.16, rounds: 350
+CV with max_depth: 9, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 409,694.48, rounds: 351
+CV with max_depth: 9, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 406,866.45, rounds: 321
+CV with max_depth: 9, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 414,769.13, rounds: 292
+CV with max_depth: 9, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 408,096.15, rounds: 739
+CV with max_depth: 9, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 406,203.90, rounds: 675
+CV with max_depth: 9, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 406,188.31, rounds: 742
+CV with max_depth: 9, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 413,921.20, rounds: 561
+CV with max_depth: 10, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 434,372.97, rounds: 23
+CV with max_depth: 10, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 443,101.27, rounds: 11
+CV with max_depth: 10, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 436,409.11, rounds: 15
+CV with max_depth: 10, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 421,805.32, rounds: 11
+CV with max_depth: 10, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 426,485.18, rounds: 15
+CV with max_depth: 10, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 423,542.17, rounds: 16
+CV with max_depth: 10, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 420,380.77, rounds: 20
+CV with max_depth: 10, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 418,315.31, rounds: 15
+CV with max_depth: 10, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 424,131.83, rounds: 37
+CV with max_depth: 10, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 418,588.08, rounds: 30
+CV with max_depth: 10, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 419,481.58, rounds: 30
+CV with max_depth: 10, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 432,678.31, rounds: 25
+CV with max_depth: 10, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 414,683.01, rounds: 60
+CV with max_depth: 10, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 420,109.31, rounds: 69
+CV with max_depth: 10, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 412,839.29, rounds: 72
+CV with max_depth: 10, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 433,916.73, rounds: 77
+CV with max_depth: 10, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 414,900.91, rounds: 352
+CV with max_depth: 10, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 415,619.86, rounds: 320
+CV with max_depth: 10, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 417,767.86, rounds: 354
+CV with max_depth: 10, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 438,198.52, rounds: 284
+CV with max_depth: 10, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 411,652.81, rounds: 749
+CV with max_depth: 10, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 412,931.15, rounds: 752
+CV with max_depth: 10, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 418,472.01, rounds: 671
+CV with max_depth: 10, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 439,026.98, rounds: 554
+CV with max_depth: 10, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 440,750.53, rounds: 11
+CV with max_depth: 10, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 448,870.82, rounds: 12
+CV with max_depth: 10, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 434,487.97, rounds: 12
+CV with max_depth: 10, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 411,817.61, rounds: 11
+CV with max_depth: 10, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 412,711.52, rounds: 26
+CV with max_depth: 10, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 427,291.71, rounds: 11
+CV with max_depth: 10, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 424,179.35, rounds: 23
+CV with max_depth: 10, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 418,676.09, rounds: 17
+CV with max_depth: 10, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 416,609.04, rounds: 29
+CV with max_depth: 10, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 417,617.18, rounds: 43
+CV with max_depth: 10, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 412,023.42, rounds: 38
+CV with max_depth: 10, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 419,264.92, rounds: 38
+CV with max_depth: 10, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 410,515.06, rounds: 81
+CV with max_depth: 10, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 414,357.83, rounds: 84
+CV with max_depth: 10, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 409,702.80, rounds: 77
+CV with max_depth: 10, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 420,270.49, rounds: 92
+CV with max_depth: 10, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 411,525.48, rounds: 345
+CV with max_depth: 10, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 411,189.90, rounds: 365
+CV with max_depth: 10, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 414,813.99, rounds: 368
+CV with max_depth: 10, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 416,930.69, rounds: 381
+CV with max_depth: 10, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 411,380.66, rounds: 683
+CV with max_depth: 10, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 413,586.73, rounds: 711
+CV with max_depth: 10, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 419,495.98, rounds: 619
+CV with max_depth: 10, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 419,965.33, rounds: 673
+CV with max_depth: 10, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 432,047.57, rounds: 16
+CV with max_depth: 10, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 431,275.00, rounds: 9
+CV with max_depth: 10, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 436,793.43, rounds: 15
+CV with max_depth: 10, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 431,264.48, rounds: 9
+CV with max_depth: 10, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 428,371.05, rounds: 15
+CV with max_depth: 10, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 420,521.10, rounds: 14
+CV with max_depth: 10, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 421,103.70, rounds: 20
+CV with max_depth: 10, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 427,080.51, rounds: 15
+CV with max_depth: 10, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 416,551.13, rounds: 33
+CV with max_depth: 10, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 418,690.89, rounds: 32
+CV with max_depth: 10, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 416,178.32, rounds: 31
+CV with max_depth: 10, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 422,626.09, rounds: 33
+CV with max_depth: 10, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 411,715.08, rounds: 71
+CV with max_depth: 10, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 413,338.84, rounds: 72
+CV with max_depth: 10, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 410,641.17, rounds: 72
+CV with max_depth: 10, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 420,983.84, rounds: 65
+CV with max_depth: 10, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 408,500.65, rounds: 350
+CV with max_depth: 10, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 409,940.49, rounds: 348
+CV with max_depth: 10, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 413,898.56, rounds: 377
+CV with max_depth: 10, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 429,049.64, rounds: 293
+CV with max_depth: 10, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 409,700.66, rounds: 679
+CV with max_depth: 10, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 410,483.50, rounds: 710
+CV with max_depth: 10, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 415,108.78, rounds: 668
+CV with max_depth: 10, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 426,297.38, rounds: 578
+CV with max_depth: 10, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 441,794.33, rounds: 16
+CV with max_depth: 10, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 421,074.88, rounds: 12
+CV with max_depth: 10, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 426,861.57, rounds: 13
+CV with max_depth: 10, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 419,800.83, rounds: 8
+CV with max_depth: 10, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 424,777.56, rounds: 16
+CV with max_depth: 10, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 412,919.65, rounds: 16
+CV with max_depth: 10, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 433,314.36, rounds: 15
+CV with max_depth: 10, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 419,114.27, rounds: 17
+CV with max_depth: 10, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 415,441.82, rounds: 36
+CV with max_depth: 10, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 415,208.97, rounds: 30
+CV with max_depth: 10, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 414,473.35, rounds: 32
+CV with max_depth: 10, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 417,565.98, rounds: 30
+CV with max_depth: 10, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 409,690.81, rounds: 62
+CV with max_depth: 10, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 411,193.22, rounds: 71
+CV with max_depth: 10, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 409,414.40, rounds: 61
+CV with max_depth: 10, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 418,001.95, rounds: 64
+CV with max_depth: 10, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 407,958.74, rounds: 342
+CV with max_depth: 10, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 406,133.74, rounds: 349
+CV with max_depth: 10, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 410,905.30, rounds: 327
+CV with max_depth: 10, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 417,933.63, rounds: 308
+CV with max_depth: 10, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 408,830.07, rounds: 600
+CV with max_depth: 10, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 406,308.23, rounds: 672
+CV with max_depth: 10, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 408,684.47, rounds: 671
+CV with max_depth: 10, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 419,841.09, rounds: 609
+CV with max_depth: 10, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 445,060.67, rounds: 12
+CV with max_depth: 10, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 432,549.67, rounds: 22
+CV with max_depth: 10, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 430,331.08, rounds: 10
+CV with max_depth: 10, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 430,419.32, rounds: 13
+CV with max_depth: 10, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 430,192.11, rounds: 16
+CV with max_depth: 10, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 413,141.58, rounds: 15
+CV with max_depth: 10, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 415,789.71, rounds: 23
+CV with max_depth: 10, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 419,396.21, rounds: 19
+CV with max_depth: 10, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 407,220.90, rounds: 37
+CV with max_depth: 10, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 408,688.60, rounds: 30
+CV with max_depth: 10, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 411,207.90, rounds: 30
+CV with max_depth: 10, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 416,145.89, rounds: 31
+CV with max_depth: 10, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 404,948.56, rounds: 64
+CV with max_depth: 10, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 407,983.42, rounds: 69
+CV with max_depth: 10, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 407,173.97, rounds: 77
+CV with max_depth: 10, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 411,537.58, rounds: 62
+CV with max_depth: 10, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 408,681.95, rounds: 363
+CV with max_depth: 10, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 405,239.13, rounds: 349
+CV with max_depth: 10, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 405,983.60, rounds: 363
+CV with max_depth: 10, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 412,885.04, rounds: 314
+CV with max_depth: 10, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 406,427.19, rounds: 695
+CV with max_depth: 10, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 404,485.29, rounds: 697
+CV with max_depth: 10, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 407,948.88, rounds: 679
+CV with max_depth: 10, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 414,763.39, rounds: 624
+CV with max_depth: 10, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 442,746.53, rounds: 8
+CV with max_depth: 10, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 444,905.25, rounds: 9
+CV with max_depth: 10, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 429,965.53, rounds: 10
+CV with max_depth: 10, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 412,995.94, rounds: 17
+CV with max_depth: 10, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 433,344.70, rounds: 16
+CV with max_depth: 10, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 421,992.57, rounds: 15
+CV with max_depth: 10, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 421,973.96, rounds: 21
+CV with max_depth: 10, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 410,071.61, rounds: 15
+CV with max_depth: 10, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 412,102.21, rounds: 37
+CV with max_depth: 10, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 410,687.85, rounds: 30
+CV with max_depth: 10, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 408,414.54, rounds: 43
+CV with max_depth: 10, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 413,517.55, rounds: 36
+CV with max_depth: 10, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 411,148.35, rounds: 64
+CV with max_depth: 10, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 409,734.18, rounds: 72
+CV with max_depth: 10, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 405,774.54, rounds: 73
+CV with max_depth: 10, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 413,132.98, rounds: 70
+CV with max_depth: 10, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 408,046.84, rounds: 351
+CV with max_depth: 10, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 407,603.19, rounds: 349
+CV with max_depth: 10, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 406,577.15, rounds: 354
+CV with max_depth: 10, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 407,137.68, rounds: 321
+CV with max_depth: 10, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 406,923.42, rounds: 671
+CV with max_depth: 10, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 405,738.21, rounds: 653
+CV with max_depth: 10, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 405,459.67, rounds: 672
+CV with max_depth: 10, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 407,373.33, rounds: 633
+CV with max_depth: 10, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 442,954.65, rounds: 8
+CV with max_depth: 10, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 451,977.85, rounds: 9
+CV with max_depth: 10, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 439,544.27, rounds: 10
+CV with max_depth: 10, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 405,605.18, rounds: 10
+CV with max_depth: 10, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 427,807.51, rounds: 12
+CV with max_depth: 10, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 428,524.01, rounds: 20
+CV with max_depth: 10, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 439,929.89, rounds: 15
+CV with max_depth: 10, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 417,778.90, rounds: 18
+CV with max_depth: 10, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 417,285.35, rounds: 33
+CV with max_depth: 10, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 419,993.96, rounds: 40
+CV with max_depth: 10, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 409,547.00, rounds: 40
+CV with max_depth: 10, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 413,209.45, rounds: 29
+CV with max_depth: 10, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 414,089.87, rounds: 80
+CV with max_depth: 10, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 410,677.47, rounds: 63
+CV with max_depth: 10, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 410,417.69, rounds: 72
+CV with max_depth: 10, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 411,271.48, rounds: 71
+CV with max_depth: 10, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 410,021.65, rounds: 350
+CV with max_depth: 10, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 410,000.57, rounds: 351
+CV with max_depth: 10, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 406,351.09, rounds: 341
+CV with max_depth: 10, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 412,737.96, rounds: 328
+CV with max_depth: 10, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 407,953.12, rounds: 738
+CV with max_depth: 10, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 406,106.75, rounds: 675
+CV with max_depth: 10, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 406,080.78, rounds: 722
+CV with max_depth: 10, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 413,315.86, rounds: 654
+CV with max_depth: 11, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 442,181.11, rounds: 9
+CV with max_depth: 11, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 442,053.49, rounds: 16
+CV with max_depth: 11, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 440,670.24, rounds: 11
+CV with max_depth: 11, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 427,453.86, rounds: 10
+CV with max_depth: 11, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 425,154.80, rounds: 15
+CV with max_depth: 11, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 420,711.63, rounds: 18
+CV with max_depth: 11, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 424,926.98, rounds: 15
+CV with max_depth: 11, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 419,120.00, rounds: 16
+CV with max_depth: 11, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 422,156.53, rounds: 34
+CV with max_depth: 11, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 417,170.06, rounds: 32
+CV with max_depth: 11, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 419,191.30, rounds: 30
+CV with max_depth: 11, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 433,072.47, rounds: 27
+CV with max_depth: 11, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 413,791.76, rounds: 66
+CV with max_depth: 11, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 420,459.28, rounds: 63
+CV with max_depth: 11, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 412,748.79, rounds: 72
+CV with max_depth: 11, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 439,147.57, rounds: 76
+CV with max_depth: 11, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 414,990.25, rounds: 352
+CV with max_depth: 11, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 416,221.77, rounds: 320
+CV with max_depth: 11, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 417,395.07, rounds: 355
+CV with max_depth: 11, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 439,497.68, rounds: 285
+CV with max_depth: 11, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 413,317.29, rounds: 689
+CV with max_depth: 11, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 412,928.96, rounds: 750
+CV with max_depth: 11, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 419,493.39, rounds: 619
+CV with max_depth: 11, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 437,031.81, rounds: 582
+CV with max_depth: 11, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 438,224.80, rounds: 12
+CV with max_depth: 11, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 454,557.88, rounds: 12
+CV with max_depth: 11, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 435,025.17, rounds: 12
+CV with max_depth: 11, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 414,138.99, rounds: 10
+CV with max_depth: 11, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 419,457.38, rounds: 16
+CV with max_depth: 11, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 426,388.97, rounds: 11
+CV with max_depth: 11, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 420,228.90, rounds: 23
+CV with max_depth: 11, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 419,790.69, rounds: 17
+CV with max_depth: 11, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 417,252.30, rounds: 27
+CV with max_depth: 11, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 422,697.88, rounds: 27
+CV with max_depth: 11, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 414,665.18, rounds: 34
+CV with max_depth: 11, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 415,554.98, rounds: 41
+CV with max_depth: 11, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 413,340.88, rounds: 58
+CV with max_depth: 11, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 415,038.08, rounds: 84
+CV with max_depth: 11, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 410,557.64, rounds: 72
+CV with max_depth: 11, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 423,171.87, rounds: 80
+CV with max_depth: 11, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 411,285.43, rounds: 345
+CV with max_depth: 11, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 410,632.79, rounds: 355
+CV with max_depth: 11, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 415,080.81, rounds: 364
+CV with max_depth: 11, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 419,453.43, rounds: 334
+CV with max_depth: 11, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 411,459.35, rounds: 683
+CV with max_depth: 11, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 414,330.20, rounds: 711
+CV with max_depth: 11, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 419,513.32, rounds: 619
+CV with max_depth: 11, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 421,456.72, rounds: 712
+CV with max_depth: 11, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 429,689.81, rounds: 20
+CV with max_depth: 11, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 428,629.47, rounds: 9
+CV with max_depth: 11, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 439,350.22, rounds: 11
+CV with max_depth: 11, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 434,789.02, rounds: 9
+CV with max_depth: 11, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 426,934.51, rounds: 15
+CV with max_depth: 11, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 419,349.74, rounds: 14
+CV with max_depth: 11, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 416,481.98, rounds: 21
+CV with max_depth: 11, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 427,731.22, rounds: 14
+CV with max_depth: 11, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 416,623.41, rounds: 33
+CV with max_depth: 11, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 418,618.60, rounds: 32
+CV with max_depth: 11, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 409,947.62, rounds: 31
+CV with max_depth: 11, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 420,399.22, rounds: 33
+CV with max_depth: 11, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 412,076.33, rounds: 64
+CV with max_depth: 11, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 411,515.67, rounds: 71
+CV with max_depth: 11, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 413,167.08, rounds: 72
+CV with max_depth: 11, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 423,285.99, rounds: 69
+CV with max_depth: 11, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 408,126.74, rounds: 344
+CV with max_depth: 11, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 409,984.88, rounds: 348
+CV with max_depth: 11, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 413,518.41, rounds: 377
+CV with max_depth: 11, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 425,881.93, rounds: 370
+CV with max_depth: 11, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 409,959.83, rounds: 647
+CV with max_depth: 11, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 410,803.83, rounds: 711
+CV with max_depth: 11, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 415,229.41, rounds: 671
+CV with max_depth: 11, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 424,611.22, rounds: 690
+CV with max_depth: 11, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 441,154.16, rounds: 13
+CV with max_depth: 11, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 426,417.11, rounds: 12
+CV with max_depth: 11, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 427,375.26, rounds: 9
+CV with max_depth: 11, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 419,338.09, rounds: 8
+CV with max_depth: 11, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 427,123.05, rounds: 15
+CV with max_depth: 11, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 419,537.50, rounds: 12
+CV with max_depth: 11, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 430,203.75, rounds: 15
+CV with max_depth: 11, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 420,397.90, rounds: 15
+CV with max_depth: 11, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 415,614.91, rounds: 34
+CV with max_depth: 11, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 415,333.66, rounds: 30
+CV with max_depth: 11, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 413,751.84, rounds: 32
+CV with max_depth: 11, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 418,364.48, rounds: 28
+CV with max_depth: 11, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 407,279.16, rounds: 64
+CV with max_depth: 11, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 410,909.59, rounds: 71
+CV with max_depth: 11, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 408,833.13, rounds: 61
+CV with max_depth: 11, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 418,016.74, rounds: 65
+CV with max_depth: 11, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 408,254.91, rounds: 328
+CV with max_depth: 11, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 405,786.71, rounds: 352
+CV with max_depth: 11, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 410,632.34, rounds: 327
+CV with max_depth: 11, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 414,125.57, rounds: 323
+CV with max_depth: 11, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 408,924.39, rounds: 600
+CV with max_depth: 11, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 406,150.69, rounds: 663
+CV with max_depth: 11, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 408,673.45, rounds: 664
+CV with max_depth: 11, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 419,932.04, rounds: 607
+CV with max_depth: 11, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 442,480.20, rounds: 24
+CV with max_depth: 11, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 434,906.49, rounds: 11
+CV with max_depth: 11, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 430,447.63, rounds: 10
+CV with max_depth: 11, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 426,355.47, rounds: 13
+CV with max_depth: 11, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 432,777.83, rounds: 16
+CV with max_depth: 11, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 413,500.15, rounds: 16
+CV with max_depth: 11, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 416,328.86, rounds: 15
+CV with max_depth: 11, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 419,303.79, rounds: 15
+CV with max_depth: 11, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 410,918.35, rounds: 32
+CV with max_depth: 11, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 409,217.25, rounds: 30
+CV with max_depth: 11, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 412,438.71, rounds: 30
+CV with max_depth: 11, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 416,147.20, rounds: 29
+CV with max_depth: 11, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 405,149.02, rounds: 63
+CV with max_depth: 11, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 407,088.28, rounds: 69
+CV with max_depth: 11, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 408,125.59, rounds: 88
+CV with max_depth: 11, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 410,214.99, rounds: 74
+CV with max_depth: 11, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 408,756.87, rounds: 351
+CV with max_depth: 11, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 405,042.37, rounds: 349
+CV with max_depth: 11, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 405,458.38, rounds: 363
+CV with max_depth: 11, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 413,764.12, rounds: 310
+CV with max_depth: 11, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 406,233.32, rounds: 695
+CV with max_depth: 11, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 404,535.23, rounds: 697
+CV with max_depth: 11, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 407,994.65, rounds: 673
+CV with max_depth: 11, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 415,205.48, rounds: 615
+CV with max_depth: 11, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 443,389.78, rounds: 8
+CV with max_depth: 11, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 443,975.25, rounds: 11
+CV with max_depth: 11, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 427,910.62, rounds: 10
+CV with max_depth: 11, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 413,610.25, rounds: 9
+CV with max_depth: 11, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 434,506.52, rounds: 19
+CV with max_depth: 11, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 423,563.86, rounds: 15
+CV with max_depth: 11, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 426,148.33, rounds: 24
+CV with max_depth: 11, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 409,985.69, rounds: 21
+CV with max_depth: 11, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 412,687.80, rounds: 33
+CV with max_depth: 11, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 410,584.18, rounds: 30
+CV with max_depth: 11, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 410,023.97, rounds: 33
+CV with max_depth: 11, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 414,177.27, rounds: 32
+CV with max_depth: 11, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 410,972.04, rounds: 64
+CV with max_depth: 11, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 408,697.48, rounds: 84
+CV with max_depth: 11, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 404,981.79, rounds: 75
+CV with max_depth: 11, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 412,722.29, rounds: 67
+CV with max_depth: 11, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 407,499.61, rounds: 351
+CV with max_depth: 11, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 407,646.34, rounds: 349
+CV with max_depth: 11, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 406,383.56, rounds: 354
+CV with max_depth: 11, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 406,128.68, rounds: 338
+CV with max_depth: 11, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 406,902.33, rounds: 671
+CV with max_depth: 11, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 405,916.83, rounds: 653
+CV with max_depth: 11, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 405,341.11, rounds: 672
+CV with max_depth: 11, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 406,944.37, rounds: 632
+CV with max_depth: 11, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 442,227.18, rounds: 8
+CV with max_depth: 11, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 453,706.65, rounds: 7
+CV with max_depth: 11, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 442,082.51, rounds: 15
+CV with max_depth: 11, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 406,945.87, rounds: 9
+CV with max_depth: 11, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 428,072.25, rounds: 14
+CV with max_depth: 11, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 429,967.87, rounds: 16
+CV with max_depth: 11, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 436,834.91, rounds: 29
+CV with max_depth: 11, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 418,455.85, rounds: 20
+CV with max_depth: 11, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 418,677.58, rounds: 33
+CV with max_depth: 11, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 420,218.71, rounds: 32
+CV with max_depth: 11, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 411,250.40, rounds: 40
+CV with max_depth: 11, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 412,872.82, rounds: 29
+CV with max_depth: 11, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 413,229.70, rounds: 80
+CV with max_depth: 11, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 409,832.86, rounds: 74
+CV with max_depth: 11, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 410,481.95, rounds: 71
+CV with max_depth: 11, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 410,208.60, rounds: 70
+CV with max_depth: 11, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 410,313.94, rounds: 350
+CV with max_depth: 11, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 409,358.67, rounds: 351
+CV with max_depth: 11, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 406,315.78, rounds: 354
+CV with max_depth: 11, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 412,015.89, rounds: 361
+CV with max_depth: 11, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 407,975.83, rounds: 738
+CV with max_depth: 11, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 406,020.67, rounds: 675
+CV with max_depth: 11, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 406,287.57, rounds: 685
+CV with max_depth: 11, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 412,563.25, rounds: 660
+CV with max_depth: 12, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 444,863.96, rounds: 9
+CV with max_depth: 12, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 443,769.28, rounds: 11
+CV with max_depth: 12, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 438,396.81, rounds: 9
+CV with max_depth: 12, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 429,451.66, rounds: 8
+CV with max_depth: 12, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 426,638.75, rounds: 15
+CV with max_depth: 12, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 425,093.15, rounds: 14
+CV with max_depth: 12, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 424,311.86, rounds: 16
+CV with max_depth: 12, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 419,043.27, rounds: 14
+CV with max_depth: 12, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 420,089.94, rounds: 38
+CV with max_depth: 12, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 417,759.85, rounds: 32
+CV with max_depth: 12, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 421,991.00, rounds: 29
+CV with max_depth: 12, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 432,193.55, rounds: 27
+CV with max_depth: 12, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 413,119.45, rounds: 58
+CV with max_depth: 12, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 420,571.15, rounds: 69
+CV with max_depth: 12, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 414,099.07, rounds: 70
+CV with max_depth: 12, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 432,113.77, rounds: 78
+CV with max_depth: 12, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 414,792.13, rounds: 352
+CV with max_depth: 12, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 416,557.12, rounds: 320
+CV with max_depth: 12, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 417,406.87, rounds: 355
+CV with max_depth: 12, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 431,263.98, rounds: 417
+CV with max_depth: 12, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 413,055.18, rounds: 689
+CV with max_depth: 12, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 413,373.25, rounds: 714
+CV with max_depth: 12, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 419,619.49, rounds: 619
+CV with max_depth: 12, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 438,430.08, rounds: 558
+CV with max_depth: 12, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 439,091.27, rounds: 11
+CV with max_depth: 12, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 445,706.29, rounds: 14
+CV with max_depth: 12, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 432,407.46, rounds: 16
+CV with max_depth: 12, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 408,391.64, rounds: 13
+CV with max_depth: 12, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 413,579.13, rounds: 25
+CV with max_depth: 12, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 426,816.33, rounds: 11
+CV with max_depth: 12, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 417,743.45, rounds: 25
+CV with max_depth: 12, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 420,865.67, rounds: 22
+CV with max_depth: 12, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 416,543.47, rounds: 26
+CV with max_depth: 12, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 415,840.01, rounds: 48
+CV with max_depth: 12, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 413,726.25, rounds: 36
+CV with max_depth: 12, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 414,185.85, rounds: 40
+CV with max_depth: 12, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 412,771.71, rounds: 65
+CV with max_depth: 12, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 414,946.74, rounds: 86
+CV with max_depth: 12, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 410,396.51, rounds: 78
+CV with max_depth: 12, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 422,501.94, rounds: 70
+CV with max_depth: 12, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 410,858.10, rounds: 352
+CV with max_depth: 12, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 410,718.69, rounds: 365
+CV with max_depth: 12, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 414,991.07, rounds: 364
+CV with max_depth: 12, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 419,943.25, rounds: 346
+CV with max_depth: 12, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 411,050.24, rounds: 683
+CV with max_depth: 12, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 413,679.29, rounds: 711
+CV with max_depth: 12, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 419,401.76, rounds: 619
+CV with max_depth: 12, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 421,287.68, rounds: 671
+CV with max_depth: 12, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 436,747.84, rounds: 21
+CV with max_depth: 12, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 431,537.01, rounds: 9
+CV with max_depth: 12, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 437,643.74, rounds: 11
+CV with max_depth: 12, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 436,502.65, rounds: 9
+CV with max_depth: 12, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 423,871.86, rounds: 14
+CV with max_depth: 12, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 420,214.69, rounds: 14
+CV with max_depth: 12, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 419,876.86, rounds: 23
+CV with max_depth: 12, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 429,060.28, rounds: 14
+CV with max_depth: 12, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 418,133.28, rounds: 26
+CV with max_depth: 12, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 419,925.64, rounds: 48
+CV with max_depth: 12, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 410,152.58, rounds: 31
+CV with max_depth: 12, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 422,400.09, rounds: 35
+CV with max_depth: 12, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 411,107.36, rounds: 64
+CV with max_depth: 12, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 411,863.14, rounds: 71
+CV with max_depth: 12, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 410,725.80, rounds: 72
+CV with max_depth: 12, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 421,646.63, rounds: 67
+CV with max_depth: 12, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 408,485.82, rounds: 344
+CV with max_depth: 12, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 410,039.96, rounds: 348
+CV with max_depth: 12, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 413,384.27, rounds: 377
+CV with max_depth: 12, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 427,308.91, rounds: 287
+CV with max_depth: 12, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 409,877.83, rounds: 647
+CV with max_depth: 12, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 411,599.31, rounds: 674
+CV with max_depth: 12, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 414,029.98, rounds: 774
+CV with max_depth: 12, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 425,380.42, rounds: 681
+CV with max_depth: 12, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 443,549.84, rounds: 14
+CV with max_depth: 12, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 425,404.24, rounds: 11
+CV with max_depth: 12, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 426,683.77, rounds: 15
+CV with max_depth: 12, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 419,168.82, rounds: 8
+CV with max_depth: 12, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 425,190.82, rounds: 15
+CV with max_depth: 12, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 418,055.48, rounds: 26
+CV with max_depth: 12, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 430,384.50, rounds: 15
+CV with max_depth: 12, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 418,090.70, rounds: 15
+CV with max_depth: 12, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 413,350.48, rounds: 37
+CV with max_depth: 12, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 415,538.71, rounds: 27
+CV with max_depth: 12, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 413,002.38, rounds: 43
+CV with max_depth: 12, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 419,332.43, rounds: 31
+CV with max_depth: 12, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 406,926.57, rounds: 64
+CV with max_depth: 12, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 410,998.60, rounds: 75
+CV with max_depth: 12, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 409,148.44, rounds: 64
+CV with max_depth: 12, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 418,015.11, rounds: 67
+CV with max_depth: 12, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 407,980.83, rounds: 342
+CV with max_depth: 12, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 406,076.78, rounds: 344
+CV with max_depth: 12, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 410,324.36, rounds: 327
+CV with max_depth: 12, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 414,684.24, rounds: 304
+CV with max_depth: 12, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 408,714.48, rounds: 600
+CV with max_depth: 12, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 406,030.45, rounds: 672
+CV with max_depth: 12, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 408,448.00, rounds: 671
+CV with max_depth: 12, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 420,342.64, rounds: 612
+CV with max_depth: 12, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 446,792.86, rounds: 12
+CV with max_depth: 12, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 432,480.62, rounds: 11
+CV with max_depth: 12, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 431,266.46, rounds: 10
+CV with max_depth: 12, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 426,926.86, rounds: 11
+CV with max_depth: 12, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 428,511.75, rounds: 16
+CV with max_depth: 12, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 413,185.40, rounds: 16
+CV with max_depth: 12, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 410,140.13, rounds: 25
+CV with max_depth: 12, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 418,687.96, rounds: 15
+CV with max_depth: 12, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 407,472.29, rounds: 37
+CV with max_depth: 12, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 409,729.48, rounds: 30
+CV with max_depth: 12, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 413,500.84, rounds: 30
+CV with max_depth: 12, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 416,592.29, rounds: 29
+CV with max_depth: 12, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 404,682.07, rounds: 63
+CV with max_depth: 12, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 407,077.26, rounds: 69
+CV with max_depth: 12, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 408,412.64, rounds: 90
+CV with max_depth: 12, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 411,626.27, rounds: 65
+CV with max_depth: 12, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 408,452.21, rounds: 366
+CV with max_depth: 12, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 405,443.42, rounds: 349
+CV with max_depth: 12, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 405,733.54, rounds: 345
+CV with max_depth: 12, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 413,702.16, rounds: 310
+CV with max_depth: 12, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 407,224.32, rounds: 643
+CV with max_depth: 12, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 404,538.18, rounds: 697
+CV with max_depth: 12, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 408,030.98, rounds: 673
+CV with max_depth: 12, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 414,903.33, rounds: 625
+CV with max_depth: 12, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 443,662.14, rounds: 7
+CV with max_depth: 12, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 440,730.98, rounds: 16
+CV with max_depth: 12, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 429,468.03, rounds: 9
+CV with max_depth: 12, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 413,678.34, rounds: 9
+CV with max_depth: 12, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 434,952.14, rounds: 12
+CV with max_depth: 12, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 424,377.95, rounds: 15
+CV with max_depth: 12, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 427,990.44, rounds: 21
+CV with max_depth: 12, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 408,919.41, rounds: 19
+CV with max_depth: 12, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 413,482.33, rounds: 33
+CV with max_depth: 12, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 409,994.71, rounds: 30
+CV with max_depth: 12, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 409,722.46, rounds: 41
+CV with max_depth: 12, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 413,910.15, rounds: 35
+CV with max_depth: 12, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 411,537.40, rounds: 65
+CV with max_depth: 12, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 407,937.59, rounds: 81
+CV with max_depth: 12, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 405,038.93, rounds: 73
+CV with max_depth: 12, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 410,154.67, rounds: 69
+CV with max_depth: 12, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 407,474.67, rounds: 351
+CV with max_depth: 12, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 407,024.94, rounds: 349
+CV with max_depth: 12, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 406,685.51, rounds: 354
+CV with max_depth: 12, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 407,097.53, rounds: 318
+CV with max_depth: 12, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 407,102.47, rounds: 670
+CV with max_depth: 12, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 405,930.14, rounds: 653
+CV with max_depth: 12, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 405,620.95, rounds: 673
+CV with max_depth: 12, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 407,294.11, rounds: 635
+CV with max_depth: 12, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 443,159.87, rounds: 8
+CV with max_depth: 12, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 453,317.85, rounds: 7
+CV with max_depth: 12, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 442,475.76, rounds: 9
+CV with max_depth: 12, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 406,284.20, rounds: 10
+CV with max_depth: 12, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 426,565.49, rounds: 15
+CV with max_depth: 12, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 430,313.50, rounds: 16
+CV with max_depth: 12, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 437,267.32, rounds: 26
+CV with max_depth: 12, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 418,192.23, rounds: 17
+CV with max_depth: 12, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 418,744.57, rounds: 32
+CV with max_depth: 12, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 420,234.55, rounds: 32
+CV with max_depth: 12, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 411,818.13, rounds: 40
+CV with max_depth: 12, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 413,118.51, rounds: 29
+CV with max_depth: 12, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 413,278.00, rounds: 81
+CV with max_depth: 12, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 410,210.47, rounds: 74
+CV with max_depth: 12, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 410,563.70, rounds: 72
+CV with max_depth: 12, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 410,922.24, rounds: 71
+CV with max_depth: 12, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 410,417.32, rounds: 350
+CV with max_depth: 12, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 409,454.77, rounds: 351
+CV with max_depth: 12, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 406,440.21, rounds: 341
+CV with max_depth: 12, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 414,169.42, rounds: 283
+CV with max_depth: 12, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 407,798.51, rounds: 743
+CV with max_depth: 12, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 406,092.75, rounds: 675
+CV with max_depth: 12, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 406,480.81, rounds: 685
+CV with max_depth: 12, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 412,515.37, rounds: 650
+CV with max_depth: 13, min_child_weight: 3, eta: 0.3, subsample: 0.7
+	MAE: 445,494.20, rounds: 9
+CV with max_depth: 13, min_child_weight: 3, eta: 0.3, subsample: 0.8
+	MAE: 443,657.31, rounds: 10
+CV with max_depth: 13, min_child_weight: 3, eta: 0.3, subsample: 0.9
+	MAE: 439,723.20, rounds: 9
+CV with max_depth: 13, min_child_weight: 3, eta: 0.3, subsample: 1.0
+	MAE: 427,248.19, rounds: 9
+CV with max_depth: 13, min_child_weight: 3, eta: 0.2, subsample: 0.7
+	MAE: 428,684.47, rounds: 15
+CV with max_depth: 13, min_child_weight: 3, eta: 0.2, subsample: 0.8
+	MAE: 427,286.87, rounds: 15
+CV with max_depth: 13, min_child_weight: 3, eta: 0.2, subsample: 0.9
+	MAE: 426,751.25, rounds: 16
+CV with max_depth: 13, min_child_weight: 3, eta: 0.2, subsample: 1.0
+	MAE: 416,268.89, rounds: 14
+CV with max_depth: 13, min_child_weight: 3, eta: 0.1, subsample: 0.7
+	MAE: 421,597.23, rounds: 34
+CV with max_depth: 13, min_child_weight: 3, eta: 0.1, subsample: 0.8
+	MAE: 418,620.35, rounds: 30
+CV with max_depth: 13, min_child_weight: 3, eta: 0.1, subsample: 0.9
+	MAE: 421,351.34, rounds: 30
+CV with max_depth: 13, min_child_weight: 3, eta: 0.1, subsample: 1.0
+	MAE: 432,333.18, rounds: 28
+CV with max_depth: 13, min_child_weight: 3, eta: 0.05, subsample: 0.7
+	MAE: 414,505.79, rounds: 58
+CV with max_depth: 13, min_child_weight: 3, eta: 0.05, subsample: 0.8
+	MAE: 420,346.05, rounds: 65
+CV with max_depth: 13, min_child_weight: 3, eta: 0.05, subsample: 0.9
+	MAE: 412,565.20, rounds: 70
+CV with max_depth: 13, min_child_weight: 3, eta: 0.05, subsample: 1.0
+	MAE: 433,778.67, rounds: 71
+CV with max_depth: 13, min_child_weight: 3, eta: 0.01, subsample: 0.7
+	MAE: 414,921.25, rounds: 352
+CV with max_depth: 13, min_child_weight: 3, eta: 0.01, subsample: 0.8
+	MAE: 416,466.48, rounds: 320
+CV with max_depth: 13, min_child_weight: 3, eta: 0.01, subsample: 0.9
+	MAE: 417,018.92, rounds: 354
+CV with max_depth: 13, min_child_weight: 3, eta: 0.01, subsample: 1.0
+	MAE: 431,239.97, rounds: 381
+CV with max_depth: 13, min_child_weight: 3, eta: 0.005, subsample: 0.7
+	MAE: 413,079.78, rounds: 689
+CV with max_depth: 13, min_child_weight: 3, eta: 0.005, subsample: 0.8
+	MAE: 413,284.29, rounds: 723
+CV with max_depth: 13, min_child_weight: 3, eta: 0.005, subsample: 0.9
+	MAE: 419,653.58, rounds: 619
+CV with max_depth: 13, min_child_weight: 3, eta: 0.005, subsample: 1.0
+	MAE: 439,623.71, rounds: 547
+CV with max_depth: 13, min_child_weight: 4, eta: 0.3, subsample: 0.7
+	MAE: 441,749.41, rounds: 11
+CV with max_depth: 13, min_child_weight: 4, eta: 0.3, subsample: 0.8
+	MAE: 449,446.13, rounds: 12
+CV with max_depth: 13, min_child_weight: 4, eta: 0.3, subsample: 0.9
+	MAE: 435,236.55, rounds: 12
+CV with max_depth: 13, min_child_weight: 4, eta: 0.3, subsample: 1.0
+	MAE: 411,510.99, rounds: 14
+CV with max_depth: 13, min_child_weight: 4, eta: 0.2, subsample: 0.7
+	MAE: 414,780.41, rounds: 16
+CV with max_depth: 13, min_child_weight: 4, eta: 0.2, subsample: 0.8
+	MAE: 426,829.22, rounds: 11
+CV with max_depth: 13, min_child_weight: 4, eta: 0.2, subsample: 0.9
+	MAE: 419,245.68, rounds: 25
+CV with max_depth: 13, min_child_weight: 4, eta: 0.2, subsample: 1.0
+	MAE: 418,936.98, rounds: 19
+CV with max_depth: 13, min_child_weight: 4, eta: 0.1, subsample: 0.7
+	MAE: 416,281.99, rounds: 26
+CV with max_depth: 13, min_child_weight: 4, eta: 0.1, subsample: 0.8
+	MAE: 418,412.89, rounds: 43
+CV with max_depth: 13, min_child_weight: 4, eta: 0.1, subsample: 0.9
+	MAE: 413,759.56, rounds: 43
+CV with max_depth: 13, min_child_weight: 4, eta: 0.1, subsample: 1.0
+	MAE: 415,787.13, rounds: 41
+CV with max_depth: 13, min_child_weight: 4, eta: 0.05, subsample: 0.7
+	MAE: 411,857.03, rounds: 61
+CV with max_depth: 13, min_child_weight: 4, eta: 0.05, subsample: 0.8
+	MAE: 414,115.18, rounds: 84
+CV with max_depth: 13, min_child_weight: 4, eta: 0.05, subsample: 0.9
+	MAE: 409,437.75, rounds: 72
+CV with max_depth: 13, min_child_weight: 4, eta: 0.05, subsample: 1.0
+	MAE: 421,196.91, rounds: 82
+CV with max_depth: 13, min_child_weight: 4, eta: 0.01, subsample: 0.7
+	MAE: 410,970.49, rounds: 345
+CV with max_depth: 13, min_child_weight: 4, eta: 0.01, subsample: 0.8
+	MAE: 410,891.06, rounds: 365
+CV with max_depth: 13, min_child_weight: 4, eta: 0.01, subsample: 0.9
+	MAE: 414,981.86, rounds: 364
+CV with max_depth: 13, min_child_weight: 4, eta: 0.01, subsample: 1.0
+	MAE: 419,822.40, rounds: 338
+CV with max_depth: 13, min_child_weight: 4, eta: 0.005, subsample: 0.7
+	MAE: 410,996.61, rounds: 683
+CV with max_depth: 13, min_child_weight: 4, eta: 0.005, subsample: 0.8
+	MAE: 413,791.91, rounds: 711
+CV with max_depth: 13, min_child_weight: 4, eta: 0.005, subsample: 0.9
+	MAE: 419,560.58, rounds: 619
+CV with max_depth: 13, min_child_weight: 4, eta: 0.005, subsample: 1.0
+	MAE: 422,674.73, rounds: 697
+CV with max_depth: 13, min_child_weight: 5, eta: 0.3, subsample: 0.7
+	MAE: 435,239.20, rounds: 21
+CV with max_depth: 13, min_child_weight: 5, eta: 0.3, subsample: 0.8
+	MAE: 429,139.56, rounds: 13
+CV with max_depth: 13, min_child_weight: 5, eta: 0.3, subsample: 0.9
+	MAE: 439,968.91, rounds: 11
+CV with max_depth: 13, min_child_weight: 5, eta: 0.3, subsample: 1.0
+	MAE: 434,916.08, rounds: 9
+CV with max_depth: 13, min_child_weight: 5, eta: 0.2, subsample: 0.7
+	MAE: 423,957.35, rounds: 14
+CV with max_depth: 13, min_child_weight: 5, eta: 0.2, subsample: 0.8
+	MAE: 420,052.94, rounds: 14
+CV with max_depth: 13, min_child_weight: 5, eta: 0.2, subsample: 0.9
+	MAE: 420,962.48, rounds: 21
+CV with max_depth: 13, min_child_weight: 5, eta: 0.2, subsample: 1.0
+	MAE: 427,664.10, rounds: 14
+CV with max_depth: 13, min_child_weight: 5, eta: 0.1, subsample: 0.7
+	MAE: 415,857.56, rounds: 36
+CV with max_depth: 13, min_child_weight: 5, eta: 0.1, subsample: 0.8
+	MAE: 416,775.03, rounds: 37
+CV with max_depth: 13, min_child_weight: 5, eta: 0.1, subsample: 0.9
+	MAE: 409,378.42, rounds: 31
+CV with max_depth: 13, min_child_weight: 5, eta: 0.1, subsample: 1.0
+	MAE: 422,065.65, rounds: 30
+CV with max_depth: 13, min_child_weight: 5, eta: 0.05, subsample: 0.7
+	MAE: 412,044.73, rounds: 64
+CV with max_depth: 13, min_child_weight: 5, eta: 0.05, subsample: 0.8
+	MAE: 411,189.35, rounds: 71
+CV with max_depth: 13, min_child_weight: 5, eta: 0.05, subsample: 0.9
+	MAE: 411,293.74, rounds: 72
+CV with max_depth: 13, min_child_weight: 5, eta: 0.05, subsample: 1.0
+	MAE: 422,032.42, rounds: 66
+CV with max_depth: 13, min_child_weight: 5, eta: 0.01, subsample: 0.7
+	MAE: 407,954.33, rounds: 345
+CV with max_depth: 13, min_child_weight: 5, eta: 0.01, subsample: 0.8
+	MAE: 409,838.89, rounds: 348
+CV with max_depth: 13, min_child_weight: 5, eta: 0.01, subsample: 0.9
+	MAE: 413,135.40, rounds: 377
+CV with max_depth: 13, min_child_weight: 5, eta: 0.01, subsample: 1.0
+	MAE: 427,250.54, rounds: 300
+CV with max_depth: 13, min_child_weight: 5, eta: 0.005, subsample: 0.7
+	MAE: 409,631.80, rounds: 679
+CV with max_depth: 13, min_child_weight: 5, eta: 0.005, subsample: 0.8
+	MAE: 411,406.49, rounds: 674
+CV with max_depth: 13, min_child_weight: 5, eta: 0.005, subsample: 0.9
+	MAE: 414,541.26, rounds: 720
+CV with max_depth: 13, min_child_weight: 5, eta: 0.005, subsample: 1.0
+	MAE: 427,556.50, rounds: 574
+CV with max_depth: 13, min_child_weight: 6, eta: 0.3, subsample: 0.7
+	MAE: 440,520.94, rounds: 14
+CV with max_depth: 13, min_child_weight: 6, eta: 0.3, subsample: 0.8
+	MAE: 426,209.25, rounds: 11
+CV with max_depth: 13, min_child_weight: 6, eta: 0.3, subsample: 0.9
+	MAE: 424,833.89, rounds: 15
+CV with max_depth: 13, min_child_weight: 6, eta: 0.3, subsample: 1.0
+	MAE: 420,077.88, rounds: 8
+CV with max_depth: 13, min_child_weight: 6, eta: 0.2, subsample: 0.7
+	MAE: 425,137.70, rounds: 15
+CV with max_depth: 13, min_child_weight: 6, eta: 0.2, subsample: 0.8
+	MAE: 417,832.98, rounds: 24
+CV with max_depth: 13, min_child_weight: 6, eta: 0.2, subsample: 0.9
+	MAE: 431,043.89, rounds: 13
+CV with max_depth: 13, min_child_weight: 6, eta: 0.2, subsample: 1.0
+	MAE: 420,009.15, rounds: 15
+CV with max_depth: 13, min_child_weight: 6, eta: 0.1, subsample: 0.7
+	MAE: 412,925.22, rounds: 38
+CV with max_depth: 13, min_child_weight: 6, eta: 0.1, subsample: 0.8
+	MAE: 415,680.55, rounds: 30
+CV with max_depth: 13, min_child_weight: 6, eta: 0.1, subsample: 0.9
+	MAE: 415,139.94, rounds: 29
+CV with max_depth: 13, min_child_weight: 6, eta: 0.1, subsample: 1.0
+	MAE: 417,877.53, rounds: 31
+CV with max_depth: 13, min_child_weight: 6, eta: 0.05, subsample: 0.7
+	MAE: 407,641.52, rounds: 65
+CV with max_depth: 13, min_child_weight: 6, eta: 0.05, subsample: 0.8
+	MAE: 411,070.70, rounds: 71
+CV with max_depth: 13, min_child_weight: 6, eta: 0.05, subsample: 0.9
+	MAE: 409,159.46, rounds: 64
+CV with max_depth: 13, min_child_weight: 6, eta: 0.05, subsample: 1.0
+	MAE: 418,215.30, rounds: 67
+CV with max_depth: 13, min_child_weight: 6, eta: 0.01, subsample: 0.7
+	MAE: 408,117.53, rounds: 350
+CV with max_depth: 13, min_child_weight: 6, eta: 0.01, subsample: 0.8
+	MAE: 406,117.11, rounds: 350
+CV with max_depth: 13, min_child_weight: 6, eta: 0.01, subsample: 0.9
+	MAE: 410,120.02, rounds: 327
+CV with max_depth: 13, min_child_weight: 6, eta: 0.01, subsample: 1.0
+	MAE: 414,432.32, rounds: 317
+CV with max_depth: 13, min_child_weight: 6, eta: 0.005, subsample: 0.7
+	MAE: 408,796.60, rounds: 600
+CV with max_depth: 13, min_child_weight: 6, eta: 0.005, subsample: 0.8
+	MAE: 406,029.30, rounds: 672
+CV with max_depth: 13, min_child_weight: 6, eta: 0.005, subsample: 0.9
+	MAE: 408,522.58, rounds: 671
+CV with max_depth: 13, min_child_weight: 6, eta: 0.005, subsample: 1.0
+	MAE: 419,815.01, rounds: 608
+CV with max_depth: 13, min_child_weight: 7, eta: 0.3, subsample: 0.7
+	MAE: 448,102.10, rounds: 10
+CV with max_depth: 13, min_child_weight: 7, eta: 0.3, subsample: 0.8
+	MAE: 433,709.05, rounds: 11
+CV with max_depth: 13, min_child_weight: 7, eta: 0.3, subsample: 0.9
+	MAE: 435,261.18, rounds: 10
+CV with max_depth: 13, min_child_weight: 7, eta: 0.3, subsample: 1.0
+	MAE: 425,298.84, rounds: 15
+CV with max_depth: 13, min_child_weight: 7, eta: 0.2, subsample: 0.7
+	MAE: 429,098.77, rounds: 16
+CV with max_depth: 13, min_child_weight: 7, eta: 0.2, subsample: 0.8
+	MAE: 414,273.94, rounds: 16
+CV with max_depth: 13, min_child_weight: 7, eta: 0.2, subsample: 0.9
+	MAE: 411,723.71, rounds: 23
+CV with max_depth: 13, min_child_weight: 7, eta: 0.2, subsample: 1.0
+	MAE: 418,705.84, rounds: 15
+CV with max_depth: 13, min_child_weight: 7, eta: 0.1, subsample: 0.7
+	MAE: 405,167.26, rounds: 37
+CV with max_depth: 13, min_child_weight: 7, eta: 0.1, subsample: 0.8
+	MAE: 409,437.90, rounds: 30
+CV with max_depth: 13, min_child_weight: 7, eta: 0.1, subsample: 0.9
+	MAE: 413,180.88, rounds: 30
+CV with max_depth: 13, min_child_weight: 7, eta: 0.1, subsample: 1.0
+	MAE: 416,279.44, rounds: 29
+CV with max_depth: 13, min_child_weight: 7, eta: 0.05, subsample: 0.7
+	MAE: 404,703.58, rounds: 63
+CV with max_depth: 13, min_child_weight: 7, eta: 0.05, subsample: 0.8
+	MAE: 407,106.55, rounds: 69
+CV with max_depth: 13, min_child_weight: 7, eta: 0.05, subsample: 0.9
+	MAE: 408,084.39, rounds: 78
+CV with max_depth: 13, min_child_weight: 7, eta: 0.05, subsample: 1.0
+	MAE: 411,986.58, rounds: 61
+CV with max_depth: 13, min_child_weight: 7, eta: 0.01, subsample: 0.7
+	MAE: 408,548.20, rounds: 373
+CV with max_depth: 13, min_child_weight: 7, eta: 0.01, subsample: 0.8
+	MAE: 405,239.55, rounds: 349
+CV with max_depth: 13, min_child_weight: 7, eta: 0.01, subsample: 0.9
+	MAE: 405,876.78, rounds: 345
+CV with max_depth: 13, min_child_weight: 7, eta: 0.01, subsample: 1.0
+	MAE: 413,697.01, rounds: 307
+CV with max_depth: 13, min_child_weight: 7, eta: 0.005, subsample: 0.7
+	MAE: 406,483.92, rounds: 695
+CV with max_depth: 13, min_child_weight: 7, eta: 0.005, subsample: 0.8
+	MAE: 404,383.10, rounds: 697
+CV with max_depth: 13, min_child_weight: 7, eta: 0.005, subsample: 0.9
+	MAE: 408,080.31, rounds: 673
+CV with max_depth: 13, min_child_weight: 7, eta: 0.005, subsample: 1.0
+	MAE: 414,671.78, rounds: 632
+CV with max_depth: 13, min_child_weight: 8, eta: 0.3, subsample: 0.7
+	MAE: 443,661.81, rounds: 8
+CV with max_depth: 13, min_child_weight: 8, eta: 0.3, subsample: 0.8
+	MAE: 441,230.82, rounds: 14
+CV with max_depth: 13, min_child_weight: 8, eta: 0.3, subsample: 0.9
+	MAE: 426,547.61, rounds: 10
+CV with max_depth: 13, min_child_weight: 8, eta: 0.3, subsample: 1.0
+	MAE: 412,882.30, rounds: 10
+CV with max_depth: 13, min_child_weight: 8, eta: 0.2, subsample: 0.7
+	MAE: 434,879.26, rounds: 12
+CV with max_depth: 13, min_child_weight: 8, eta: 0.2, subsample: 0.8
+	MAE: 424,181.94, rounds: 15
+CV with max_depth: 13, min_child_weight: 8, eta: 0.2, subsample: 0.9
+	MAE: 427,057.92, rounds: 21
+CV with max_depth: 13, min_child_weight: 8, eta: 0.2, subsample: 1.0
+	MAE: 407,889.48, rounds: 19
+CV with max_depth: 13, min_child_weight: 8, eta: 0.1, subsample: 0.7
+	MAE: 412,710.70, rounds: 33
+CV with max_depth: 13, min_child_weight: 8, eta: 0.1, subsample: 0.8
+	MAE: 409,922.61, rounds: 30
+CV with max_depth: 13, min_child_weight: 8, eta: 0.1, subsample: 0.9
+	MAE: 409,566.33, rounds: 41
+CV with max_depth: 13, min_child_weight: 8, eta: 0.1, subsample: 1.0
+	MAE: 412,972.57, rounds: 37
+CV with max_depth: 13, min_child_weight: 8, eta: 0.05, subsample: 0.7
+	MAE: 411,177.24, rounds: 65
+CV with max_depth: 13, min_child_weight: 8, eta: 0.05, subsample: 0.8
+	MAE: 407,976.29, rounds: 69
+CV with max_depth: 13, min_child_weight: 8, eta: 0.05, subsample: 0.9
+	MAE: 405,451.61, rounds: 73
+CV with max_depth: 13, min_child_weight: 8, eta: 0.05, subsample: 1.0
+	MAE: 410,228.97, rounds: 70
+CV with max_depth: 13, min_child_weight: 8, eta: 0.01, subsample: 0.7
+	MAE: 407,389.88, rounds: 344
+CV with max_depth: 13, min_child_weight: 8, eta: 0.01, subsample: 0.8
+	MAE: 407,559.36, rounds: 349
+CV with max_depth: 13, min_child_weight: 8, eta: 0.01, subsample: 0.9
+	MAE: 406,590.38, rounds: 354
+CV with max_depth: 13, min_child_weight: 8, eta: 0.01, subsample: 1.0
+	MAE: 407,121.82, rounds: 320
+CV with max_depth: 13, min_child_weight: 8, eta: 0.005, subsample: 0.7
+	MAE: 407,147.13, rounds: 671
+CV with max_depth: 13, min_child_weight: 8, eta: 0.005, subsample: 0.8
+	MAE: 405,996.57, rounds: 653
+CV with max_depth: 13, min_child_weight: 8, eta: 0.005, subsample: 0.9
+	MAE: 405,437.51, rounds: 673
+CV with max_depth: 13, min_child_weight: 8, eta: 0.005, subsample: 1.0
+	MAE: 407,098.02, rounds: 638
+CV with max_depth: 13, min_child_weight: 9, eta: 0.3, subsample: 0.7
+	MAE: 443,360.58, rounds: 8
+CV with max_depth: 13, min_child_weight: 9, eta: 0.3, subsample: 0.8
+	MAE: 453,397.39, rounds: 7
+CV with max_depth: 13, min_child_weight: 9, eta: 0.3, subsample: 0.9
+	MAE: 442,580.31, rounds: 9
+CV with max_depth: 13, min_child_weight: 9, eta: 0.3, subsample: 1.0
+	MAE: 406,718.23, rounds: 9
+CV with max_depth: 13, min_child_weight: 9, eta: 0.2, subsample: 0.7
+	MAE: 428,225.97, rounds: 14
+CV with max_depth: 13, min_child_weight: 9, eta: 0.2, subsample: 0.8
+	MAE: 429,175.05, rounds: 16
+CV with max_depth: 13, min_child_weight: 9, eta: 0.2, subsample: 0.9
+	MAE: 439,171.07, rounds: 24
+CV with max_depth: 13, min_child_weight: 9, eta: 0.2, subsample: 1.0
+	MAE: 419,305.95, rounds: 17
+CV with max_depth: 13, min_child_weight: 9, eta: 0.1, subsample: 0.7
+	MAE: 418,701.00, rounds: 32
+CV with max_depth: 13, min_child_weight: 9, eta: 0.1, subsample: 0.8
+	MAE: 419,795.74, rounds: 30
+CV with max_depth: 13, min_child_weight: 9, eta: 0.1, subsample: 0.9
+	MAE: 410,478.05, rounds: 40
+CV with max_depth: 13, min_child_weight: 9, eta: 0.1, subsample: 1.0
+	MAE: 413,003.58, rounds: 29
+CV with max_depth: 13, min_child_weight: 9, eta: 0.05, subsample: 0.7
+	MAE: 413,002.29, rounds: 80
+CV with max_depth: 13, min_child_weight: 9, eta: 0.05, subsample: 0.8
+	MAE: 410,116.75, rounds: 81
+CV with max_depth: 13, min_child_weight: 9, eta: 0.05, subsample: 0.9
+	MAE: 410,521.20, rounds: 72
+CV with max_depth: 13, min_child_weight: 9, eta: 0.05, subsample: 1.0
+	MAE: 411,271.38, rounds: 67
+CV with max_depth: 13, min_child_weight: 9, eta: 0.01, subsample: 0.7
+	MAE: 410,426.09, rounds: 350
+CV with max_depth: 13, min_child_weight: 9, eta: 0.01, subsample: 0.8
+	MAE: 409,536.59, rounds: 351
+CV with max_depth: 13, min_child_weight: 9, eta: 0.01, subsample: 0.9
+	MAE: 406,541.91, rounds: 330
+CV with max_depth: 13, min_child_weight: 9, eta: 0.01, subsample: 1.0
+	MAE: 412,530.29, rounds: 360
+CV with max_depth: 13, min_child_weight: 9, eta: 0.005, subsample: 0.7
+	MAE: 407,853.53, rounds: 734
+CV with max_depth: 13, min_child_weight: 9, eta: 0.005, subsample: 0.8
+	MAE: 406,153.50, rounds: 675
+CV with max_depth: 13, min_child_weight: 9, eta: 0.005, subsample: 0.9
+	MAE: 406,432.76, rounds: 686
+CV with max_depth: 13, min_child_weight: 9, eta: 0.005, subsample: 1.0
+	MAE: 412,614.77, rounds: 657
+Best hyperparameters:
+	max_depth: 13
+	min_child_weight: 9
+	eta: 0.005
+	subsample: 1.0
+	mae: 402688.34758644615
