@@ -33,7 +33,16 @@ class InstagramBot:
                         'TE': 'trailers',
                         }
 
-    def login(self, verbose=False):
+    def login(self, verbose: bool = False):
+        """Method for logging into the Instagram to get csrf_token and session_id.
+
+        Args:
+            verbose (bool, optional): Key to print extra information. Defaults to False.
+
+        Returns:
+            csrf_token: csrf token resulted from logging to the Instagram.
+            session_id: session id resulted from logging to the Instagram.
+        """
         current_time = int(datetime.now().timestamp())
         response = requests.Session().get(self.link, headers=self.headers)
         if response.ok:
@@ -92,7 +101,18 @@ class InstagramBot:
             console.print('error', style='error')
             console.print(response)
 
-    def load(self, page: str, csrf_token: str, session_id: str):
+    def load(self, page: str, csrf_token: str, session_id: str, verbose: bool = False):
+        """Method for loading the account information provided by the user, extracting all the features except the content of the target image for predicting its amount of like.
+
+        Args:
+            page (str): Target page that the image will published in.
+            csrf_token (str): csrf token that got from the login method.
+            session_id (str): session id that got from the login method.
+            verbose (bool, optional): Key to print extra information. Defaults to False.
+
+        Returns:
+            json: Features except the content of the image to get from the page.
+        """
         session = {
             "csrf_token": csrf_token,
             "session_id": session_id
@@ -140,7 +160,6 @@ class InstagramBot:
             if res.json()['graphql']['user']['is_private'] is True:
                 console.print(f'Page: {page} is private!', style='error')
                 return 'private'
-
             else:
                 console.print(f'Page: {page} information loaded successfully!', style='success')
                 return res.json()
