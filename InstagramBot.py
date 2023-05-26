@@ -103,7 +103,6 @@ class InstagramBot:
             console.print(response)
 
     def load(self, page: str, csrf_token: str, session_id: str, verbose: bool = False):
-        # IS NOT TESTED, SHOULD TEST THIS METHOD.
         """Method for loading the account information provided by the user, extracting all the features except the content of the target image for predicting its amount of like.
 
         Args:
