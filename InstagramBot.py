@@ -1,3 +1,6 @@
+# TODO:
+# - make this code return suitable api response and not console prompts.
+
 import numpy as np
 import requests
 import json
@@ -230,13 +233,28 @@ class InstagramBot:
                     media_like_mean = np.mean(media_like_list)
                     media_comment_mean = np.mean(media_comment_list)
 
-                    for medium in media:
-                        shortcode = medium['node']['shortcode']
-                        media_like = medium['node']['edge_liked_by']['count']
-                        media_comment = medium['node']['edge_media_to_comment']['count']
-
-                        features = [id, username, shortcode, media_like, media_comment, None, category, followers, following, ar_effect, type_business, type_professional, verified, reel_count, reel_view_mean, reel_comment_mean, reel_like_mean, reel_duration_mean, reel_frequency, media_count, media_comment_mean, media_like_mean, media_frequency]
-                    return features
+                    features_dict = {
+                        'id': id,
+                        'username': username,
+                        'category': category,
+                        'followers': followers,
+                        'following': following,
+                        'ar_effect': ar_effect,
+                        'type_business': type_business,
+                        'type_professional': type_professional,
+                        'verified': verified,
+                        'reel_count': reel_count,
+                        'reel_view_mean': reel_view_mean,
+                        'reel_comment_mean': reel_comment_mean,
+                        'reel_like_mean': reel_like_mean,
+                        'reel_duration_mean': reel_duration_mean,
+                        'reel_frequency': reel_frequency,
+                        'media_count': media_count,
+                        'media_comment_mean': media_comment_mean,
+                        'media_like_mean': media_like_mean,
+                        'media_frequency': media_frequency,
+                    }
+                    return features_dict
         else:
             console.print(f'Page: {page} information didnt load, returned type: {res.headers["Content-Type"]}', style='error')
             return res.text()
