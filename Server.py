@@ -7,23 +7,8 @@ import pandas as pd
 import numpy as np
 import json
 from InstagramBot import InstagramBot
-from flask import Flask
+from flask import Flask, request, Response
 from flask_restful import Resource, Api, reqparse
-from rich.console import Console
-from rich.theme import Theme
-from rich.table import Table
-from rich.panel import Panel
-from rich.columns import Columns
-from rich import box
-
-
-ramin_theme = Theme({
-    'success': 'italic bright_green',
-    'error': 'bold red',
-    'progress': 'italic yellow',
-    'header': 'bold cyan',
-})
-console = Console(theme=ramin_theme)
 app = Flask(__name__)
 api = Api(app)
 
@@ -36,11 +21,27 @@ api = Api(app)
 # ig = InstagramBot(login_username, login_password)
 # csrf_token, session_id = ig.login()
 
+
 class Predict(Resource):
     ...
 
 
+class Test(Resource):
+    def post(self):
+        parser = reqparse.RequestParser()
+        parser.add_argument('image', required=True)
+        parser.add_argument('page', required=True)
+
+        args = parser.parse_args()
+
+        return {
+            'image': args['image'],
+            'page': args['page']
+        }, 200
+
+
 api.add_resource(Predict, '/predict')
+api.add_resource(Test, '/test')
 
 if __name__ == '__main__':
     app.run()
