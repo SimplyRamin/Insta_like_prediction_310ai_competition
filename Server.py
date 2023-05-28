@@ -34,6 +34,8 @@ class Test(Resource):
 
         args = parser.parse_args()
 
+        
+
         return {
             'image': args['image'],
             'page': args['page']

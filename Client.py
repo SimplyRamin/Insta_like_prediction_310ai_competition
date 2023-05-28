@@ -5,6 +5,7 @@ import cv2
 from os import path
 from rich.console import Console
 from rich.theme import Theme
+import json
 ramin_theme = Theme({
     'success': 'italic bright_green',
     'error': 'bold red',
@@ -39,4 +40,4 @@ page = input('>')
 response = requests.post(api_address, json={'image': str(image_encoded.tobytes()),
                                             'page': str(page)}, headers=headers)
 
-console.print(response.text)
+console.print(json.loads(response.text))
