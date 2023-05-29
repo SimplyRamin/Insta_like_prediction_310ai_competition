@@ -11,6 +11,7 @@ from InstagramBot import InstagramBot
 from flask import Flask, request, Response
 from flask_restful import Resource, Api, reqparse
 from torchvision import models, transforms
+import base64
 
 efficient_net = models.efficientnet_b7(weights=models.EfficientNet_B7_Weights.DEFAULT)
 efficient_net.eval()
@@ -46,9 +47,10 @@ class Test(Resource):
         parser.add_argument('page', required=True)
         args = parser.parse_args()
 
-        nparr = np.fromstring(args['image'], np.uint8)
+        image_encoded = bytes(args['image'], 'utf-8')
+        image_encoded = base64.b64decode(image_encoded)
+        nparr = np.frombuffer(image_encoded, np.uint8)
         image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
-        print(image)
 
         return {
             'message': f'Image Recieved, size: {image.shape[1], image.shape[0]}'
