@@ -6,9 +6,22 @@
 import pandas as pd
 import numpy as np
 import json
+import cv2
 from InstagramBot import InstagramBot
 from flask import Flask, request, Response
 from flask_restful import Resource, Api, reqparse
+from torchvision import models, transforms
+
+efficient_net = models.efficientnet_b7(weights=models.EfficientNet_B7_Weights.DEFAULT)
+efficient_net.eval()
+transform = transforms.Compose([
+    transforms.ToPILImage(),
+    transforms.Resize(256),
+    transforms.CenterCrop(224),
+    transforms.ToTensor(),
+    transforms.Normalize(mean=[.485, .456, .406],
+                         std=[.229, .224, .225])
+])
 app = Flask(__name__)
 api = Api(app)
 
@@ -31,14 +44,14 @@ class Test(Resource):
         parser = reqparse.RequestParser()
         parser.add_argument('image', required=True)
         parser.add_argument('page', required=True)
-
         args = parser.parse_args()
 
-        
+        nparr = np.fromstring(args['image'], np.uint8)
+        image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+        print(image)
 
         return {
-            'image': args['image'],
-            'page': args['page']
+            'message': f'Image Recieved, size: {image.shape[1], image.shape[0]}'
         }, 200
 
 
