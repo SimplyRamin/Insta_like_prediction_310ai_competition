@@ -16,7 +16,7 @@ ramin_theme = Theme({
 console = Console(theme=ramin_theme)
 
 
-api_address = 'http://localhost:5000/test'
+api_address = 'http://localhost:5000/predict'
 input_address = 'Input/'
 content_type = 'application/json'
 headers = {'content-type': content_type}
