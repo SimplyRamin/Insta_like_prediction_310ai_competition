@@ -3,8 +3,8 @@
 # to send image to the api, this procedure might be the best. create a client app to run and send the image to the deployed api, the image can be send as string and decode it on the server.
 # useful resource: https://gist.github.com/kylehounslow/767fb72fde2ebdd010a0bf4242371594
 
-import pandas as pd
 import numpy as np
+import base64
 import json
 import cv2
 from InstagramBot import InstagramBot
@@ -12,10 +12,12 @@ from flask import Flask, request, Response
 from flask_restful import Resource, Api, reqparse
 import torch
 from torchvision import models, transforms
-import base64
+import xgboost as xgb
 
 efficient_net = models.efficientnet_b7(weights=models.EfficientNet_B7_Weights.DEFAULT)
 efficient_net.eval()
+model = xgb.XGBRegressor()
+model.load_model('Models/xgb v2.0.json')
 transform = transforms.Compose([
     transforms.ToPILImage(),
     transforms.Resize(256),
