@@ -6,6 +6,7 @@ from os import path
 from rich.console import Console
 from rich.theme import Theme
 import json
+import base64
 ramin_theme = Theme({
     'success': 'italic bright_green',
     'error': 'bold red',
@@ -37,7 +38,9 @@ else:
 console.print('Please enter the name of profile that this image will be published in.')
 console.print('for example: natgeo')
 page = input('>')
-response = requests.post(api_address, json={'image': str(image_encoded.tobytes()),
+image_string = base64.b64encode(image_encoded.tobytes())
+image_string = str(image_string.decode())
+response = requests.post(api_address, json={'image': image_string,
                                             'page': str(page)}, headers=headers)
 
 console.print(json.loads(response.text))
