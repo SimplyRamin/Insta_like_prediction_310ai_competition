@@ -38,7 +38,7 @@ else:
 console.print('Please specify whether you want to share this image solely or in a carousel?')
 console.print('Choose from: single / carousel')
 post_type = input('> ')
-if post_type != 'single' or post_type != 'carousel':
+if post_type != 'single' and post_type != 'carousel':
     console.print('Please either enter "single" or "carousel".', style='error')
     console.print('Rerun the program.', style='progress')
     exit()
