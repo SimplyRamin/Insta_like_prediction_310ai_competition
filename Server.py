@@ -32,13 +32,13 @@ app = Flask(__name__)
 api = Api(app)
 
 # uncomment these lines to test the login procedure.
-# with open('credentials.json') as f:
-#     creds = json.load(f)
-#     login_username = creds['username']
-#     login_password = creds['password']
+with open('credentials.json') as f:
+    creds = json.load(f)
+    login_username = creds['username']
+    login_password = creds['password']
 
-# ig = InstagramBot(login_username, login_password)
-# csrf_token, session_id = ig.login()
+ig = InstagramBot(login_username, login_password)
+csrf_token, session_id = ig.login()
 
 
 class Predict(Resource):
@@ -46,8 +46,10 @@ class Predict(Resource):
         parser = reqparse.RequestParser()
         parser.add_argument('image', required=True)
         parser.add_argument('page', required=True)
+        parser.add_argument('post_type', required=True)
         args = parser.parse_args()
 
+        # Image object detection part
         image_encoded = bytes(args['image'], 'utf-8')
         image_encoded = base64.b64decode(image_encoded)
         nparr = np.frombuffer(image_encoded, np.uint8)
@@ -60,6 +62,31 @@ class Predict(Resource):
             output = efficient_net(input_batch)
         detected_object = torch.nn.functional.softmax(output[0], dim=0)
         prob, cat = torch.topk(detected_object, 1)
+
+        # Extracting other features for the prediciton from the Instagram
+        features_dict = ig.load(args['page'], csrf_token, session_id)
+        prediction_input_lst = [
+            'GraphSideCar' if args['post_type'] == 'carousel' else 'GraphImage',
+            features_dict['category'],
+            features_dict['follower'],
+            features_dict['following'],
+            features_dict['ar_effect'],
+            features_dict['type_business'],
+            features_dict['type_professional'],
+            features_dict['verified'],
+            features_dict['reel_count'],
+            features_dict['reel_view_mean'],
+            features_dict['reel_comment_mean'],
+            features_dict['reel_like_mean'],
+            features_dict['reel_duration_mean'],
+            features_dict['reel_frequency'],
+            features_dict['media_count'],
+            features_dict['media_comment_mean'],
+            features_dict['media_like_mean'],
+            features_dict['media_frequency'],
+            categories[cat[0]],
+        ]
+        prediction = model.predict(prediction_input_lst)
 
         return {
             'message': f'Image Recieved, size: {image.shape[1], image.shape[0]}',
