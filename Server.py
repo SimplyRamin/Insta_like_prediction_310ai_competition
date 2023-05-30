@@ -1,14 +1,10 @@
-# resource for making the api: https://towardsdatascience.com/the-right-way-to-build-an-api-with-python-cd08ab285f8f
-
-# to send image to the api, this procedure might be the best. create a client app to run and send the image to the deployed api, the image can be send as string and decode it on the server.
-# useful resource: https://gist.github.com/kylehounslow/767fb72fde2ebdd010a0bf4242371594
-
 import numpy as np
+import pandas as pd
 import base64
 import json
 import cv2
 from InstagramBot import InstagramBot
-from flask import Flask, request, Response
+from flask import Flask
 from flask_restful import Resource, Api, reqparse
 import torch
 from torchvision import models, transforms
@@ -64,35 +60,45 @@ class Predict(Resource):
         prob, cat = torch.topk(detected_object, 1)
 
         # Extracting other features for the prediciton from the Instagram
-        features_dict = ig.load(args['page'], csrf_token, session_id)
-        prediction_input_lst = [
-            'GraphSideCar' if args['post_type'] == 'carousel' else 'GraphImage',
-            features_dict['category'],
-            features_dict['follower'],
-            features_dict['following'],
-            features_dict['ar_effect'],
-            features_dict['type_business'],
-            features_dict['type_professional'],
-            features_dict['verified'],
-            features_dict['reel_count'],
-            features_dict['reel_view_mean'],
-            features_dict['reel_comment_mean'],
-            features_dict['reel_like_mean'],
-            features_dict['reel_duration_mean'],
-            features_dict['reel_frequency'],
-            features_dict['media_count'],
-            features_dict['media_comment_mean'],
-            features_dict['media_like_mean'],
-            features_dict['media_frequency'],
-            categories[cat[0]],
-        ]
-        prediction = model.predict(prediction_input_lst)
-
-        return {
-            'message': f'Image Recieved, size: {image.shape[1], image.shape[0]}',
-            'object': f'{categories[cat[0]]}',
-            'prob': f'{prob[0]:.4f}',
-        }, 200
+        response = ig.load(args['page'], csrf_token, session_id)
+        if response['code'] != 200:
+            return response
+        else:
+            prediction_input_df = pd.DataFrame(data=[[
+                'GraphSideCar' if args['post_type'] == 'carousel' else 'GraphImage',
+                response['features_dict']['category'],
+                response['features_dict']['followers'],
+                response['features_dict']['following'],
+                response['features_dict']['ar_effect'],
+                response['features_dict']['type_business'],
+                response['features_dict']['type_professional'],
+                response['features_dict']['verified'],
+                response['features_dict']['reel_count'],
+                response['features_dict']['reel_view_mean'],
+                response['features_dict']['reel_comment_mean'],
+                response['features_dict']['reel_like_mean'],
+                response['features_dict']['reel_duration_mean'],
+                response['features_dict']['reel_frequency'],
+                response['features_dict']['media_count'],
+                response['features_dict']['media_comment_mean'],
+                response['features_dict']['media_like_mean'],
+                response['features_dict']['media_frequency'],
+                categories[cat[0]],
+            ]], columns=['post_type', 'category_name', 'follower', 'following', 'ar_effect',
+                         'type_business', 'type_professional', 'verified', 'reel_count',
+                         'reel_avg_view', 'reel_avg_comment', 'reel_avg_like',
+                         'reel_avg_duration', 'reel_frequency', 'media_count',
+                         'media_avg_comment', 'media_avg_like', 'media_frequency', 'object'])
+            prediction_input_df['post_type'] = prediction_input_df['post_type'].astype('category')
+            prediction_input_df['category_name'] = prediction_input_df['category_name'].astype('category')
+            prediction_input_df['object'] = prediction_input_df['object'].astype('category')
+            prediction = model.predict(prediction_input_df)
+            return {
+                'message': f'Image Recieved, size: {image.shape[1], image.shape[0]}',
+                'object': f'{categories[cat[0]]}',
+                'prob': f'{prob[0]:.4f}',
+                'prediction': f'{prediction[0]},'
+            }, 200
 
 
 api.add_resource(Predict, '/predict')

@@ -157,104 +157,114 @@ class InstagramBot:
         res = requests.get(url, headers=headers, cookies=cookies)
 
         if res.status_code == 404:
-            console.print(f'Page: {page} is not found!', style='error')
-            return res.status_code
+            return {
+                'message': f'Page: {page} is not found!',
+                'code': res.status_code
+            }
 
         if res.status_code == 200:
             if res.json()['graphql']['user']['is_private'] is True:
-                console.print(f'Page: {page} is private!', style='error')
-                return 'private'
+                return {
+                    'message': f'Page: {page} is private!',
+                    'code': 405
+                }
             else:
+                try:
+                    data = res.json()
+                except Exception:
+                    console.print('Something went wrong.', style='error')
+                    return ValueError
+                if not data:
+                    console.print(f'\tResponse is empty for {page}', style='error')
+                    return ValueError
+                followers = data['graphql']['user']['edge_followed_by']['count']
+                following = data['graphql']['user']['edge_follow']['count']
+                ar_effect = data['graphql']['user']['has_ar_effects']
+                id = data['graphql']['user']['id']
+                type_business = data['graphql']['user']['is_business_account']
+                type_professional = data['graphql']['user']['is_professional_account']
+                category = data['graphql']['user']['category_name']
+                verified = data['graphql']['user']['is_verified']
+                reel_count = data['graphql']['user']['edge_felix_video_timeline']['count']
+                media_count = data['graphql']['user']['edge_owner_to_timeline_media']['count']
+                username = data['graphql']['user']['username']
+                media = data['graphql']['user']['edge_owner_to_timeline_media']['edges']
+
+                reel_view_list = []
+                reel_like_list = []
+                reel_comment_list = []
+                reel_duration_list = []
+                reel_timestamp_list = []
+
+                media_like_list = []
+                media_comment_list = []
+                media_timestamp_list = []
+
+                for video in data['graphql']['user']['edge_felix_video_timeline']['edges']:
+                    reel_view_list.append(video['node']['video_view_count'])
+                    reel_comment_list.append(video['node']['edge_media_to_comment']['count'])
+                    reel_timestamp_list.append(video['node']['taken_at_timestamp'])
+                    reel_like_list.append(video['node']['edge_liked_by']['count'])
+                    reel_duration_list.append(video['node']['video_duration'])
+
+                # sometimes instagram result for video duration is None, this is sanity check
+                reel_duration_list = [0 if duration is None else duration for duration in reel_duration_list]
+
+                for medium in media:
+                    media_like_list.append(medium['node']['edge_liked_by']['count'])
+                    media_comment_list.append(medium['node']['edge_media_to_comment']['count'])
+                    media_timestamp_list.append(medium['node']['taken_at_timestamp'])
+
+                reel_utc_list = [datetime.utcfromtimestamp(ts) for ts in reel_timestamp_list]
+                media_utc_list = [datetime.utcfromtimestamp(ts) for ts in media_timestamp_list]
+
+                reel_utc_difference_list = [reel_utc_list[i] - reel_utc_list[i + 1] for i in range(len(reel_utc_list) - 1)]
+                media_utc_difference_list = [media_utc_list[i] - media_utc_list[i + 1] for i in range(len(media_utc_list) - 1)]
+
+                if reel_count > 1:
+                    reel_frequency = np.mean(reel_utc_difference_list).days + (np.mean(reel_utc_difference_list).seconds / 86_400) + (np.mean(reel_utc_difference_list).microseconds / 1_000_000 / 84_600)
+                else:
+                    reel_frequency = 0
+                media_frequency = np.mean(media_utc_difference_list).days + (np.mean(media_utc_difference_list).seconds / 86_400) + (np.mean(media_utc_difference_list).microseconds / 1_000_000 / 84_600)
+
+                reel_view_mean = np.mean(reel_view_list)
+                reel_like_mean = np.mean(reel_like_list)
+                reel_comment_mean = np.mean(reel_comment_list)
+                reel_duration_mean = np.mean(reel_duration_list)
+
+                media_like_mean = np.mean(media_like_list)
+                media_comment_mean = np.mean(media_comment_list)
+
+                features_dict = {
+                    'id': id,
+                    'username': username,
+                    'category': category,
+                    'followers': followers,
+                    'following': following,
+                    'ar_effect': ar_effect,
+                    'type_business': type_business,
+                    'type_professional': type_professional,
+                    'verified': verified,
+                    'reel_count': reel_count,
+                    'reel_view_mean': reel_view_mean,
+                    'reel_comment_mean': reel_comment_mean,
+                    'reel_like_mean': reel_like_mean,
+                    'reel_duration_mean': reel_duration_mean,
+                    'reel_frequency': reel_frequency,
+                    'media_count': media_count,
+                    'media_comment_mean': media_comment_mean,
+                    'media_like_mean': media_like_mean,
+                    'media_frequency': media_frequency,
+                }
                 if verbose is True:
                     console.print(f'Page: {page} information loaded successfully!', style='success')
-                    try:
-                        data = res.json()
-                    except Exception:
-                        console.print('Something went wrong.', style='error')
-                        return ValueError
-                    if not data:
-                        console.print(f'\tResponse is empty for {page}', style='error')
-                        return ValueError
-                    followers = data['graphql']['user']['edge_followed_by']['count']
-                    following = data['graphql']['user']['edge_follow']['count']
-                    ar_effect = data['graphql']['user']['has_ar_effects']
-                    id = data['graphql']['user']['id']
-                    type_business = data['graphql']['user']['is_business_account']
-                    type_professional = data['graphql']['user']['is_professional_account']
-                    category = data['graphql']['user']['category_name']
-                    verified = data['graphql']['user']['is_verified']
-                    reel_count = data['graphql']['user']['edge_felix_video_timeline']['count']
-                    media_count = data['graphql']['user']['edge_owner_to_timeline_media']['count']
-                    username = data['graphql']['user']['username']
-                    media = data['graphql']['user']['edge_owner_to_timeline_media']['edges']
-
-                    reel_view_list = []
-                    reel_like_list = []
-                    reel_comment_list = []
-                    reel_duration_list = []
-                    reel_timestamp_list = []
-
-                    media_like_list = []
-                    media_comment_list = []
-                    media_timestamp_list = []
-
-                    for video in data['graphql']['user']['edge_felix_video_timeline']['edges']:
-                        reel_view_list.append(video['node']['video_view_count'])
-                        reel_comment_list.append(video['node']['edge_media_to_comment']['count'])
-                        reel_timestamp_list.append(video['node']['taken_at_timestamp'])
-                        reel_like_list.append(video['node']['edge_liked_by']['count'])
-                        reel_duration_list.append(video['node']['video_duration'])
-
-                    # sometimes instagram result for video duration is None, this is sanity check
-                    reel_duration_list = [0 if duration is None else duration for duration in reel_duration_list]
-
-                    for medium in media:
-                        media_like_list.append(medium['node']['edge_liked_by']['count'])
-                        media_comment_list.append(medium['node']['edge_media_to_comment']['count'])
-                        media_timestamp_list.append(medium['node']['taken_at_timestamp'])
-
-                    reel_utc_list = [datetime.utcfromtimestamp(ts) for ts in reel_timestamp_list]
-                    media_utc_list = [datetime.utcfromtimestamp(ts) for ts in media_timestamp_list]
-
-                    reel_utc_difference_list = [reel_utc_list[i] - reel_utc_list[i + 1] for i in range(len(reel_utc_list) - 1)]
-                    media_utc_difference_list = [media_utc_list[i] - media_utc_list[i + 1] for i in range(len(media_utc_list) - 1)]
-
-                    if reel_count > 1:
-                        reel_frequency = np.mean(reel_utc_difference_list).days + (np.mean(reel_utc_difference_list).seconds / 86_400) + (np.mean(reel_utc_difference_list).microseconds / 1_000_000 / 84_600)
-                    else:
-                        reel_frequency = 0
-                    media_frequency = np.mean(media_utc_difference_list).days + (np.mean(media_utc_difference_list).seconds / 86_400) + (np.mean(media_utc_difference_list).microseconds / 1_000_000 / 84_600)
-
-                    reel_view_mean = np.mean(reel_view_list)
-                    reel_like_mean = np.mean(reel_like_list)
-                    reel_comment_mean = np.mean(reel_comment_list)
-                    reel_duration_mean = np.mean(reel_duration_list)
-
-                    media_like_mean = np.mean(media_like_list)
-                    media_comment_mean = np.mean(media_comment_list)
-
-                    features_dict = {
-                        'id': id,
-                        'username': username,
-                        'category': category,
-                        'followers': followers,
-                        'following': following,
-                        'ar_effect': ar_effect,
-                        'type_business': type_business,
-                        'type_professional': type_professional,
-                        'verified': verified,
-                        'reel_count': reel_count,
-                        'reel_view_mean': reel_view_mean,
-                        'reel_comment_mean': reel_comment_mean,
-                        'reel_like_mean': reel_like_mean,
-                        'reel_duration_mean': reel_duration_mean,
-                        'reel_frequency': reel_frequency,
-                        'media_count': media_count,
-                        'media_comment_mean': media_comment_mean,
-                        'media_like_mean': media_like_mean,
-                        'media_frequency': media_frequency,
-                    }
-                    return features_dict
+                return {
+                    'message': f'Page: {page} information loaded successfully!',
+                    'code': 200,
+                    'features_dict': features_dict
+                }
         else:
-            console.print(f'Page: {page} information didnt load, returned type: {res.headers["Content-Type"]}', style='error')
-            return res.text()
+            return {
+                'message': f'Page: {page} information didnt load, returned type: {res.headers["Content-Type"]}',
+                'code': res.status_code
+            }
