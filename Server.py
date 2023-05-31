@@ -1,3 +1,5 @@
+# useful link for deploymeny in render: https://testdriven.io/blog/flask-render-deployment/
+
 import numpy as np
 import pandas as pd
 import base64
@@ -101,7 +103,16 @@ class Predict(Resource):
             }, 200
 
 
+class Test(Resource):
+    def get(self):
+        return {
+            'message': 'Hello, World!'
+        }
+
+
 api.add_resource(Predict, '/predict')
+api.add_resource(Test, '/test')
+
 
 if __name__ == '__main__':
     app.run()

@@ -1,5 +1,3 @@
-# Client script for making the image into string and send it via post method to the api.
-
 import requests
 import cv2
 from os import path
