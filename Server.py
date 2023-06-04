@@ -2,6 +2,7 @@
 
 import numpy as np
 import pandas as pd
+import time
 import base64
 import json
 import cv2
@@ -37,10 +38,16 @@ with open('credentials.json') as f:
 
 ig = InstagramBot(login_username, login_password)
 csrf_token, session_id = ig.login()
+login_time = time.time()
 
 
 class Predict(Resource):
     def post(self):
+        request_time = time.time()
+        global login_time
+        if (request_time - login_time) / 3600 > 3:
+            csrf_token, session_id = ig.login()
+            login_time = time.time()
         parser = reqparse.RequestParser()
         parser.add_argument('image', required=True)
         parser.add_argument('page', required=True)
