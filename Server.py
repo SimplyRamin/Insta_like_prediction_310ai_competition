@@ -11,7 +11,9 @@ import torch
 from torchvision import models, transforms
 import xgboost as xgb
 
-efficient_net = models.efficientnet_b7(weights=models.EfficientNet_B7_Weights.DEFAULT)
+efficient_net = torch.load('Models/efficientnetb7.pth')
+# If you want to download the model from the scratch, comment the line above and uncomment the line below.
+# efficient_net = models.efficientnet_b7(weights=models.EfficientNet_B7_Weights.DEFAULT)
 efficient_net.eval()
 model = xgb.XGBRegressor()
 model.load_model('Models/xgb v2.0.json')
