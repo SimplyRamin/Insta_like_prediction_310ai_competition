@@ -1,5 +1,3 @@
-# useful link for deploymeny in render: https://testdriven.io/blog/flask-render-deployment/
-
 import numpy as np
 import pandas as pd
 import time
