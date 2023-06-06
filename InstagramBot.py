@@ -1,6 +1,3 @@
-# TODO:
-# - make this code return suitable api response and not console prompts.
-
 import numpy as np
 import requests
 import json
