@@ -44,7 +44,7 @@ login_time = time.time()
 class Predict(Resource):
     def post(self):
         request_time = time.time()
-        global login_time
+        global login_time, csrf_token, session_id
         if (request_time - login_time) / 3600 > 3:
             csrf_token, session_id = ig.login()
             login_time = time.time()
