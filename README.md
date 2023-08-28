@@ -39,12 +39,24 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#features">Features</a></li>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#methodology">Methodology</a></li>
+        <li><a href="#data-collection">Data Collection</a></li>
+        <li><a href="#data-preprocessing-and-analysis">Data Preprocessing and Analysis</a></li>
+        <li><a href="#modeling">Modeling</a></li>
+        <li><a href="#notebooks">Notebooks</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#project-structure">Project Structure</a>
+    </li>
+    <li><a href="#usage">Usage</a>
+      <ul>
+        <li>
+          <a href="#consideration">Consideration</a>
+        </li>
+      </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -57,11 +69,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product-Screenshot](images\server-client.png)
+![Product-Screenshot](images/server-client.png)
 
 ### Overview
 
-This project follows the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology to delve into the world of Instagram post performance evaluation and prediction. Through a reverse engineering approach, I explore the intricate world of performance metrics on Instagram and how they influence the engagement levels of a post.
+This project follows the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology to delve into the world of Instagram post-performance evaluation and prediction. Through a reverse engineering approach, I explore the intricate world of performance metrics on Instagram and how they influence the engagement levels of a post.
 
 In addition to the predictive aspect, I've created a robust Instagram Bot Library in Python. This library encompasses a functional Instagram bot with the following capabilities:
 
@@ -74,7 +86,7 @@ This versatile library empowers developers and data enthusiasts to automate Inst
 
 - ***Performance Metrics Investigation***: I dive deep into the concept of "performance metrics" on Instagram. I discuss how various parameters contribute to evaluating a post's performance, from likes and comments to other publicly available data.
 
-- ***Feature Engineering***: I employ a unique approach by utilizing EfficientNet B7 for object detection in images. The content of the image, along with publicly available performance metrics like the number of likes and comments, is used as features for predicting the number of likes a post will receive.
+- ***Feature Engineering***: I employs a unique approach by utilizing EfficientNet B7 for object detection in images. The content of the image, along with publicly available performance metrics like the number of likes and comments, is used as a feature for predicting the number of likes a post will receive.
 
 ### Data Collection
 
@@ -88,11 +100,11 @@ This versatile library empowers developers and data enthusiasts to automate Inst
 
 ### Modeling
 
-***Algorithm Selection***: For predicting post likes, I've chosen the powerful XGBoost Regressor as our algorithm of choice.
+***Algorithm***: For predicting post likes, I've chosen the powerful XGBoost Regressor as our algorithm of choice.
 
 ***Hyperparameter Tuning***: I've employed grid search to identify the best-performing model with optimized hyperparameters.
 
-***Feature Importance***: The trained model provides insights into feature importance, shedding light on what drives post engagement.
+***Feature Importance***: The trained model provides insights into feature importance, shedding light on what drives post-engagement.
 
 ### Notebooks
 
@@ -103,7 +115,7 @@ The details of each step are available in the corresponding Jupyter notebooks wi
 This project was brought to life with the following technologies and tools:
 
 - ![Static Badge](https://img.shields.io/badge/Python-%23fafafa?style=flat&logo=python&logoColor=%231572B6)
-: The primary programming language for this project, used for data analysis, machine learning, and bot development.
+: The primary programming language for this project is used for data analysis, machine learning, and bot development.
 
 - ![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks-%23fafafa?style=flat&logo=Jupyter&logoColor=%231572B6)
 : Jupyter notebooks were employed for data exploration, analysis, and documentation. They provide an interactive and visual environment for code execution.
@@ -112,7 +124,7 @@ This project was brought to life with the following technologies and tools:
 : Utilized for image object detection, enhancing the project's ability to interpret image content.
 
 - ![Static Badge](https://img.shields.io/badge/XGBoost-%23fafafa?style=flat)
-: The chosen machine learning algorithm for post like prediction, known for its excellent predictive capabilities.
+: The chosen machine learning algorithm for post-like prediction is known for its excellent predictive capabilities.
 
 Feel free to explore the codebase to see how these elements come together to create this portfolio website.
 
@@ -164,15 +176,15 @@ git clone https://github.com/SimplyRamin/Insta_like_prediction_310ai_competition
 ```bash
 pip install -r requirements.txt
 ```
-- Open the `credentials.json` and add your Instagram's user and password to the according keys.
+- Open the `credentials.json` and add your Instagram user and password to the according keys.
 
-*Note: please make sure that your account is available and no checkpoints is required by your account. To do this simply login with your Instagram account in a browser and bypass the confirmation of identity or any other checkpoints thrown at you by Instagram's.*
+_Note: Please make sure_ that your account is available and that no checkpoints are required by your account. To do this simply log in with your Instagram account in a browser and bypass the confirmation of identity or any other checkpoints thrown at you by Instagram's.*
 
 - Then you can run the `server.py`. This code creates an API in your local machine which you can access. Please make sure this code stays running.
 
 - Please copy the image you want to predict its like amount into the `Input` directory.
 
-- Open a new instance of a terminal and run `client.py` and follow the instructions shown at the terminal. It's fairly easy and to the point.
+- Open a new instance of a terminal run `client.py` and follow the instructions shown at the terminal. It's fairly easy and to the point.
 
 - Enjoy! :)
 
