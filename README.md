@@ -126,8 +126,6 @@ This project was brought to life with the following technologies and tools:
 - ![Static Badge](https://img.shields.io/badge/XGBoost-%23fafafa?style=flat)
 : The chosen machine learning algorithm for post-like prediction is known for its excellent predictive capabilities.
 
-Feel free to explore the codebase to see how these elements come together to create this portfolio website.
-
 
 <!-- PROJECT STRUCTURE -->
 ## Project Structure
