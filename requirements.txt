@@ -7,4 +7,4 @@ rich==13.3.5
 torch==2.8.0
 torchvision==0.15.2
 xgboost==1.7.5
-opencv-python==4.6.0
+opencv-python==4.8.1.78
